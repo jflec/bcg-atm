@@ -13,9 +13,7 @@
             "weight": 0.2,
             "condition": {
                 "canSeeSky": true,
-                "biomes": [
-                    "#cobblemon:is_swamp"
-                ]
+                "biomes": ["#cobblemon:is_swamp"]
 			}
 		}
     ]

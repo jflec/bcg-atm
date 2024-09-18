@@ -4,8 +4,8 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "lunala-1",
-            "pokemon": "lunala",
+            "id": "necrozma-1",
+            "pokemon": "necrozma",
             "type": "pokemon",
             "context": "grounded",
             "bucket": "ultra-rare",
@@ -13,23 +13,22 @@
             "weight": 0.2,
             "condition": {
                 "canSeeSky": true,
-                "biomes": [
-                    "#cobblemon:is_spooky"
-                ],
-                "timeRange": "night"
+                "biomes": ["#cobblemon:is_spooky"],
+                "timeRange": "night",
+                "neededBaseBlocks": ["#minecraft:grass_block"]
 			}
 		},
         {
-            "id": "lunala-2",
-            "pokemon": "lunala",
+            "id": "necrozma-2",
+            "pokemon": "necrozma",
             "type": "pokemon",
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "70",
             "weight": 0.4,
             "condition": {
-                "canSeeSky": true,
-                "biomes": ["#minecraft:is_end"]
+                "biomes": ["#minecraft:is_end"],
+                "neededBaseBlocks": ["#minecraft:end_stone"]
 			}
 		}
     ]

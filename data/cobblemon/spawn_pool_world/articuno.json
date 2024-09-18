@@ -4,16 +4,15 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "marshadow-1",
-      "pokemon": "marshadow",
+      "id": "articuno-1",
+      "pokemon": "articuno",
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "50-55",
-      "weight": 0.05,
+      "level": "50-70",
+      "weight": 0.8,
       "condition": {
-        "canSeeSky": false,
-        "biomes": ["#minecraft:deep_dark"]  
+        "biomes": ["#minecraft:ice_spikes"]  
       }
     }
   ]

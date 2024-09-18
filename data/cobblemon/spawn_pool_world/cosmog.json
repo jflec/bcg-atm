@@ -14,8 +14,7 @@
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "#cobblemon:is_floral"
-                ],
+                    "#cobblemon:is_floral"],
                 "timeRange": "any"
 			}
 		}

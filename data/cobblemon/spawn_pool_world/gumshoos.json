@@ -13,9 +13,7 @@
             "weight": 2,
             "condition": {
                 "canSeeSky": true,
-                "biomes": [
-                    "#cobblemon:is_plains"
-                ]
+                "biomes": ["#cobblemon:is_plains"]
 			}
 		}
     ]

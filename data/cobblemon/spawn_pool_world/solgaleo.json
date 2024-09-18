@@ -13,10 +13,7 @@
             "weight": 0.5,
             "condition": {
                 "canSeeSky": true,
-                "biomes": [
-                    "#cobblemon:is_badlands",
-                    "#cobblemon:is_savanna"
-                ],
+                "biomes": ["#cobblemon:is_badlands","#cobblemon:is_savanna"],
                 "timeRange": "morning"
 			}
 		}

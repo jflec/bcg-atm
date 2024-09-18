@@ -4,8 +4,8 @@
     "neededUninstalledMods": [],
     "spawns": [
       {
-        "id": "mesprit-1",
-        "pokemon": "mesprit",
+        "id": "regirock-1",
+        "pokemon": "regirock",
         "presets": [ "natural" ],
         "type": "pokemon",
         "context": "grounded",
@@ -14,7 +14,7 @@
         "weight": 0.1,
         "condition": {
           "canSeeSky": true,
-          "biomes": [ "#minecraft:river" ]
+          "biomes": ["#minecraft:desert"]
         }
       }
     ]

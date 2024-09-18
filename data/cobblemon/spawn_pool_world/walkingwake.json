@@ -18,7 +18,7 @@
          ],
          "timeRange": "morning",
          "neededBaseBlocks": [
-          "minecraft:sand"
+          "#minecraft:sand"
       ]
       }
     }

@@ -13,10 +13,7 @@
       "weight": 0.5,
       "condition": {
         "canSeeSky": true,
-        "biomes": [ 
-          "#cobblemon:is_floral", 
-          "#cobblemon:is_jungle" 
-        ],
+        "biomes": ["#cobblemon:is_floral","#cobblemon:is_jungle"],
         "timeRange": "noon",
         "isRaining": false
       }

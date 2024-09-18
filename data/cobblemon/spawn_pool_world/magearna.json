@@ -12,12 +12,8 @@
             "level": "50-70",
             "weight": 0.7,
             "condition": {
-                "biomes": [
-                    "#cobblemon:is_forest"
-                ],
-                "neededBaseBlocks": [
-                    "minecraft:grass_block"
-                  ]
+                "biomes": ["#cobblemon:is_forest"],
+                "neededBaseBlocks": ["minecraft:grass_block"]
 			}
 		}
     ]

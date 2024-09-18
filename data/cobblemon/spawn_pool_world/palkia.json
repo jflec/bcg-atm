@@ -12,9 +12,7 @@
       "level": "70",
       "weight": 0.4,
       "condition": {
-        "biomes": [ 
-          "#cobblemon:is_lukewarm"
-         ]  
+        "biomes": ["#cobblemon:is_lukewarm"]  
       }
     },
     {
@@ -31,9 +29,7 @@
          ],
          "timeRange": "any",
           "isRaining": false,
-          "neededBaseBlocks": [
-              "minecraft:sand"
-          ]
+          "neededBaseBlocks": ["#minecraft:sand"]
       }
     }
   ]

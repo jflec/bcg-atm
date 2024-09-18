@@ -13,11 +13,7 @@
             "weight": 4,
             "condition": {
                 "canSeeSky": true,
-                "biomes": [
-                    "#cobblemon:is_forest",
-                    "#cobblemon:is_jungle",
-                    "#minecraft:is_taiga"
-                ]
+                "biomes": ["#cobblemon:is_forest","#cobblemon:is_jungle","#minecraft:is_taiga"]
 			}
 		}
     ]

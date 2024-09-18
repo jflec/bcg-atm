@@ -16,9 +16,7 @@
       "weight": 3,
       "condition": {
         "canSeeSky": true,
-        "biomes": [
-          "#cobblemon:is_plateau"
-        ]
+        "biomes": ["#cobblemon:is_plateau"]
       }
     },
     {
@@ -34,9 +32,7 @@
       "weight": 3,
       "condition": {
         "canSeeSky": true,
-        "biomes": [
-          "#cobblemon:is_mountain"
-        ]
+        "biomes": ["#cobblemon:is_mountain"]
       }
     },
     {
@@ -52,12 +48,8 @@
       "weight": 300,
       "condition": {
         "canSeeSky": true,
-        "biomes": [
-          "#cobblemon:is_mountain"
-        ],
-        "neededBaseBlocks": [
-          "minecraft:stone"
-        ]
+        "biomes": ["#cobblemon:is_mountain"],
+        "neededBaseBlocks": ["#minecraft:stone"]
       }
     }
   ]

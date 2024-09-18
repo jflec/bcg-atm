@@ -4,17 +4,17 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "dialga-1",
-      "pokemon": "dialga",
+      "id": "mewtwo-1",
+      "pokemon": "mewtwo",
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
       "level": "70",
-      "weight": 0.4,
+      "weight": 0.2,
       "condition": {
-        "biomes": ["#cobblemon:is_peak"],
-         "timeRange": "any",
-          "isRaining": false
+        "biomes": ["#cobblemon:is_overworld"],
+         "timeRange": "afternoon",
+         "neededBaseBlocks": ["#minecraft:grass_block"]  
       }
     }
   ]
