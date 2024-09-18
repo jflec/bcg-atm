@@ -1,10 +1,11 @@
 {
-  "implemented": true,
   "name": "Slither Wing",
   "nationalPokedexNumber": 988,
   "primaryType": "bug",
   "secondaryType": "fighting",
-  "abilities": ["protosynthesis"],
+  "abilities": [
+    "protosynthesis"
+  ],
   "baseStats": {
     "hp": 85,
     "attack": 135,
@@ -12,19 +13,6 @@
     "special_attack": 85,
     "special_defence": 105,
     "speed": 81
-  },
-  "behaviour": {
-    "moving": {
-      "walk": {
-        "walkSpeed": 0.15
-      }
-    }
-  },
-  "resting": {
-    "canSleep": true,
-    "willSleepOnBed": false,
-    "depth": "normal",
-    "light": "0-4"
   },
   "catchRate": 30,
   "maleRatio": -1,
@@ -40,7 +28,9 @@
   },
   "experienceGroup": "slow",
   "eggCycles": 50,
-  "eggGroups": ["undiscovered"],
+  "eggGroups": [
+    "undiscovered"
+  ],
   "moves": [
     "1:bugbite",
     "1:ember",
@@ -65,9 +55,13 @@
     "tm:bodypress",
     "tm:bodyslam",
     "tm:brickbreak",
+    "tm:bugbite",
     "tm:bugbuzz",
     "tm:bulkup",
     "tm:closecombat",
+    "tm:curse",
+    "tm:doubleedge",
+    "tm:dualwingbeat",
     "tm:earthquake",
     "tm:endure",
     "tm:facade",
@@ -75,58 +69,46 @@
     "tm:flareblitz",
     "tm:gigadrain",
     "tm:gigaimpact",
+    "tm:heatcrash",
     "tm:heatwave",
     "tm:heavyslam",
+    "tm:highhorsepower",
     "tm:hurricane",
     "tm:hyperbeam",
     "tm:leechlife",
     "tm:lowkick",
     "tm:lowsweep",
+    "tm:lunge",
     "tm:protect",
     "tm:raindance",
     "tm:rest",
     "tm:reversal",
     "tm:sandstorm",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:stompingtantrum",
     "tm:substitute",
     "tm:sunnyday",
     "tm:takedown",
+    "tm:temperflare",
     "tm:terablast",
     "tm:trailblaze",
     "tm:uturn",
     "tm:wildcharge",
     "tm:willowisp",
-    "tm:zenheadbutt",
-    "tutor:lowsweep",
-    "tutor:lunge",
-    "tutor:morningsun",
-    "tutor:superpower"
+    "tm:zenheadbutt"
   ],
-  "labels": ["gen9", "paradox"],
+  "labels": [
+    "gen9",
+    "paradox"
+  ],
   "aspects": [],
   "height": 32,
   "weight": 920,
   "evolutions": [],
   "cannotDynamax": false,
-  "pokedex": ["cobblemon.species.slitherwing.desc"],
-  "baseScale": 1.3,
-  "hitbox": {
-    "width": 2,
-    "height": 1.3,
-    "fixed": false
-  },
-  "drops": {
-    "amount": 4,
-    "entries": [
-      {
-        "item": "minecraft:string",
-        "quantityRange": "1-3"
-      },
-      {
-        "item": "minecraft:blaze_powder",
-        "quantityRange": "0-2"
-      }
-    ]
-  }
+  "pokedex": [
+    "cobblemon.species.slitherwing.desc"
+  ],
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Banette",
   "nationalPokedexNumber": 354,
   "primaryType": "ghost",
@@ -60,7 +59,6 @@
       ],
       "height": 12,
       "weight": 130,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     }
@@ -90,11 +88,13 @@
     "52:grudge",
     "53:phantomforce",
     "tm:attract",
+    "tm:burningjealousy",
     "tm:calmmind",
     "tm:captivate",
     "tm:chargebeam",
     "tm:confide",
     "tm:confuseray",
+    "tm:curse",
     "tm:darkpulse",
     "tm:dazzlinggleam",
     "tm:doubleteam",
@@ -116,12 +116,16 @@
     "tm:icywind",
     "tm:imprison",
     "tm:infestation",
+    "tm:knockoff",
+    "tm:lashout",
     "tm:metronome",
     "tm:nastyplot",
     "tm:naturalgift",
     "tm:nightshade",
+    "tm:painsplit",
     "tm:payback",
     "tm:phantomforce",
+    "tm:poltergeist",
     "tm:pounce",
     "tm:protect",
     "tm:psybeam",
@@ -137,8 +141,10 @@
     "tm:shadowclaw",
     "tm:shockwave",
     "tm:skillswap",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:snatch",
+    "tm:spite",
     "tm:substitute",
     "tm:sunnyday",
     "tm:swagger",
@@ -147,6 +153,7 @@
     "tm:telekinesis",
     "tm:terablast",
     "tm:thief",
+    "tm:throatchop",
     "tm:thunder",
     "tm:thunderbolt",
     "tm:thunderwave",
@@ -207,8 +214,8 @@
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {
-    "width": 0.75,
-    "height": 1.25,
+    "width": 1,
+    "height": 1,
     "fixed": false
   },
   "baseFriendship": 35,
@@ -223,5 +230,15 @@
   "height": 11,
   "weight": 125,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "cobblemon:spell_tag",
+        "percentage": 5
+      }
+    ]
+  },
+  "implemented": true
 }

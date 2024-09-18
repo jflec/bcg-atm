@@ -1,29 +1,12 @@
 {
-  "implemented": true,
   "name": "Axew",
   "nationalPokedexNumber": 610,
   "primaryType": "dragon",
-  "abilities": ["rivalry", "moldbreaker", "h:unnerve"],
-  "behaviour": {
-    "resting": {
-      "canSleep": true,
-      "willSleepOnBed": true,
-      "depth": "normal",
-      "light": "0-4"
-    },
-    "moving": {
-      "canLook": true,
-      "walk": {
-        "walkSpeed": 0.25,
-        "canWalk": true
-      },
-      "swim": {
-        "swimSpeed": 0.1,
-        "canSwimInWater": false,
-        "canBreatheUnderwater": false
-      }
-    }
-  },
+  "abilities": [
+    "rivalry",
+    "moldbreaker",
+    "h:unnerve"
+  ],
   "drops": {
     "amount": 2,
     "entries": [
@@ -47,11 +30,14 @@
   },
   "catchRate": 75,
   "maleRatio": 0.5,
-  "shoulderMountable": true,
+  "shoulderMountable": false,
   "baseExperienceYield": 64,
   "experienceGroup": "slow",
   "eggCycles": 40,
-  "eggGroups": ["monster", "dragon"],
+  "eggGroups": [
+    "monster",
+    "dragon"
+  ],
   "moves": [
     "1:leer",
     "1:scratch",
@@ -151,29 +137,33 @@
     "tm:toxic",
     "tm:trailblaze",
     "tm:xscissor",
-    "tm:aquatail",
-    "tm:counter",
-    "tm:dracometeor",
-    "tm:dragonclaw",
-    "tm:dragonpulse",
-    "tm:dragonrage",
-    "tm:dualchop",
-    "tm:endeavor",
-    "tm:endure",
-    "tm:gigaimpact",
-    "tm:irontail",
-    "tm:nightslash",
-    "tm:outrage",
-    "tm:return",
-    "tm:scaleshot",
-    "tm:scratch",
-    "tm:shockwave",
-    "tm:sleeptalk",
-    "tm:snore",
-    "tm:superpower"
+    "tutor:aquatail",
+    "tutor:counter",
+    "tutor:dracometeor",
+    "tutor:dragonclaw",
+    "tutor:dragonpulse",
+    "tutor:dragonrage",
+    "tutor:dualchop",
+    "tutor:endeavor",
+    "tutor:endure",
+    "tutor:gigaimpact",
+    "tutor:irontail",
+    "tutor:nightslash",
+    "tutor:outrage",
+    "tutor:return",
+    "tutor:scaleshot",
+    "tutor:scratch",
+    "tutor:shockwave",
+    "tutor:sleeptalk",
+    "tutor:snore",
+    "tutor:superpower"
   ],
-  "labels": ["gen5"],
-  "pokedex": ["cobblemon.species.axew.desc"],
+  "labels": [
+    "gen5"
+  ],
+  "pokedex": [
+    "cobblemon.species.axew.desc"
+  ],
   "evolutions": [
     {
       "id": "axew_fraxure",
@@ -189,9 +179,9 @@
       ]
     }
   ],
-  "baseScale": 0.7,
+  "baseScale": 1,
   "hitbox": {
-    "width": 0.8,
+    "width": 1,
     "height": 1,
     "fixed": false
   },
@@ -207,5 +197,6 @@
   "height": 6,
   "weight": 180,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Altaria",
   "nationalPokedexNumber": 334,
   "primaryType": "dragon",
@@ -62,7 +61,6 @@
       ],
       "height": 15,
       "weight": 206,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     }
@@ -98,6 +96,7 @@
     "tm:acrobatics",
     "tm:aerialace",
     "tm:agility",
+    "tm:alluringvoice",
     "tm:attract",
     "tm:bodyslam",
     "tm:bravebird",
@@ -107,23 +106,29 @@
     "tm:confide",
     "tm:dazzlinggleam",
     "tm:disarmingvoice",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragonclaw",
     "tm:dragondance",
     "tm:dragonpulse",
     "tm:dreameater",
+    "tm:dualwingbeat",
     "tm:earthquake",
     "tm:echoedvoice",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:falseswipe",
+    "tm:featherdance",
     "tm:fireblast",
     "tm:firespin",
     "tm:flamethrower",
     "tm:fly",
     "tm:frustration",
     "tm:gigaimpact",
+    "tm:haze",
     "tm:heatwave",
     "tm:helpinghand",
     "tm:hiddenpower",
@@ -166,6 +171,8 @@
     "tm:toxic",
     "tm:trailblaze",
     "tm:uproar",
+    "tm:willowisp",
+    "tm:weatherball",
     "tm:willowisp",
     "tm:wonderroom",
     "tutor:aerialace",
@@ -219,8 +226,8 @@
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {
-    "width": 0.75,
-    "height": 2,
+    "width": 1,
+    "height": 1,
     "fixed": false
   },
   "baseFriendship": 50,
@@ -235,5 +242,22 @@
   "height": 11,
   "weight": 206,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:white_wool",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "minecraft:chicken"
+      },
+      {
+        "item": "cobblemon:yache_berry",
+        "percentage": 5
+      }
+    ]
+  },
+  "implemented": true
 }

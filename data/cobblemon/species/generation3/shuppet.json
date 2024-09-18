@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Shuppet",
   "nationalPokedexNumber": 353,
   "primaryType": "ghost",
@@ -62,6 +61,7 @@
     "tm:chargebeam",
     "tm:confide",
     "tm:confuseray",
+    "tm:curse",
     "tm:darkpulse",
     "tm:dazzlinggleam",
     "tm:doubleteam",
@@ -79,12 +79,15 @@
     "tm:hiddenpower",
     "tm:icywind",
     "tm:imprison",
+    "tm:lashout",
     "tm:metronome",
     "tm:nastyplot",
     "tm:naturalgift",
     "tm:nightshade",
+    "tm:painsplit",
     "tm:payback",
     "tm:phantomforce",
+    "tm:poltergeist",
     "tm:pounce",
     "tm:protect",
     "tm:psybeam",
@@ -99,8 +102,10 @@
     "tm:shadowball",
     "tm:shockwave",
     "tm:skillswap",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:snatch",
+    "tm:spite",
     "tm:substitute",
     "tm:sunnyday",
     "tm:swagger",
@@ -176,10 +181,10 @@
       ]
     }
   ],
-  "baseScale": 0.8,
+  "baseScale": 1,
   "hitbox": {
-    "width": 0.75,
-    "height": 0.75,
+    "width": 1,
+    "height": 1,
     "fixed": false
   },
   "baseFriendship": 35,
@@ -194,5 +199,19 @@
   "height": 6,
   "weight": 23,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:phantom_membrane",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:spell_tag",
+        "percentage": 2.5
+      }
+    ]
+  },
+  "implemented": true
 }
