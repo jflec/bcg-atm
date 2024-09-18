@@ -1,55 +1,61 @@
 {
-    "cobblemon.species.darmanitanzen.name": "Darmanitan",
-    "cobblemon.species.darmanitanzen.desc1": "Through meditation, it calms its raging spirit and hones its psychic powers.",
-    "cobblemon.species.darmanitanzen.desc2": "When wounded, it stops moving. It goes as still as stone to meditate, sharpening its mind and spirit.",
+  "cobblemon.species.darmanitanzen.name": "Darmanitan",
+  "cobblemon.species.darmanitanzen.desc1": "Through meditation, it calms its raging spirit and hones its psychic powers.",
+  "cobblemon.species.darmanitanzen.desc2": "When wounded, it stops moving. It goes as still as stone to meditate, sharpening its mind and spirit.",
 
-    "cobblemon.species.galardarmanitanzen.name": "Darmanitan",
-    "cobblemon.species.galardarmanitanzen.desc1": "Anger has reignited its atrophied flame sac. This Pokémon spews fire everywhere as it rampages indiscriminately.",
-    "cobblemon.species.galardarmanitanzen.desc2": "Darmanitan takes this form when enraged. It won’t stop spewing flames until its rage has settled, even if its body starts to melt."
-	    "cobblemon.species.palafinhero.name": "Palafin",
-    "cobblemon.species.palafinhero.desc1": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It’s also generating electricity.",
-    "cobblemon.species.palafinhero.desc2": "It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
-	
-	"cobblemon.species.poltchageist.name": "Poltchageist",
-    "cobblemon.species.poltchageist.desc1": "Trainers poltchageist trusts will be allowed to experience its distinctive flavor and aroma firsthand by sampling just a tiny bit of its green tea.",
-    "cobblemon.species.poltchageist.desc2": "These Pokémon multiply by creeping into teapots and pouring themselves into leftover tea.",
-	
-	"cobblemon.species.dipplin.name": "Dipplin",
-    "cobblemon.species.dipplin.desc1": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it’s just an apple and nothing more.",
-    "cobblemon.species.dipplin.desc2": "As soon as it’s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
-	
-	"cobblemon.species.sinistcha.name": "Sinistcha",
-    "cobblemon.species.sinistcha.desc1": "Trainers poltchageist trusts will be allowed to experience its distinctive flavor and aroma firsthand by sampling just a tiny bit of its green tea.",
-    "cobblemon.species.sinistcha.desc2": "These Pokémon multiply by creeping into teapots and pouring themselves into leftover tea.",
-	
-	"cobblemon.species.pecharunt.name": "Pecharunt",
-    "cobblemon.species.pecharunt.desc1": "Undiscovered",
-    "cobblemon.species.pecharunt.desc2": "Undiscovered",
-	
-		
-	"cobblemon.species.ogerpon.name": "Ogerpon",
-    "cobblemon.species.ogerpon.desc1": "Undiscovered",
-    "cobblemon.species.ogerpon.desc2": "Undiscovered",
-	
-	"cobblemon.species.ogerponteal.name": "Ogerpon",
-    "cobblemon.species.ogerponteal.desc1": "Undiscovered",
-    "cobblemon.species.ogerponteal.desc2": "Undiscovered",
-	
-	"cobblemon.species.ogerponfire.name": "Ogerpon",
-    "cobblemon.species.ogerponfire.desc1": "Undiscovered",
-    "cobblemon.species.ogerponfire.desc2": "Undiscovered",
-	
-	"cobblemon.species.ogerponwater.name": "Ogerpon",
-    "cobblemon.species.ogerponwater.desc1": "Undiscovered",
-    "cobblemon.species.ogerponwater.desc2": "Undiscovered",
-	
-	"cobblemon.species.ogerponrock.name": "Ogerpon",
-    "cobblemon.species.ogerponrock.desc1": "Undiscovered",
-    "cobblemon.species.ogerponeock.desc2": "Undiscovered",
-	
-	"cobblemon.move.ivycudgel": "Ivy Cudgel",
-	
-	"cobblemon.species.shayminsky.name": "Shaymin",
-    "cobblemon.species.shayminsky.desc1": "Undiscovered",
-    "cobblemon.species.shayminsky.desc2": "Undiscovered"
+  "cobblemon.species.galardarmanitanzen.name": "Darmanitan",
+  "cobblemon.species.galardarmanitanzen.desc1": "Anger has reignited its atrophied flame sac. This Pokémon spews fire everywhere as it rampages indiscriminately.",
+  "cobblemon.species.galardarmanitanzen.desc2": "Darmanitan takes this form when enraged. It won’t stop spewing flames until its rage has settled, even if its body starts to melt.",
+  "cobblemon.species.palafinhero.name": "Palafin",
+  "cobblemon.species.palafinhero.desc1": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It’s also generating electricity.",
+  "cobblemon.species.palafinhero.desc2": "It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
+
+  "cobblemon.species.poltchageist.name": "Poltchageist",
+  "cobblemon.species.poltchageist.desc1": "Trainers poltchageist trusts will be allowed to experience its distinctive flavor and aroma firsthand by sampling just a tiny bit of its green tea.",
+  "cobblemon.species.poltchageist.desc2": "These Pokémon multiply by creeping into teapots and pouring themselves into leftover tea.",
+
+  "cobblemon.species.dipplin.name": "Dipplin",
+  "cobblemon.species.dipplin.desc1": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it’s just an apple and nothing more.",
+  "cobblemon.species.dipplin.desc2": "As soon as it’s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
+
+  "cobblemon.species.sinistcha.name": "Sinistcha",
+  "cobblemon.species.sinistcha.desc1": "Trainers poltchageist trusts will be allowed to experience its distinctive flavor and aroma firsthand by sampling just a tiny bit of its green tea.",
+  "cobblemon.species.sinistcha.desc2": "These Pokémon multiply by creeping into teapots and pouring themselves into leftover tea.",
+
+  "cobblemon.species.pecharunt.name": "Pecharunt",
+  "cobblemon.species.pecharunt.desc1": "Undiscovered",
+  "cobblemon.species.pecharunt.desc2": "Undiscovered",
+
+  "cobblemon.species.ogerpon.name": "Ogerpon",
+  "cobblemon.species.ogerpon.desc1": "Undiscovered",
+  "cobblemon.species.ogerpon.desc2": "Undiscovered",
+
+  "cobblemon.species.ogerponteal.name": "Ogerpon",
+  "cobblemon.species.ogerponteal.desc1": "Undiscovered",
+  "cobblemon.species.ogerponteal.desc2": "Undiscovered",
+
+  "cobblemon.species.ogerponfire.name": "Ogerpon",
+  "cobblemon.species.ogerponfire.desc1": "Undiscovered",
+  "cobblemon.species.ogerponfire.desc2": "Undiscovered",
+
+  "cobblemon.species.ogerponwater.name": "Ogerpon",
+  "cobblemon.species.ogerponwater.desc1": "Undiscovered",
+  "cobblemon.species.ogerponwater.desc2": "Undiscovered",
+
+  "cobblemon.species.ogerponrock.name": "Ogerpon",
+  "cobblemon.species.ogerponrock.desc1": "Undiscovered",
+  "cobblemon.species.ogerponeock.desc2": "Undiscovered",
+
+  "cobblemon.move.ivycudgel": "Ivy Cudgel",
+
+  "cobblemon.species.shayminsky.name": "Shaymin",
+  "cobblemon.species.shayminsky.desc1": "Undiscovered",
+  "cobblemon.species.shayminsky.desc2": "Undiscovered",
+
+  "cobblemon.species.buzzwole.name": "Buzzwole",
+  "cobblemon.species.buzzwole.desc1": "Although it’s alien to this world and a danger here",
+  "cobblemon.species.buzzwole.desc2": "it’s apparently a common organism in the world where it normally lives.",
+  "cobblemon.species.yveltal.name": "Yveltal",
+  "cobblemon.species.yveltal.desc1": "When its life comes to an end, it absorbs the life energy of ",
+  "cobblemon.species.yveltal.desc2": "every living thing and turns into a cocoon once more."
 }

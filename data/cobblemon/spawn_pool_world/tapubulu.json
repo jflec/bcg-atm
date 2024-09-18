@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "tapubulu-1",
+      "pokemon": "tapubulu",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-70",
+      "weight": 0.2,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": ["#cobblemon:is_forest", "#cobblemon:is_jungle"]
+      }
+    }
+  ]
+}

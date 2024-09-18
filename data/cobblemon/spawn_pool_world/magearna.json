@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "magearna-1",
+            "pokemon": "magearna",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "50-70",
+            "weight": 0.7,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_forest"
+                ],
+                "neededBaseBlocks": [
+                    "minecraft:grass_block"
+                  ]
+			}
+		}
+    ]
+}

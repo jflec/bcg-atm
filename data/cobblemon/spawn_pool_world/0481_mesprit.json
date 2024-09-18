@@ -1,0 +1,21 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+      {
+        "id": "mesprit-1",
+        "pokemon": "mesprit",
+        "presets": [ "natural" ],
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "ultra-rare",
+        "level": "50-75",
+        "weight": 0.1,
+        "condition": {
+          "canSeeSky": true,
+          "biomes": [ "minecraft:river" ]
+        }
+      }
+    ]
+  }
