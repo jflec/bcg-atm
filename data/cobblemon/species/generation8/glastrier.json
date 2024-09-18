@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Glastrier",
   "nationalPokedexNumber": 896,
   "primaryType": "ice",
@@ -46,6 +45,8 @@
     "tm:bulldoze",
     "tm:closecombat",
     "tm:crunch",
+    "tm:curse",
+    "tm:doubleedge",
     "tm:endure",
     "tm:facade",
     "tm:gigaimpact",
@@ -57,12 +58,14 @@
     "tm:iciclespear",
     "tm:icywind",
     "tm:irondefense",
+    "tm:lashout",
     "tm:megahorn",
     "tm:mudshot",
     "tm:outrage",
     "tm:payback",
     "tm:protect",
     "tm:rest",
+    "tm:roar",
     "tm:round",
     "tm:scaryface",
     "tm:sleeptalk",
@@ -81,11 +84,9 @@
     "tm:trailblaze",
     "tm:uproar",
     "tm:zenheadbutt",
-    "tutor:doubleedge",
     "tutor:iciclecrash",
     "tutor:lashout",
-    "tutor:swordsdance",
-    "tutor:taunt"
+    "tutor:swordsdance"
   ],
   "labels": [
     "gen8",
@@ -95,7 +96,7 @@
     "cobblemon.species.glastrier.desc"
   ],
   "evolutions": [],
-  "baseScale": 0.6,
+  "baseScale": 1,
   "hitbox": {
     "width": 1,
     "height": 1,
@@ -113,5 +114,6 @@
   "height": 22,
   "weight": 8000,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

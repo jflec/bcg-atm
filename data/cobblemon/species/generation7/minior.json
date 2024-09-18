@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Minior",
   "nationalPokedexNumber": 774,
   "primaryType": "rock",
@@ -15,11 +14,6 @@
     "special_defence": 60,
     "speed": 120
   },
-
-  "features": [
-    	"core"
-  ],
-
   "catchRate": 30,
   "maleRatio": -1,
   "shoulderMountable": false,
@@ -40,6 +34,7 @@
     "24:stealthrock",
     "29:takedown",
     "31:autotomize",
+    "31:rockpolish",
     "36:cosmicpower",
     "38:powergem",
     "43:doubleedge",
@@ -51,36 +46,52 @@
     "tm:calmmind",
     "tm:chargebeam",
     "tm:confide",
+    "tm:confuseray",
     "tm:dazzlinggleam",
+    "tm:doubleedge",
     "tm:doubleteam",
+    "tm:earthpower",
     "tm:earthquake",
+    "tm:endeavor",
+    "tm:endure",
     "tm:explosion",
     "tm:facade",
     "tm:frustration",
     "tm:gigaimpact",
+    "tm:gravity",
     "tm:gyroball",
     "tm:hiddenpower",
     "tm:hyperbeam",
+    "tm:ironhead",
     "tm:lightscreen",
+    "tm:meteorbeam",
+    "tm:powergem",
     "tm:protect",
     "tm:psychic",
     "tm:psychup",
     "tm:reflect",
     "tm:rest",
     "tm:return",
+    "tm:rockblast",
     "tm:rockpolish",
     "tm:rockslide",
     "tm:rocktomb",
     "tm:round",
     "tm:safeguard",
     "tm:sandstorm",
+    "tm:scorchingsands",
     "tm:sleeptalk",
     "tm:solarbeam",
+    "tm:stealthrock",
     "tm:stoneedge",
     "tm:substitute",
     "tm:swagger",
+    "tm:swift",
+    "tm:takedown",
+    "tm:terablast",
     "tm:toxic",
     "tm:uturn",
+    "tm:zenheadbutt",
     "tutor:endeavor",
     "tutor:gravity",
     "tutor:ironhead",
@@ -100,8 +111,8 @@
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {
-    "width": 0.75,
-    "height": 1.25,
+    "width": 1,
+    "height": 1,
     "fixed": false
   },
   "baseFriendship": 70,
@@ -115,6 +126,61 @@
   },
   "height": 3,
   "weight": 3,
+  "forms": [
+    {
+      "name": "Meteor",
+      "primaryType": "rock",
+      "secondaryType": "flying",
+      "abilities": [
+        "shieldsdown"
+      ],
+      "baseStats": {
+        "hp": 60,
+        "attack": 60,
+        "defence": 100,
+        "special_attack": 60,
+        "special_defence": 100,
+        "speed": 60
+      },
+      "catchRate": 30,
+      "maleRatio": -1,
+      "baseExperienceYield": 175,
+      "baseFriendship": 70,
+      "evYield": {
+        "hp": 0,
+        "attack": 0,
+        "defence": 1,
+        "special_attack": 0,
+        "special_defence": 1,
+        "speed": 0
+      },
+      "experienceGroup": "medium_slow",
+      "eggCycles": 25,
+      "eggGroups": [
+        "mineral"
+      ],
+      "labels": [
+        "gen7"
+      ],
+      "aspects": [
+        "meteor"
+      ],
+      "height": 3,
+      "weight": 400,
+      "cannotDynamax": false,
+      "battleOnly": true,
+      "drops": {
+        "amount": 1,
+        "entries": [
+          {
+            "item": "cobblemon:float_stone",
+            "percentage": 5
+          }
+        ]
+      }
+    }
+  ],
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

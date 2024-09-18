@@ -4,7 +4,9 @@
   "nationalPokedexNumber": 337,
   "primaryType": "rock",
   "secondaryType": "psychic",
-  "abilities": ["levitate"],
+  "abilities": [
+    "levitate"
+  ],
   "baseStats": {
     "hp": 90,
     "attack": 55,
@@ -19,7 +21,16 @@
   "baseExperienceYield": 161,
   "experienceGroup": "fast",
   "eggCycles": 25,
-  "eggGroups": ["mineral"],
+  "eggGroups": [
+    "mineral"
+  ],
+  "behaviour": {
+    "moving": {
+      "fly": {
+        "canFly": true
+      }
+    }
+  },
   "moves": [
     "1:confusion",
     "1:harden",
@@ -163,13 +174,17 @@
     "tutor:telekinesis",
     "tutor:zenheadbutt"
   ],
-  "labels": ["gen3"],
-  "pokedex": ["cobblemon.species.lunatone.desc"],
+  "labels": [
+    "gen3"
+  ],
+  "pokedex": [
+    "cobblemon.species.lunatone.desc"
+  ],
   "evolutions": [],
-  "baseScale": 1,
+  "baseScale": 0.8,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 1.15,
+    "height": 1.7,
     "fixed": false
   },
   "baseFriendship": 50,
