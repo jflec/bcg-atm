@@ -1,8 +1,8 @@
-All credit goes to the original authors.
+**All credit goes to the original authors.**
 
-BigChadGuys Plus (The Modpack) includes all individual projects to ensure authors receive full credit. "AllTheMons - BCG Modified" simply combines each project for ease of development.
+**BigChadGuys Plus** includes all individual projects to ensure authors receive full credit. "AllTheMons - BCG Modified" simply combines each project for ease of development.
 
-BigChadGuys makes no claim of ownership over these packs.
+**BigChadGuys makes no claim of ownership over these packs.**
 
 **AllTheMons** was originally created by @easysqueeze.  
 **AllTheMons Discord**: [Join here](https://discord.gg/gddMDWX2nS)
@@ -11,18 +11,18 @@ BigChadGuys makes no claim of ownership over these packs.
 
 **A huge thank you to all of the contributors:**
 
-- **Allone** (allone_the_duck), the creator of *Allone's Additions*
-- **ASHISK** (ashisk), the creator of *Ashimons*
-- **BeeZy** (beezymc), one of the creators of *LackingMons*
-- **Bwavii** (bwavi), the creator of *WaviMons*
-- **El Pigeon** (elpigeon), the creator of *Pigeon's PokePack*
-- **Genotype** (genotypexd), the creator of *GenoMons*
-- **IZetyXX** (izetyxx), one of the creators of *LackingMons*
-- **Kale** (kylbrez), the creator of *Kale's Collection*
-- **LegenTM** (legentm), the creator of *HiddenMons*
-- **NetImmerse** (netimmerse), the creator of *The Jewel Pokemon*
-- **Raspix** (raspix), the creator of *CobbleCats*
-- **RedRibbon** (redriibbon), the creator of *MissingMons*
-- **Salt** (saltdan), the creator of *SaltMons*
-- **YaBoiBruno**, the creator of *MoreMons*
-- **iMystxc-dev**, the creator of *MysticMons*
+- **Allone** (allone_the_duck), the creator of _Allone's Additions_
+- **ASHISK** (ashisk), the creator of _Ashimons_
+- **BeeZy** (beezymc), one of the creators of _LackingMons_
+- **Bwavii** (bwavi), the creator of _WaviMons_
+- **El Pigeon** (elpigeon), the creator of _Pigeon's PokePack_
+- **Genotype** (genotypexd), the creator of _GenoMons_
+- **IZetyXX** (izetyxx), one of the creators of _LackingMons_
+- **Kale** (kylbrez), the creator of _Kale's Collection_
+- **LegenTM** (legentm), the creator of _HiddenMons_
+- **NetImmerse** (netimmerse), the creator of _The Jewel Pokemon_
+- **Raspix** (raspix), the creator of _CobbleCats_
+- **RedRibbon** (redriibbon), the creator of _MissingMons_
+- **Salt** (saltdan), the creator of _SaltMons_
+- **YaBoiBruno**, the creator of _MoreMons_
+- **iMystxc-dev**, the creator of _MysticMons_
