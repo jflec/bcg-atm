@@ -1,0 +1,64 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "lunatone-1",
+            "pokemon": "lunatone",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "15-57",
+            "weight": 1,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_hills"
+                ],
+                "timeRange": "night"
+            }
+        },
+        {
+            "id": "lunatone-2",
+            "pokemon": "lunatone",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "15-57",
+            "weight": 1,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_arid"
+                
+                ],
+                "timeRange": "night"
+
+            }
+        },
+        {
+            "id": "lunatone-3",
+            "pokemon": "lunatone",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "15-57",
+            "weight": 3,
+            "condition": {
+                "biomes": [
+                    "#minecraft:is_end"
+                ]
+            }
+        }
+    ]
+}

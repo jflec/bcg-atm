@@ -1,0 +1,79 @@
+{
+    "enabled": "true",
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "ironbundle-1",
+            "pokemon": "ironbundle",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-70",
+            "weight": 3,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_freezing",
+		    "#cobblemon:is_glacial",
+		    "#cobblemon:is_tundra"
+                ]
+            }
+        },
+	 {
+            "id": "ironbundle-2",
+            "pokemon": "ironbundle",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-70",
+            "weight": 0.5,
+            "condition": {
+                "biomes": [
+                    "#minecraft:is_end"
+                ]
+            }
+        },
+	 {
+            "id": "ironbundle-3",
+            "pokemon": "ironbundle",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-70",
+            "weight": 10,
+            "condition": {
+                "biomes": [
+                    "#minecraft:is_end"
+                ],
+           	    "neededBaseBlocks": ["minecraft:snow_layer"]
+            }
+        },
+        {
+            "id": "ironbundle-4",
+            "pokemon": "ironbundle",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "60-70",
+            "weight": 5,
+            "condition": {
+                "biomes": [
+                    "betterend:crystal_mountains",
+		    "betterend:ice_starfield"
+                ]
+            }
+        }
+    ]
+}

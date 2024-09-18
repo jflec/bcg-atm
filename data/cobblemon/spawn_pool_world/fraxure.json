@@ -1,0 +1,70 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "fraxure-1",
+            "pokemon": "fraxure",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "24-47",
+            "weight": 1,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_mountain",
+                    "#minecraft:is_taiga",
+                    "terralith:alpine_highlands" 
+                ]
+            }
+        },
+        {
+            "id": "fraxure-2",
+            "pokemon": "fraxure",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "24-47",
+            "weight": 0.9,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "minY": 0
+            },
+            "anticondition": {
+                "biomes": [
+                    "#cobblemon:is_deep_dark",
+                    "#cobblemon:is_mountain"
+                ]
+            }
+        },
+        {
+            "id": "fraxure-3",
+            "pokemon": "fraxure",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "36-48",
+            "weight": 2,
+            "condition": {
+                "biomes": [
+                    "betterend:dragon_graveyards"
+                ]
+            }
+        }
+    ]
+}

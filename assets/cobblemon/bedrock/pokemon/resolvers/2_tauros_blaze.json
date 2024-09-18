@@ -1,0 +1,28 @@
+{
+    "species": "cobblemon:tauros",
+    "order": 2,
+    "variations": [
+        {
+            "aspects": [
+                "paldean-breed-blaze"
+            ],
+            "model": "cobblemon:tauros_blaze.geo",
+            "poser": "cobblemon:tauros_blaze",
+            "texture": "cobblemon:textures/pokemon/tauros/tauros_blaze.png",
+            "layers": [
+                {
+                    "name": "emissive",
+                    "texture": "cobblemon:textures/pokemon/tauros/tauros_blaze_emissive.png",
+                    "emissive": true
+                }
+            ]
+        },
+        {
+            "aspects": [
+                "paldean-breed-blaze",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/tauros/tauros_blaze_shiny.png"
+        }
+    ]
+}

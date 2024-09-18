@@ -1,0 +1,38 @@
+{
+    "portraitScale": 0.8,
+    "portraitTranslation": [ 0, 0.8, 0 ],
+    "profileScale": 0.8,
+    "profileTranslation": [ 0, 0.8, 0 ],
+    "poses": {
+      "standing": {
+        "poseName": "cyclizar",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "look",
+          "bedrock(cyclizar, ground_idle)"
+        ]
+      },
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": [ "WALK" ],
+        "animations": [ "bedrock(cyclizar, ground_walk)" ]
+      },
+   "swimming": {
+    "poseName": "swimming",
+    "transformTicks": 10,
+    "poseTypes": [
+      "SWIM"
+    ],
+    "animations": [
+      "bedrock(cyclizar, ground_walk)"
+    ]
+  }
+}
+}

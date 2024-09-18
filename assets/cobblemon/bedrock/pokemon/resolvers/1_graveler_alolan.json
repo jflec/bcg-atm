@@ -1,0 +1,21 @@
+{
+    "species": "cobblemon:graveler",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "alolan"
+            ],
+            "model": "cobblemon:graveler_alolan.geo",
+            "poser": "cobblemon:graveler",
+            "texture": "cobblemon:textures/pokemon/graveler/graveler_alolan.png"
+        },
+        {
+            "aspects": [
+                "alolan",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/graveler/graveler_alolan_shiny.png"
+        }
+    ]
+}

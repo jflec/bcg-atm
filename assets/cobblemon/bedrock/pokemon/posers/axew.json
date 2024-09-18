@@ -1,0 +1,84 @@
+{
+  "portraitScale": 2,
+  "portraitTranslation": [0, -0.55, 0],
+  "profileScale": 1,
+  "profileTranslation": [0, 0.1, 0],
+  "animations": {
+    "faint": "q.bedrock_primary('axew', 'faint', q.curve('one'))",
+    "cry": "q.bedrock_stateful('axew', 'cry')",
+    "recoil": "q.bedrock_stateful('axew', 'recoil')",
+    "physical": "q.bedrock_primary('axew', 'physical', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_primary('axew', 'special', q.curve('symmetrical_wide'))",
+    "status": "q.bedrock_primary('axew', 'status', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND", "WALK"],
+      "isBattle": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('axew', 'battle_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('axew', 'blink')",
+        "q.bedrock_quirk('axew', 'look_around')"
+      ]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('axew', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('axew', 'blink')",
+        "q.bedrock_quirk('axew', 'look_around')"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('axew', 'ground_walk')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('axew', 'blink')"
+      ]
+    },
+    "float": {
+      "poseTypes": ["FLOAT"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('axew', 'ground_walk')"
+      ]
+    },
+    "swim": {
+      "poseTypes": ["SWIM"],
+      "animations": [
+        "q.look')",
+        "q.bedrock('axew', 'ground_walk')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('axew', 'sleep')"]
+    },
+    "shoulder_left": {
+      "poseName": "shoulder_left",
+      "transformTicks": 5,
+      "poseTypes": [ "SHOULDER_LEFT" ],
+      "animations": [
+        "bedrock(axew, shoulder_left)"
+      ]
+    },
+    "shoulder_right": {
+      "poseName": "shoulder_right",
+      "transformTicks": 5,
+      "poseTypes": [ "SHOULDER_RIGHT" ],
+      "animations": [
+        "bedrock(axew, shoulder_right)"
+      ]
+    }
+  }
+}

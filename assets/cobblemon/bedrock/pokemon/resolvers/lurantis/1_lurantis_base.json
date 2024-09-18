@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:lurantis",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:lurantis2",
+      "model": "cobblemon:lurantis2.geo",
+      "texture": "cobblemon:textures/pokemon/lurantis/lurantis.png",
+      "layers": [ 
+	  {
+        }
+		]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/lurantis/lurantis_shiny.png",
+      "layers": [
+	   {
+        }
+	  ]
+    }
+  ]
+}

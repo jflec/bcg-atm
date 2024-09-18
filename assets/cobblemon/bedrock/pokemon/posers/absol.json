@@ -1,0 +1,132 @@
+{
+  "portraitScale": 1.4,
+  "portraitTranslation": [ 0, -0.3, 0],
+  "profileScale": 1,
+  "profileTranslation": [ 0, 0.3, 0],
+  "cry": "bedrock(absol, cry)",
+  "faint": "bedrock(absol, faint, true)",
+  "poses": {
+	  "battle-idle":{
+	  "poseName": "battle-idle",
+      "transformTicks": 10,
+      "poseTypes": [
+		    "STAND"
+	    ],
+	  "isBattle": true,
+	  "isTouchingWater":false,
+	  "animations": ["bedrock(absol, battle_idle)"],
+	  "quirks":[
+	  {
+		  "name": "blink",
+          "animations": ["bedrock(absol, blink)"]
+	  }
+	  ]
+	},
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+	    "isBattle": false,
+      "poseTypes": [
+        "STAND",
+        "PORTRAIT",
+		    "PROFILE",
+		    "NONE"
+      ],
+      "animations": [
+        "bedrock(absol, ground_idle)"
+      ],  
+	  "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(absol, blink)"]
+          }
+	  ]
+  },
+	"moving":{
+		"poseName": "moving",
+		"transformTicks": 10,
+		"poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "bedrock(absol, ground_walk)"
+      ],  
+	  "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(absol, blink)"]
+          }
+	  ]
+	},
+	"floating": {
+      "poseName": "floating",
+      "transformTicks": 10,
+	  "isSubmergedInWater": true,
+      "poseTypes": ["FLOAT"],
+      "animations": [
+        "bedrock(absol, water_idle)"
+      ],
+	  "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(absol, blink)"]
+          }
+	  ]	  
+	},
+	  "swimming": {
+      "poseName": "swimming",
+      "transformTicks": 10,
+	  "isSubmergedInWater": true,
+      "poseTypes": ["SWIM"],
+      "animations": [
+        "bedrock(absol, water_swim)"
+      ],  
+	  "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(absol, blink)"]
+          }
+	  ]
+	  },
+	  "water_surface_idle": {
+      "poseName": "surface_idle",
+      "transformTicks": 10,
+	  "isSubmergedInWater": false,
+      "poseTypes": ["FLOAT"],
+      "animations": [
+        "bedrock(absol, surfacewater_idle)"
+      ],
+	  "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(absol, blink)"]
+          }
+	  ]	  
+	},
+	"water_surface_swim": {
+      "poseName": "surface_swim",
+      "transformTicks": 10,
+	  "isSubmergedInWater": false,
+      "poseTypes": ["FLOAT"],
+      "animations": [
+        "bedrock(absol, surfacewater_idle)"
+      ],
+	  "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(absol, blink)"]
+          }
+	  ]	  
+	},
+	"sleeping":{
+		"poseName": "sleeping",
+		"transformTicks": 10,
+		"poseTypes": [
+        "SLEEP"
+      ],
+      "animations": [
+        "bedrock(absol, ground_idle)"
+      ]
+	}
+}
+}

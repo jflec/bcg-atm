@@ -1,0 +1,66 @@
+{
+    "head": "body",
+    "portraitScale": 1.5,
+    "portraitTranslation": [0, 1, 0 ],
+    "profileScale": 0.8,
+    "profileTranslation": [ 0, 1, 0 ],
+	"cry": "bedrock(solrock, cry)",
+    "faint": "bedrock(solrock, faint)",
+    "poses": {
+
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "bedrock(solrock, ground_idle)"
+        ],
+      "quirks": [
+        {
+          "name": "blink",
+          "loopTimes": 1,
+          "minSecondsBetweenOccurrences": 8,
+          "maxSecondsBetweenOccurrences": 20,
+          "animations": ["bedrock(solrock, blink)"]
+        }
+      ],
+	  "transformedParts": [
+         {
+           "part": "body",
+           "position": [0, 15.5, 0],
+           "isVisible": true
+         }
+        ]
+      },
+
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": [ "WALK" ],
+        "animations": [ 
+          "bedrock(solrock, ground_walk)"
+        ],
+      "quirks": [
+        {
+          "name": "blink",
+          "loopTimes": 1,
+          "minSecondsBetweenOccurrences": 8,
+          "maxSecondsBetweenOccurrences": 20,
+          "animations": ["bedrock(solrock, blink)"]
+        }
+      ],
+	  "transformedParts": [
+         {
+           "part": "body",
+           "position": [0, 15.5, 0],
+           "isVisible": true
+         }
+        ]
+      }
+    }
+  }

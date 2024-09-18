@@ -1,0 +1,21 @@
+{
+    "species": "cobblemon:mrmime",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "galarian"
+            ],
+            "model": "cobblemon:mrmime_galarian.geo",
+            "poser": "cobblemon:mrmime",
+            "texture": "cobblemon:textures/pokemon/mrmime/mrmime_galarian.png"
+        },
+        {
+            "aspects": [
+                "galarian",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/mrmime/mrmime_galarian_shiny.png"
+        }
+    ]
+}

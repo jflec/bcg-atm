@@ -1,0 +1,93 @@
+{
+    "head": "head",
+    "cry": "bedrock(milotic, cry)",
+    "portraitScale": 2,
+    "portraitTranslation": [
+        -0.2,
+        1.1,
+        0
+    ],
+    "profileScale": 0.5,
+    "profileTranslation": [
+        -0.1,
+        1,
+        0
+    ],
+    "poses": {
+        "standing": {
+            "poseName": "standing",
+            "transformTicks": 10,
+            "poseTypes": [
+                "STAND",
+                "NONE",
+                "PORTRAIT",
+                "PROFILE"
+            ],
+            "animations": [
+                "bedrock(milotic, ground_idle)"
+            ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(milotic, blink)"
+         ]
+       }
+     ]
+        },
+        "walking": {
+            "poseName": "walking",
+            "transformTicks": 10,
+            "poseTypes": [
+                "WALK"
+            ],
+            "animations": [
+                "bedrock(milotic, ground_walk)"
+            ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(milotic, blink)"
+         ]
+       }
+     ]
+        },
+   "swimming": {
+     "poseName": "swimming",
+     "transformTicks": 10,
+     "poseTypes": [
+       "SWIM"
+     ],
+     "animations": [
+       "bedrock(milotic, water_swim)"
+     ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(milotic, blink)"
+         ]
+       }
+     ]
+   },
+   "floating": {
+     "poseName": "floating",
+     "transformTicks": 10,
+     "poseTypes": [
+       "FLOAT"
+     ],
+     "animations": [
+       "bedrock(milotic, water_idle)"
+     ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(milotic, blink)"
+         ]
+       }
+     ]
+   }
+    }
+}

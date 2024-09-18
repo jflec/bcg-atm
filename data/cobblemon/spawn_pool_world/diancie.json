@@ -1,0 +1,98 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "diancie-1",
+      "pokemon": "diancie",
+      "presets": [
+        "gemstones"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "35-55",
+      "weight": 15,
+      "condition": {
+        "canSeeSky": false,
+        "biomes": [
+          "#cobblemon:is_overworld"
+        ],
+        "anticondition": {
+          "biomes": [
+            "#cobblemon:is_lush"
+          ]
+        }
+      }
+    },
+    {
+      "id": "diancie-2",
+      "pokemon": "diancie",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "30-45",
+      "weight": 3,
+      "condition": {
+        "canSeeSky": false,
+        "biomes": [
+          "#cobblemon:is_cave"
+        ],
+        "anticondition": {
+          "biomes": [
+            "#cobblemon:is_lush"
+          ]
+        }
+      }
+    },
+    {
+      "id": "diancie-3",
+      "pokemon": "diancie",
+      "presets": [
+        "natural",
+		"wild"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "5-24",
+      "weight": 1.5,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_mountain"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#cobblemon:is_deep_dark",
+          "#cobblemon:is_lush"
+        ]
+      }
+    },
+    {
+      "id": "diancie-4",
+      "pokemon": "diancie",
+      "presets": [
+        "deepslate"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "30-45",
+      "weight": 4.5,
+      "condition": {
+        "canSeeSky": false,
+        "anticondition": {
+          "biomes": [
+            "#cobblemon:is_lush"
+          ]
+        }
+      }
+    }
+  ]
+}

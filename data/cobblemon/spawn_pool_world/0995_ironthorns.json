@@ -1,0 +1,25 @@
+{
+    "enabled": "true",
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "ironthorns",
+            "pokemon": "ironthorns",
+            "presets": [],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "70",
+            "weight": 0.1,
+            "condition": {
+                "canSeeSky": false,
+                "biomes": [
+                    "minecraft:lush_caves"
+                    
+                ],
+                "neededNearbyBlocks": ["minecraft:lightning_rod"]
+            }
+        }
+    ]
+}

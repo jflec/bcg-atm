@@ -1,0 +1,66 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "solrock-1",
+            "pokemon": "solrock",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "15-57",
+            "weight": 1,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_hills"
+                ],
+                "timeRange": "day"
+
+            }
+        },
+        {
+            "id": "solrock-2",
+            "pokemon": "solrock",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "15-57",
+            "weight": 1,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_arid"
+                ],
+                "timeRange": "day"
+
+            }
+        },
+        {
+            "id": "solrock-3",
+            "pokemon": "solrock",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "15-57",
+            "weight": 3,
+            "condition": {
+                "biomes": [
+                    "#minecraft:is_end"
+                
+                ]
+                
+            }
+        }
+    ]
+}

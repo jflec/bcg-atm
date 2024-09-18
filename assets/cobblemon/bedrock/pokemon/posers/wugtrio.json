@@ -1,0 +1,79 @@
+{
+    "portraitScale": 3,
+    "portraitTranslation": [
+        1.55,
+        0,
+        0
+    ],
+    "profileScale": 0.7,
+    "profileTranslation": [
+        0.1,
+        0.6,
+        0
+    ],
+    "poses": {
+        "standing": {
+            "poseName": "standing",
+            "transformTicks": 10,
+            "poseTypes": [
+                "STAND",
+                "NONE",
+                "PORTRAIT",
+                "PROFILE"
+            ],
+            "animations": [
+                "bedrock(wugtrio, ground_idle)"
+            ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(wugtrio, blink)"
+         ]
+       },
+       {
+         "name": "blink2",
+         "animations": [
+           "bedrock(wugtrio, blink2)"
+         ]
+       },
+       {
+         "name": "blink3",
+         "animations": [
+           "bedrock(wugtrio, blink3)"
+         ]
+       }
+     ]
+        },
+        "walking": {
+            "poseName": "walking",
+            "transformTicks": 10,
+            "poseTypes": [
+                "WALK"
+            ],
+            "animations": [
+                "bedrock(wugtrio, ground_walk)"
+            ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(wugtrio, blink)"
+         ]
+       },
+       {
+         "name": "blink2",
+         "animations": [
+           "bedrock(wugtrio, blink2)"
+         ]
+       },
+       {
+         "name": "blink3",
+         "animations": [
+           "bedrock(wugtrio, blink3)"
+         ]
+       }
+     ]
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "head": "head",
+    "portraitScale": 2,
+    "portraitTranslation": [
+        -0.25,
+        -1.2,
+        0
+    ],
+    "profileScale": 0.8,
+    "profileTranslation": [
+        0.1,
+        .4,
+        0
+    ],
+    "poses": {
+        "standing": {
+            "poseName": "standing",
+            "transformTicks": 10,
+            "poseTypes": [
+                "STAND",
+                "NONE"
+            ],
+            "animations": [
+                "bedrock(eelektrik, ground_idle)"
+            ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(eelektrik, blink)"
+         ]
+       }
+     ]
+        },
+        "walking": {
+            "poseName": "walking",
+            "transformTicks": 10,
+            "poseTypes": [
+                "WALK"
+            ],
+            "animations": [
+                "bedrock(eelektrik, ground_walk)"
+            ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(eelektrik, blink)"
+         ]
+       }
+     ]
+        },
+        "battle-idle": {
+            "poseName": "battle-idle",
+            "transformTicks": 10,
+            "isBattle": true,
+            "poseTypes": [
+                "STAND"
+            ],
+            "animations": [
+                "look",
+                "bedrock(eelektrik, battle_idle)"
+            ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(eelektrik, blink)"
+         ]
+       }
+     ]
+        },
+   "swimming": {
+     "poseName": "swimming",
+     "transformTicks": 10,
+     "poseTypes": [
+       "SWIM"
+     ],
+     "animations": [
+       "bedrock(eelektrik, water_swim)"
+     ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(eelektrik, blink)"
+         ]
+       }
+     ]
+   },
+   "floating": {
+     "poseName": "floating",
+     "transformTicks": 10,
+     "poseTypes": [
+       "FLOAT",
+                "PORTRAIT",
+                "PROFILE"
+     ],
+     "animations": [
+       "bedrock(eelektrik, water_idle)"
+     ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(eelektrik, blink)"
+         ]
+       }
+     ]
+   }
+    }
+}

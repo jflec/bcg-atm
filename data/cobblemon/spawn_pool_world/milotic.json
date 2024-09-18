@@ -1,0 +1,23 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "milotic-1",
+            "pokemon": "milotic",
+            "presets": [
+                "freshwater",
+                "underwater"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "rare",
+            "level": "30-45",
+            "weight": 0.5,
+            "condition": {
+                "canSeeSky": true
+            }
+        }
+    ]
+}

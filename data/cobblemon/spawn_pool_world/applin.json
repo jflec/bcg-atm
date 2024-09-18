@@ -1,0 +1,22 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "applin-1",
+            "pokemon": "applin",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "15-20",
+            "weight": 6.8,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_forest"
+                ]
+            }
+        }
+    ]
+}

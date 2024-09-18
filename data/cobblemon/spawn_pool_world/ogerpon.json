@@ -1,0 +1,21 @@
+{
+    "enabled": "true",
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "ogerpon-1",
+            "pokemon": "ogerpon",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60-88",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "minecraft:lush_caves"
+                ]
+            }
+        }
+    ]
+}

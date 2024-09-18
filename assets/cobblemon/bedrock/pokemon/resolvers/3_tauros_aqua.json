@@ -1,0 +1,28 @@
+{
+    "species": "cobblemon:tauros",
+    "order": 3,
+    "variations": [
+        {
+            "aspects": [
+                "paldean-breed-aqua"
+            ],
+            "model": "cobblemon:tauros_aqua.geo",
+            "poser": "cobblemon:tauros_aqua",
+            "texture": "cobblemon:textures/pokemon/tauros/tauros_aqua.png",
+            "layers": [
+                {
+                    "name": "emissive",
+                    "texture": "cobblemon:textures/pokemon/tauros/tauros_aqua_emissive.png",
+                    "emissive": true
+                }
+            ]
+        },
+        {
+            "aspects": [
+                "paldean-breed-aqua",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/tauros/tauros_aqua_shiny.png"
+        }
+    ]
+}

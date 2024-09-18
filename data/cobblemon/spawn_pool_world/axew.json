@@ -1,0 +1,70 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "axew-1",
+            "pokemon": "axew",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "5-25",
+            "weight": 10,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_mountain",
+                    "#minecraft:is_taiga",
+                    "terralith:alpine_highlands"                    
+                ]
+            }
+        },
+        {
+            "id": "axew-2",
+            "pokemon": "axew",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "5-30",
+            "weight": 9.0,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "minY": 0
+            },
+            "anticondition": {
+                "biomes": [
+                    "#cobblemon:is_deep_dark",
+                    "#cobblemon:is_mountain"
+                ]
+            }
+        },
+        {
+            "id": "axew-3",
+            "pokemon": "axew",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "12-34",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "betterend:dragon_graveyards"
+                ]
+            }
+        }
+    ]
+}

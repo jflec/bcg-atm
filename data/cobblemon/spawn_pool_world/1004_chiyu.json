@@ -1,0 +1,85 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "chiyu-1",
+            "pokemon": "chiyu",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "70",
+            "weight": 0.01,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_nether_basalt",
+                    "#cobblemon:is_nether_wasteland"
+                ]
+            }
+        },
+        {
+            "id": "chiyu-2",
+            "pokemon": "chiyu",
+            "presets": [
+                "lava_surface"
+            ],
+            "type": "pokemon",
+            "context": "surface",
+            "bucket": "ultra-rare",
+            "level": "70",
+            "weight": 0.01,
+            "condition": {
+                "biomes": [
+                    "#minecraft:is_nether",
+                    "#cobblemon:is_volcanic"
+                ]
+            }
+        },
+        {
+            "id": "chiyu-3",
+            "pokemon": "chiyu",
+            "presets": [
+                "lava_surface"
+            ],
+            "type": "pokemon",
+            "context": "surface",
+            "bucket": "ultra-rare",
+            "level": "70",
+            "weight": 0.01,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ]
+            },
+            "anticondition": {
+                "biomes": [
+                    "#cobblemon:is_volcanic"
+                ]
+            }
+        },
+        {
+            "id": "chiyu-4",
+            "pokemon": "chiyu",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "70",
+            "weight": 0.01,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_volcanic"
+                ],
+                "neededNearbyBlocks": [
+                    "#minecraft:lava"
+                ]
+            }
+        }
+    ]
+}

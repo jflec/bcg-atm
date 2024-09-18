@@ -1,0 +1,45 @@
+{
+    "enabled": "true",
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "darkrai",
+            "pokemon": "darkrai",
+            "presets": [
+                "natural",
+				"wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "70",
+            "weight": 0.01,
+            "condition": {
+                "biomes": [
+                    "#minecraft:plains"
+                ],
+				"moonPhase": 4
+            }
+        },        
+        {
+            "id": "darkrai",
+            "pokemon": "darkrai",
+            "presets": [
+                "natural",
+				"wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "70",
+            "weight": 0.01,
+            "condition": {
+                "biomes": [
+                    "#minecraft:plains"
+                ],
+				"moonPhase": 6
+            }
+        } 
+    ]
+}

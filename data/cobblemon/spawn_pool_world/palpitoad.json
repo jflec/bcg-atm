@@ -1,0 +1,43 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+    {
+       "id": "palpitoad-1",
+       "pokemon": "palpitoad",
+       "presets": [
+           "underwater"
+       ],
+       "type": "pokemon",
+       "context": "submerged",
+       "bucket": "uncommon",
+       "level": "25-30",
+       "weight": 1.0,
+       "canSeeSky": true,
+       "condition": {
+           "biomes": [
+               "#cobblemon:is_river"
+           ]
+       }
+    },
+    {
+        "id": "palpitoad-2",
+        "pokemon": "palpitoad",
+        "presets": [
+            "natural"
+        ],
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "uncommon",
+        "level": "25-30",
+        "weight": 3.0,
+        "canSeeSky": true,
+        "condition": {
+            "biomes": [
+                "#cobblemon:is_river"
+            ]
+        }
+     }
+    ]
+}

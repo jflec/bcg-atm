@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:noivern",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:noivern",
+      "model": "cobblemon:noivern.geo",
+      "texture": "cobblemon:textures/pokemon/0715_noivern/noivern.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/0715_noivern/noivern_shiny.png"
+    }
+  ]
+}

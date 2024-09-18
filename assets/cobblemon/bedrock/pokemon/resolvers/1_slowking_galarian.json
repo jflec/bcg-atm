@@ -1,0 +1,21 @@
+{
+    "species": "cobblemon:slowking",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "galarian"
+            ],
+            "model": "cobblemon:slowking_galarian.geo",
+            "poser": "cobblemon:slowking",
+            "texture": "cobblemon:textures/pokemon/slowking/slowking_galarian.png"
+        },
+        {
+            "aspects": [
+                "galarian",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/slowking/slowking_galarian_shiny.png"
+        }
+    ]
+}

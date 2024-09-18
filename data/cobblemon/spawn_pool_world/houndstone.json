@@ -1,0 +1,26 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "houndstone-1",
+            "pokemon": "houndstone",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "30-89",
+            "weight": 1,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "minecraft:dark_forest"
+                ],
+                "timeRange": "night"
+            }
+      	  }
+		  ]
+}

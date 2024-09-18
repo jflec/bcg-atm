@@ -1,0 +1,22 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "bellibolt-1",
+            "pokemon": "bellibolt",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "15-32",
+            "weight": 2.8,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "minecraft:mangrove_swamp"
+                ]
+            }
+        }
+    ]
+}

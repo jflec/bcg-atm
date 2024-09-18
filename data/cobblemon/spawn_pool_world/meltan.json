@@ -1,0 +1,20 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "meltan-1",
+            "pokemon": "meltan",
+            "presets": [
+                "ancient_city",
+				"stronghold"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "10-31",
+            "weight": 2.0
+        }
+			]
+}

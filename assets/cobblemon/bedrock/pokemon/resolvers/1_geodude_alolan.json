@@ -1,0 +1,21 @@
+{
+    "species": "cobblemon:geodude",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "alolan"
+            ],
+            "model": "cobblemon:geodude_alolan.geo",
+            "poser": "cobblemon:geodude",
+            "texture": "cobblemon:textures/pokemon/geodude/geodude_alolan.png"
+        },
+        {
+            "aspects": [
+                "alolan",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/geodude/geodude_alolan_shiny.png"
+        }
+    ]
+}

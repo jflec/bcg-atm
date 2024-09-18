@@ -1,0 +1,42 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "blacephalon-1",
+            "pokemon": "blacephalon",
+			"presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60-80",
+            "weight": 3.8,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "ad_astra:lunar_wastelands"
+					]
+			}
+        },
+        {
+            "id": "blacephalon-2",
+            "pokemon": "blacephalon",
+			"presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60-80",
+            "weight": 4.0,
+            "condition": {
+                "biomes": [
+                    "#minecraft:is_end"
+                ]
+			}
+		}
+	]
+}

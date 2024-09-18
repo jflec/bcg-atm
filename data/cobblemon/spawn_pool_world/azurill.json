@@ -1,0 +1,22 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "azurill-1",
+            "pokemon": "azurill",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "1-15",
+            "weight": 3.8,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#minecraft:is_river"
+                ]
+            }
+        }
+    ]
+}

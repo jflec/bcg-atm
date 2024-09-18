@@ -1,0 +1,21 @@
+{
+    "species": "cobblemon:tauros",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "paldean-breed-combat"
+            ],
+            "model": "cobblemon:tauros_combat.geo",
+            "poser": "cobblemon:tauros_combat",
+            "texture": "cobblemon:textures/pokemon/tauros/tauros_combat.png"
+        },
+        {
+            "aspects": [
+                "paldean-breed-combat",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/tauros/tauros_combat_shiny.png"
+        }
+    ]
+}

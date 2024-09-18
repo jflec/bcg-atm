@@ -1,0 +1,29 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.cyyclizar.pose": {
+			"loop": true
+		},
+		"animation.cyclizar.pose": {
+			"loop": true
+		},
+		"animation.cyclizar.loop": {
+			"loop": true,
+			"animation_length": 3,
+			"bones": {
+				"cyclizar": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"3.0": [0, -360, 0]
+					}
+				}
+			}
+		},
+		"animation.cyclizar.ground_idle": {
+			"loop": true
+		},
+		"animation.cyclizar.ground_walk": {
+			"loop": true
+		}
+	}
+}

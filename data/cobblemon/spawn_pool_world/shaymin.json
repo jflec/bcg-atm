@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "shaymin-1",
+      "pokemon": "shaymin",
+      "presets": [                
+          "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "60-75",
+      "weight": 5,
+      "condition": {
+          "biomes": [
+              "minecraft:flower_forest"
+          ]
+	  }
+	}
+    ]
+}

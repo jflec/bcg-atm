@@ -1,0 +1,25 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+    {
+       "id": "tympole-1",
+       "pokemon": "tympole",
+       "presets": [
+           "underwater"
+       ],
+       "type": "pokemon",
+       "context": "submerged",
+       "bucket": "uncommon",
+       "level": "3-20",
+       "weight": 9.9,
+       "canSeeSky": true,
+       "condition": {
+           "biomes": [
+               "#cobblemon:is_river"
+           ]
+       }
+    }
+    ]
+}

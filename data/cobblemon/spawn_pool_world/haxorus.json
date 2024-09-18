@@ -1,0 +1,71 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "haxorus-1",
+            "pokemon": "haxorus",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "48-60",
+            "weight": 0.5,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_mountain",
+                    "#minecraft:is_taiga",
+                    "terralith:alpine_highlands" 
+                ]
+            }
+        },
+        {
+            "id": "haxorus-2",
+            "pokemon": "haxorus",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "48-60",
+            "weight": 0.1,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "minY": 0
+            },
+            "anticondition": {
+                "biomes": [
+                    "#cobblemon:is_deep_dark",
+                    "#cobblemon:is_mountain"
+                ]
+            }
+        },
+        {
+            "id": "haxorus-3",
+            "pokemon": "haxorus",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "56-72",
+            "weight": 4.0,
+            "condition": {
+                "biomes": [
+                    "betterend:dragon_graveyards"
+                ]
+            }
+        }
+    ]
+}
