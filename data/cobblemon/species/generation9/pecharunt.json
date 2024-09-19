@@ -75,8 +75,10 @@
   "labels": [
     "gen9",
     "mythical",
-    "legendary"
-  ],
+    "legendary"],
+    "pokedex": [
+      "It feeds others toxic mochi that draw out desires and capabilities. Those who eat the mochi fall under Pecharunt’s control, chained to its will."
+    ],
   "aspects": [],
   "height": 3,
   "weight": 3,

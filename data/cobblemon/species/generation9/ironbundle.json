@@ -108,7 +108,7 @@
   "weight": 110,
   "evolutions": [],
   "cannotDynamax": false,
-  "pokedex": ["cobblemon.species.ironbundle.desc"],
+  "pokedex": ["Its shape is similar to a robot featured in a paranormal magazine article. The robot was said to have been created by an ancient civilization."],
   "drops": {
     "amount": 3,
     "entries": [

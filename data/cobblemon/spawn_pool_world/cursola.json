@@ -1,5 +1,5 @@
 {
-    "enabled": "true",
+    "enabled": true,
     "neededInstalledMods": [],
     "neededUninstalledMods": [],
     "spawns": [
@@ -33,7 +33,7 @@
             "weight": 7.2,
             "condition": {
                 "biomes": [
-                    "#cobblemon:is_warm_ocean"
+                    "#minecraft:is_warm_ocean"
                 ]
             }
         }
