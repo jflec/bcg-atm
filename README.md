@@ -3,7 +3,7 @@
 **AllTheMons** was originally created by @easysqueeze.  
 **AllTheMons Discord**: [Join here](https://discord.gg/gddMDWX2nS)
 
-**This pack was created with permission from each author. BigChadGuys makes no claim of ownership over these packs**
+**This pack was created with permission from each author. BigChadGuys makes no claim of ownership over these packs.**
 
 ---
 
