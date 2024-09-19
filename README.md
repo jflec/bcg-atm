@@ -1,32 +1,62 @@
-**All credit goes to the original authors.**
-
 **BigChadGuys Plus** includes all individual projects to ensure authors receive full credit. **AllTheMons - BCG Modified** simply combines each project for ease of development.
-
-**BigChadGuys makes no claim of ownership over these packs.**
 
 **AllTheMons** was originally created by @easysqueeze.  
 **AllTheMons Discord**: [Join here](https://discord.gg/gddMDWX2nS)
 
+**This pack was created with permission from each author. BigChadGuys makes no claim of ownership over these packs**
+
 ---
 
-**A huge thank you to all of the contributors:**
+**A huge thank you to all of the authors:**
 
-- **Allone** (allone*the_duck), the creator of \_Allone's Additions*
+- **Allone** (allone_the_duck), the creator of _Allone's Additions_
+  - https://modrinth.com/datapack/notsocobblemon-allones-additions
+    
 - **ASHISK** (ashisk), the creator of _Ashimons_
+  - https://modrinth.com/datapack/ashimons
+    
 - **BeeZy** (beezymc), one of the creators of _LackingMons_
+  - https://modrinth.com/datapack/lackingmons
+    
 - **Bwavii** (bwavi), the creator of _WaviMons_
+  - https://modrinth.com/datapack/wavimons-(cobblemon)
+    
 - **El Pigeon** (elpigeon), the creator of _Pigeon's PokePack_
+  - https://modrinth.com/datapack/pigeons-poke-pack
+    
 - **Genotype** (genotypexd), the creator of _GenoMons_
+  - https://modrinth.com/datapack/genomons
+ 
+- **iMystxc** (iMystxc), the creator of _MysticMons_
+  - https://modrinth.com/datapack/mysticmons
+    
 - **IZetyXX** (izetyxx), one of the creators of _LackingMons_
+  - https://modrinth.com/datapack/lackingmons
+ 
+- **BifeSalgado** (BifeSalgado), the creator of _OdysseyMons_
+  - https://modrinth.com/resourcepack/odysseymons
+    
 - **Kale** (kylbrez), the creator of _Kale's Collection_
-- **LegenTM** (legentm), the creator of _HiddenMons_
-- **NetImmerse** (netimmerse), the creator of _The Jewel Pokemon_
-- **Raspix** (raspix), the creator of _CobbleCats_
-- **RedRibbon** (redriibbon), the creator of _MissingMons_
-- **Salt** (saltdan), the creator of _SaltMons_
-- **YaBoiBruno**, the creator of _MoreMons_
-- **iMystxc-dev**, the creator of _MysticMons_
+  - https://modrinth.com/datapack/kales-cobblemon-collection
 
+- **LegenTM** (legentm), the creator of _HiddenMons_
+  - https://modrinth.com/datapack/hiddenmons-cobblemon
+    
+- **NetImmerse** (netimmerse), the creator of _The Jewel Pokemon_
+  - https://modrinth.com/datapack/the-jewel-pokmon-cobblemon
+
+- **Raspix** (raspix), the creator of _CobbleCats_
+  - https://modrinth.com/datapack/cobble-cats
+    
+- **RedRibbon** (redriibbon), the creator of _MissingMons_
+  - https://modrinth.com/datapack/missingmons-cobblemon
+
+- **Salt** (saltdan), the creator of _SaltMons_
+  - https://modrinth.com/datapack/saltmons
+    
+- **YaBoiBruno** (Bruno22), the creator of _MoreMons_
+  - https://modrinth.com/resourcepack/moremons
+    
 ---
 
 **List of implemented Pokémon (Base)**
