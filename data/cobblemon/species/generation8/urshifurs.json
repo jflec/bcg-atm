@@ -1,0 +1,154 @@
+{
+  "implemented": true,
+  "name": "urshifurs",
+  "nationalPokedexNumber": 892,
+  "primaryType": "fighting",
+  "secondaryType": "water",
+  "abilities": [
+    "unseenfist"
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 130,
+    "defence": 100,
+    "special_attack": 63,
+    "special_defence": 60,
+    "speed": 97
+  },
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "depth": "normal",
+      "light": "0-4",
+      "willSleepOnBed": true,
+      "times": "night"
+    },
+    "moving": {
+      "canLook": true,
+      "walk": {
+        "canWalk": true,
+       "walkSpeed": 0.2,
+        "avoidsLand": false
+      },
+      "swim": {
+        "swimSpeed": 0.3,
+        "canSwimInWater": true,
+        "canBreatheUnderwater": false
+      },
+      "fly": {
+        "canFly": false,
+        "flySpeedHorizontal": 0.3
+      },
+      "wanderChance": 1
+    }
+  },
+  "catchRate": 150,
+  "maleRatio": 0.88,
+  "shoulderMountable": false,
+  "baseExperienceYield": 400,
+  "experienceGroup": "slow",
+  "eggCycles": 25,
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "drops": {
+    "amount": 1,
+    "entries": []
+  },
+  "moves": [
+    "1:surgingstrikes",
+    "1:aquajet",
+    "1:rocksmash",
+    "1:leer",
+    "1:endure",
+    "1:focusenergy",
+    "12:aerialace",
+    "16:scaryface",
+    "20:headbutt",
+    "24:brickbreak",
+    "28:detect",
+    "32:bulkup",
+    "36:ironhead",
+    "40:dynamicpunch",
+    "44:counter",
+    "48:closecombat",
+    "52:focuspunch",
+    "tm:megapunch",
+    "tm:megakick",
+    "tm:firepunch",
+    "tm:icepunch",
+    "tm:thunderpunch",
+    "tm:gigaimpact",
+    "tm:dig",
+    "tm:rest",
+    "tm:rockslide",
+    "tm:snore",
+    "tm:protect",
+    "tm:scaryface",
+    "tm:attract",
+    "tm:raindance",
+    "tm:takedown",
+    "tm:lowkick",
+    "tm:acrobatics",
+    "tm:trailblaze",
+    "tm:chillingwater",
+    "tm:facade",
+    "tm:aerialace",
+    "tm:swift",
+    "tm:rocktomb",
+    "tm:lowsweep",
+    "tm:endure",
+    "tm:falseswipe",
+    "tm:brickbreak",
+    "tm:zenheadbutt",
+    "tm:uturn",
+    "tm:bulkup",
+    "tm:bodyslam",
+    "tm:sleeptalk",
+    "tm:drainpunch",
+    "tm:waterfall",
+    "tm:poisonjab",
+    "tm:taunt",
+    "tm:swordsdance",
+    "tm:bodypress",
+    "tm:ironhead",
+    "tm:",
+    "tm:substitute",
+    "tm:irondefense",
+    "tm:liquidation",
+    "tm:aurasphere",
+    "tm:icespinner",
+    "50:helpinghand",
+    "tm:stoneedge",
+    "tm:reversal",
+    "tm:stoneedge",
+    "tm:focusblast",
+    "tm:closecombat",
+    "tm:terablast"
+  ],
+  "labels": [
+    "custom"
+  ],
+  "pokedex": [
+    "cobblemon.species.urshifurs.desc1",
+    "cobblemon.species.urshifurs.desc2"
+  ],
+  "baseScale": 0.7,
+  "hitbox": {
+    "width": 2,
+    "height": 3,
+    "fixed": false
+  },
+  "baseFriendship": 50,
+  "evYield": {
+    "hp": 0,
+    "attack": 3,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "height": 190,
+  "weight": 231,
+  "evolutions": []
+}

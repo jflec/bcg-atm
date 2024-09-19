@@ -1,0 +1,29 @@
+{
+  "target": "cobblemon:kyogre",
+
+  "baseScale":1,
+  "hitbox": {
+    "width": 10,
+    "height": 2.1,
+    "fixed": false
+  },
+
+  "behaviour": {
+      "moving": {
+        "canLook": true,
+        "walk": {
+          "walkSpeed": 0.2,
+          "canWalk": true,
+          "avoidsLand": false
+        },
+      "fly": {
+        "canFly": false
+      },
+      "swim": {
+        "swimSpeed": 0.5,
+        "canSwimInWater": true,
+        "canBreatheUnderwater": true
+      }
+    }
+  }
+}

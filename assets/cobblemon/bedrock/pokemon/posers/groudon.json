@@ -1,30 +1,63 @@
 {
-  "portraitScale": 1.5,
-  "portraitTranslation": [ -1.25, 2.5, 0.0],
-  "profileScale": 0.5,
-  "profileTranslation": [0, 1.1, 0.0],
-  "cry":  "bedrock(groudon, cry)",
-    "poses": {
-      "standing": {
-        "poseName": "standing",
-        "transformTicks": 10,
-        "poseTypes": [
-          "STAND",
-          "NONE",
-          "PORTRAIT",
-          "PROFILE"
-        ],
-        "animations": [
-          "bedrock(groudon, ground_idle)"
-        ]
-      },
-      "walking": {
-        "poseName": "walking",
-        "transformTicks": 10,
-        "poseTypes": ["WALK"],
-        "animations": [
-          "bedrock(groudon, ground_walk)"
-        ]
-      }
+  "portraitScale": 0.2,
+  "portraitTranslation": [-0.5, 2.2, 0],
+  "profileScale": 0.17,
+  "profileTranslation": [0, 1.5, 0],
+  "animations": {
+    "faint": "q.bedrock_primary('groudon', 'faint', q.curve('one'))",
+    "cry": "q.bedrock_stateful('groudon', 'cry')",
+    "recoil": "q.bedrock_stateful('groudon', 'recoil')",
+    "physical": "q.bedrock_primary('groudon', 'physical_attack', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_primary('groudon', 'physical_attack', q.curve('symmetrical_wide'))",
+    "status": "q.bedrock_primary('groudon', 'cry', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": [
+        "q.bedrock('groudon', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('groudon', 'blink')",
+        "q.bedrock_quirk('groudon', q.array('quirk_ground_idle'), 30, 60, 1)"
+      ]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.bedrock('groudon', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('groudon', 'blink')",
+        "q.bedrock_quirk('groudon', 'quirk_ground_idle', 20, 60, 1)"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.bedrock('groudon', 'ground_walk')"
+      ],
+      "quirks": ["q.bedrock_quirk('groudon', 'blink')"]
+    },
+    "float": {
+      "poseTypes": ["FLOAT"],
+      "animations": [
+        "q.bedrock('groudon', 'ground_idle')"
+      ],
+      "quirks": ["q.bedrock_quirk('groudon', 'blink')"]
+    },
+    "swim": {
+      "poseTypes": ["SWIM"],
+      "animations": [
+        "q.bedrock('groudon', 'ground_walk')"
+      ],
+      "quirks": ["q.bedrock_quirk('groudon', 'blink')"]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('groudon', 'sleep')"]
     }
   }
+}

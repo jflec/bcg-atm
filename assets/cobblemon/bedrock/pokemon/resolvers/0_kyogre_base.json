@@ -5,11 +5,16 @@
 		{
 			"aspects": [],
 			"poser": "cobblemon:kyogre",
-			"model": "cobblemon:kyogrenew.geo",
+			"model": "cobblemon:kyogre.geo",
 			"texture": "cobblemon:textures/pokemon/kyogre/kyogre.png",
 			"layers": [
-				
-			]
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/kyogre/kyogre_emissive.png",
+              "translucent": true
+        }
+      ]
 		},
 		{
 			"aspects": [ "shiny" ],
