@@ -17,7 +17,7 @@
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "minecraft:dark_forest"
+                    "#minecraft:dark_forest"
                 ],
                 "timeRange": "night"
             }

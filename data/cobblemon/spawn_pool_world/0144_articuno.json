@@ -15,8 +15,8 @@
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "minecraft:ice_spikes",
-                    "minecraft:snowy_slopes"
+                    "#minecraft:ice_spikes",
+                    "#minecraft:snowy_slopes"
                         ],
                 "isRaining": true
             }
@@ -33,7 +33,7 @@
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "minecraft:cherry_grove"
+                    "#minecraft:cherry_grove"
                 ]
             }
         }

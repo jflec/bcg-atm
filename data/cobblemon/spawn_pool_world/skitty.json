@@ -86,7 +86,7 @@
         "condition": {
             "canSeeSky": true,
             "biomes": [
-                "minecraft:cherry_grove"
+                "#minecraft:cherry_grove"
             ]
         }
       }

@@ -14,7 +14,7 @@
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "minecraft:birch_forest"
+                    "#minecraft:birch_forest"
                 ]
             }
         }

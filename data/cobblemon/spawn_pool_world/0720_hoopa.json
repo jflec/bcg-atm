@@ -20,7 +20,7 @@
                     "minecraft:desert"
                     
                 ],
-                "neededNearbyBlocks": ["minecraft:blue_terracotta"]
+                "neededNearbyBlocks": ["#minecraft:blue_terracotta"]
             }
         }
     ]

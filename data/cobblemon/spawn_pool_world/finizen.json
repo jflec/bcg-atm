@@ -16,7 +16,7 @@
             "weight": 5.8,
             "condition": {
                 "biomes": [
-                    "minecraft:lukewarm_ocean"
+                    "#minecraft:lukewarm_ocean"
                 ]
             }
         },
@@ -33,7 +33,7 @@
             "weight": 5.8,
             "condition": {
                 "biomes": [
-                    "minecraft:lukewarm_ocean"
+                    "#minecraft:lukewarm_ocean"
                 ]
             }
         }

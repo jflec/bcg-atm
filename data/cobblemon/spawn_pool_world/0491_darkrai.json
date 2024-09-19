@@ -37,7 +37,7 @@
             "weight": 0.01,
             "condition": {
                 "biomes": [
-                    "minecraft:deep_dark"
+                    "#minecraft:deep_dark"
                 ]
             }
         }

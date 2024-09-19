@@ -17,8 +17,8 @@
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "minecraft:jagged_peaks",
-                    "minecraft:stony_peaks"
+                    "#minecraft:jagged_peaks",
+                    "#minecraft:stony_peaks"
                 ]
             }
         }

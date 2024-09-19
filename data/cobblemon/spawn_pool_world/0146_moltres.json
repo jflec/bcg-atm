@@ -14,7 +14,7 @@
             "weight": 0.01,
             "condition": {
                 "canSeeSky": true,
-                "biomes": ["minecraft:badlands"],
+                "biomes": ["#minecraft:badlands"],
                 "isRaining": false
             }
         },
@@ -30,7 +30,7 @@
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "minecraft:cherry_grove"
+                    "#minecraft:cherry_grove"
                 ]
             }
         }

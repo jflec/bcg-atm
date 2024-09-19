@@ -15,8 +15,8 @@
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "minecraft:stony_peaks",
-                    "minecraft:jagged_peaks"
+                    "#minecraft:stony_peaks",
+                    "#minecraft:jagged_peaks"
                         ],
                 "isThundering": true
             }
@@ -33,7 +33,7 @@
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "minecraft:cherry_grove"
+                    "#minecraft:cherry_grove"
                 ]
             }
         }

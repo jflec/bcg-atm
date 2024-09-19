@@ -1,6 +1,6 @@
 **All credit goes to the original authors.**
 
-**BigChadGuys Plus** includes all individual projects to ensure authors receive full credit. "AllTheMons - BCG Modified" simply combines each project for ease of development.
+**BigChadGuys Plus** includes all individual projects to ensure authors receive full credit. **AllTheMons - BCG Modified** simply combines each project for ease of development.
 
 **BigChadGuys makes no claim of ownership over these packs.**
 
@@ -11,7 +11,7 @@
 
 **A huge thank you to all of the contributors:**
 
-- **Allone** (allone_the_duck), the creator of _Allone's Additions_
+- **Allone** (allone*the_duck), the creator of \_Allone's Additions*
 - **ASHISK** (ashisk), the creator of _Ashimons_
 - **BeeZy** (beezymc), one of the creators of _LackingMons_
 - **Bwavii** (bwavi), the creator of _WaviMons_

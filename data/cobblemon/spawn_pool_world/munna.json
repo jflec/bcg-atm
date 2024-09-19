@@ -17,7 +17,7 @@
                     "#minecraft:is_overworld"
                 ],
                 "neededNearbyBlocks": [
-                    "minecraft:white_bed"
+                    "#minecraft:white_bed"
                 ]
             }
         }

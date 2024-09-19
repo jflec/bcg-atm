@@ -15,7 +15,7 @@
             "condition": {
                 "canSeeSky": false,
                 "biomes": [
-                    "minecraft:lush_caves"
+                    "#minecraft:lush_caves"
                     
                 ],
                 "neededNearbyBlocks": ["minecraft:lightning_rod"]

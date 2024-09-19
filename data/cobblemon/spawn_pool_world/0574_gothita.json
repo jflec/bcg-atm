@@ -35,7 +35,7 @@
             "condition": {
                 "canSeeSky": false,
                 "biomes": [
-                    "minecraft:dark_forest"
+                    "#minecraft:dark_forest"
                 ]
             }
         }

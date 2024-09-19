@@ -54,7 +54,7 @@
                 "biomes": [
                     "#minecraft:is_end"
                 ],
-           	    "neededBaseBlocks": ["minecraft:snow_layer"]
+           	    "neededBaseBlocks": ["#minecraft:snow_layer"]
             }
         },
         {
