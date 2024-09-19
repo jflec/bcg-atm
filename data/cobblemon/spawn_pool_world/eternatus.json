@@ -1,5 +1,5 @@
 {
-    "enabled": "true",
+    "enabled": true,
     "neededInstalledMods": [],
     "neededUninstalledMods": [],
     "spawns": [
@@ -16,9 +16,7 @@
             "level": "70-100",
             "weight": 0.01,
             "condition": {
-                "biomes": [
-                    "#cobblemon:is_end"
-                ]
+                "biomes": ["#minecraft:is_end"]
             }
 
         }

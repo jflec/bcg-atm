@@ -16,9 +16,7 @@
            "weight": 0.1,
            "condition": {
                "isRaining": false,
-               "biomes": [
-                   "#minecraft:is_badlands"
-               ]
+               "biomes": ["#cobblemon:is_badlands"]
            }
        }
    ]

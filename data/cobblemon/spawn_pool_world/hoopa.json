@@ -15,9 +15,7 @@
         "level": "65-80",
         "weight": 0.1,
         "condition": {
-          "biomes": [ 
-            "#minecraft:is_end"
-             ]
+          "biomes": ["#minecraft:is_end"]
         }
       }
     ]

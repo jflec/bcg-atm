@@ -16,7 +16,7 @@
            "weight": 0.1,
            "condition": {"isThundering":true,
                "biomes": [
-                   "#minecraft:is_mountain"
+                   "#cobblemon:is_mountain"
                ]
            }
        }
