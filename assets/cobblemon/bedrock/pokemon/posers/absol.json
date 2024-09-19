@@ -1,8 +1,8 @@
 {
   "portraitScale": 1.4,
-  "portraitTranslation": [ 0, -0.3, 0],
+  "portraitTranslation": [ 0, 0.4, 0],
   "profileScale": 1,
-  "profileTranslation": [ 0, 0.3, 0],
+  "profileTranslation": [ 0, 0.4, 0],
   "cry": "bedrock(absol, cry)",
   "faint": "bedrock(absol, faint, true)",
   "poses": {
