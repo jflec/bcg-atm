@@ -149,7 +149,7 @@
     "legendary"
   ],
   "pokedex": [
-    "cobblemon.species.hoopa.desc"
+    "This troublemaker sends anything and everything to faraway places using its loop, which can warp space."
   ],
  "behaviour": {
    "moving": {
@@ -173,7 +173,7 @@
     {
       "id": "hoopa_hoopaunbound",
       "variant": "item_interact",
-      "result": "hoopaunbound",
+      "result": "hoopa unbound",
       "consumeHeldItem": false,
       "learnableMoves": [],
       "requirements": [],
