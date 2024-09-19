@@ -130,8 +130,8 @@
     "custom"
   ],
   "pokedex": [
-    "cobblemon.species.urshifurs.desc1",
-    "cobblemon.species.urshifurs.desc2"
+    "it's believed that this Pokémon modeled its fighting style on the flow of a river—sometimes rapid, sometimes calm.",
+    "The energy released by this Pokémon's fists forms shock waves that can blow away Dynamax Pokémon in just one hit."
   ],
   "baseScale": 0.7,
   "hitbox": {
