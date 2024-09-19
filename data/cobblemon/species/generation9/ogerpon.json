@@ -138,6 +138,9 @@
       "eggGroups": [
         "undiscovered"
       ],
+    "pokedex": [
+    "This Pokémon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks."
+  ],
       "labels": [
         "gen9"
       ],
