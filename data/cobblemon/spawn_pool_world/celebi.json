@@ -17,7 +17,7 @@
                     "#cobblemon:is_forest"
 				],
 				"dimensions": [
-					"#minecraft:overworld"
+					"minecraft:overworld"
 				],
 				"time_range": [
 				"13500-22500"
