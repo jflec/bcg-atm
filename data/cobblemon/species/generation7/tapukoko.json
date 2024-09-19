@@ -4,10 +4,7 @@
   "nationalPokedexNumber": 785,
   "primaryType": "electric",
   "secondaryType": "fairy",
-  "abilities": [
-    "electricsurge",
-    "h:telepathy"
-  ],
+  "abilities": ["electricsurge", "h:telepathy"],
   "baseStats": {
     "hp": 70,
     "attack": 115,
@@ -22,9 +19,7 @@
   "baseExperienceYield": 285,
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:electricterrain",
     "1:bravebird",
@@ -62,12 +57,8 @@
     "tm:return",
     "tm:doubleteam"
   ],
-  "labels": [
-    "gen7"
-  ],
-  "pokedex": [
-    "cobblemon.species.tapukoko.desc"
-  ],
+  "labels": ["gen7"],
+  "pokedex": ["cobblemon.species.tapukoko.desc"],
   "preEvolution": null,
   "evolutions": [],
   "baseScale": 1,

@@ -12,13 +12,9 @@
       "level": "50-55",
       "weight": 0.05,
       "condition": {
-        "biomes": [ 
-          "#cobblemon:is_savanna"
-         ],
-         "timeRange": "morning",
-         "neededBaseBlocks": [
-          "#minecraft:grass_block"
-      ]
+        "biomes": ["#cobblemon:is_savanna"],
+        "timeRange": "morning",
+        "neededBaseBlocks": ["#minecraft:grass_block"]
       }
     }
   ]

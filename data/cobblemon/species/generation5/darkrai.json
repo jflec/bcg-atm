@@ -1,11 +1,9 @@
 {
-"implemented":"true",
+  "implemented": "true",
   "name": "Darkrai",
   "nationalPokedexNumber": 491,
   "primaryType": "dark",
-  "abilities": [
-    "baddreams"
-  ],
+  "abilities": ["baddreams"],
   "drops": {
     "amount": 5,
     "entries": [
@@ -32,9 +30,7 @@
   "baseExperienceYield": 270,
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:disable",
     "1:nightshade",
@@ -161,14 +157,8 @@
     "tutor:trick",
     "tutor:wonderroom"
   ],
-  "labels": [
-    "gen4",
-    "mythical",
-    "legendary"
-  ],
-  "pokedex": [
-    "cobblemon.species.darkrai.desc"
-  ],
+  "labels": ["gen4", "mythical", "legendary"],
+  "pokedex": ["cobblemon.species.darkrai.desc"],
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {

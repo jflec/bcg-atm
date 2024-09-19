@@ -1,12 +1,10 @@
 {
-  "implemented":"true",
+  "implemented": "true",
   "name": "Iron Moth",
   "nationalPokedexNumber": 994,
   "primaryType": "fire",
   "secondaryType": "poison",
-  "abilities": [
-    "quarkdrive"
-  ],
+  "abilities": ["quarkdrive"],
   "baseStats": {
     "hp": 80,
     "attack": 70,
@@ -29,9 +27,7 @@
   },
   "experienceGroup": "slow",
   "eggCycles": 50,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:acidspray",
     "1:electricterrain",
@@ -97,16 +93,11 @@
     "tm:uturn",
     "tm:venoshock"
   ],
-  "labels": [
-    "gen9",
-    "paradox"
-  ],
+  "labels": ["gen9", "paradox"],
   "aspects": [],
   "height": 12,
   "weight": 360,
   "evolutions": [],
   "cannotDynamax": false,
-  "pokedex": [
-    "cobblemon.species.ironmoth.desc"
-  ]
+  "pokedex": ["cobblemon.species.ironmoth.desc"]
 }

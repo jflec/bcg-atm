@@ -2,11 +2,7 @@
   "name": "Wiglett",
   "nationalPokedexNumber": 960,
   "primaryType": "water",
-  "abilities": [
-    "gooey",
-    "rattled",
-    "h:sandveil"
-  ],
+  "abilities": ["gooey", "rattled", "h:sandveil"],
   "baseStats": {
     "hp": 10,
     "attack": 55,
@@ -29,9 +25,7 @@
   },
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "water_3"
-  ],
+  "eggGroups": ["water_3"],
   "moves": [
     "1:sandattack",
     "1:watergun",
@@ -78,9 +72,7 @@
     "tm:waterpulse",
     "tm:whirlpool"
   ],
-  "labels": [
-    "gen9"
-  ],
+  "labels": ["gen9"],
   "aspects": [],
   "height": 12,
   "weight": 18,
@@ -100,8 +92,6 @@
     }
   ],
   "cannotDynamax": false,
-  "pokedex": [
-    "cobblemon.species.wiglett.desc"
-  ],
+  "pokedex": ["cobblemon.species.wiglett.desc"],
   "implemented": true
 }

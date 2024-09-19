@@ -1,6 +1,7 @@
 {
-    "target": "cobblemon:seismitoad",
- "behaviour": {
+  "implemented": true,
+  "target": "cobblemon:seismitoad",
+  "behaviour": {
     "moving": {
       "swim": {
         "swimSpeed": 1,

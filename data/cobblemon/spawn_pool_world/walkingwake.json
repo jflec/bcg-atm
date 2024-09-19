@@ -12,14 +12,9 @@
       "level": "50-70",
       "weight": 0.5,
       "condition": {
-        "biomes": [ 
-          "#cobblemon:is_beach",
-          "#cobblemon:is_coast"
-         ],
-         "timeRange": "morning",
-         "neededBaseBlocks": [
-          "#minecraft:sand"
-      ]
+        "biomes": ["#cobblemon:is_beach", "#cobblemon:is_coast"],
+        "timeRange": "morning",
+        "neededBaseBlocks": ["#minecraft:sand"]
       }
     }
   ]

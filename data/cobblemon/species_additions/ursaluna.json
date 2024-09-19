@@ -1,4 +1,5 @@
 {
- "target": "cobblemon:ursaluna",
- "features": ["bloodmoon"]
-  }
+  "implemented": true,
+  "target": "cobblemon:ursaluna",
+  "features": ["bloodmoon"]
+}

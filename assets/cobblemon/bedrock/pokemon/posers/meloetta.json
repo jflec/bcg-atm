@@ -9,10 +9,7 @@
       "poseName": "standing",
       "transformTicks": 10,
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
-      "animations": [
-        "look",
-        "bedrock(meloetta, ground_idle)"
-      ]
-    }  
+      "animations": ["look", "bedrock(meloetta, ground_idle)"]
+    }
   }
 }

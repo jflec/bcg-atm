@@ -3,9 +3,7 @@
   "nationalPokedexNumber": 794,
   "primaryType": "bug",
   "secondaryType": "fighting",
-  "abilities": [
-    "beastboost"
-  ],
+  "abilities": ["beastboost"],
   "baseStats": {
     "hp": 107,
     "attack": 139,
@@ -20,9 +18,7 @@
   "baseExperienceYield": 186,
   "experienceGroup": "slow",
   "eggCycles": 20,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:fellstinger",
     "1:thunderpunch",
@@ -46,12 +42,8 @@
     "100:icepunch",
     "100:outrage"
   ],
-  "labels": [
-    "gen7"
-  ],
-  "pokedex": [
-    "cobblemon.species.buzzwole.desc"
-  ],
+  "labels": ["gen7"],
+  "pokedex": ["cobblemon.species.buzzwole.desc"],
   "preEvolution": null,
   "evolutions": [],
   "baseScale": 1.5,

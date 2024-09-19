@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 748,
   "primaryType": "poison",
   "secondaryType": "water",
-  "abilities": [
-    "merciless",
-    "limber",
-    "h:regenerator"
-  ],
+  "abilities": ["merciless", "limber", "h:regenerator"],
   "baseStats": {
     "hp": 50,
     "attack": 63,
@@ -22,9 +18,7 @@
   "baseExperienceYield": 173,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "water_1"
-  ],
+  "eggGroups": ["water_1"],
   "moves": [
     "1:banefulbunker",
     "1:bite",
@@ -115,12 +109,8 @@
     "tutor:spite",
     "tutor:waterpulse"
   ],
-  "labels": [
-    "gen7"
-  ],
-  "pokedex": [
-    "cobblemon.species.toxapex.desc"
-  ],
+  "labels": ["gen7"],
+  "pokedex": ["cobblemon.species.toxapex.desc"],
   "preEvolution": "mareanie",
   "evolutions": [],
   "baseScale": 1,

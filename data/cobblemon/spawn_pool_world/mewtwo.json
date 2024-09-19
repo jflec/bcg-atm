@@ -13,8 +13,8 @@
       "weight": 0.2,
       "condition": {
         "biomes": ["#cobblemon:is_overworld"],
-         "timeRange": "afternoon",
-         "neededBaseBlocks": ["#minecraft:grass_block"]  
+        "timeRange": "afternoon",
+        "neededBaseBlocks": ["#minecraft:grass_block"]
       }
     }
   ]

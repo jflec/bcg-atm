@@ -6,18 +6,14 @@
     {
       "id": "giratina-1",
       "pokemon": "giratina",
-      "presets": [
-        "natural"
-      ],
+      "presets": ["natural"],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
       "level": "55-60",
       "weight": 0.1,
       "condition": {
-        "biomes": [ 
-          "#minecraft:is_end"
-           ]
+        "biomes": ["#minecraft:is_end"]
       }
     }
   ]

@@ -4,11 +4,7 @@
   "nationalPokedexNumber": 733,
   "primaryType": "normal",
   "secondaryType": "flying",
-  "abilities": [
-    "keeneye",
-    "skilllink",
-    "h:sheerforce"
-  ],
+  "abilities": ["keeneye", "skilllink", "h:sheerforce"],
   "baseStats": {
     "hp": 80,
     "attack": 120,
@@ -23,9 +19,7 @@
   "baseExperienceYield": 218,
   "experienceGroup": "medium_fast",
   "eggCycles": 15,
-  "eggGroups": [
-    "flying"
-  ],
+  "eggGroups": ["flying"],
   "moves": [
     "1:beakblast",
     "1:echoedvoice",
@@ -81,12 +75,8 @@
     "tutor:tailwind",
     "tutor:uproar"
   ],
-  "labels": [
-    "gen7"
-  ],
-  "pokedex": [
-    "cobblemon.species.toucannon.desc"
-  ],
+  "labels": ["gen7"],
+  "pokedex": ["cobblemon.species.toucannon.desc"],
   "preEvolution": "trumbeak",
   "evolutions": [],
   "baseScale": 1,

@@ -4,9 +4,7 @@
   "nationalPokedexNumber": 799,
   "primaryType": "dark",
   "secondaryType": "dragon",
-  "abilities": [
-    "beastboost"
-  ],
+  "abilities": ["beastboost"],
   "baseStats": {
     "hp": 223,
     "attack": 101,
@@ -21,9 +19,7 @@
   "baseExperienceYield": 285,
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:belch",
     "1:bite",
@@ -128,13 +124,8 @@
     "tutor:thrash",
     "tutor:wringout"
   ],
-  "labels": [
-    "gen7",
-    "ultra_beast"
-  ],
-  "pokedex": [
-    "cobblemon.species.guzzlord.desc"
-  ],
+  "labels": ["gen7", "ultra_beast"],
+  "pokedex": ["cobblemon.species.guzzlord.desc"],
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {

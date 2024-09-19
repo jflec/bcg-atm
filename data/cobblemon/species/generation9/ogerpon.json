@@ -3,9 +3,7 @@
   "name": "Ogerpon",
   "nationalPokedexNumber": 1017,
   "primaryType": "grass",
-  "abilities": [
-    "defiant"
-  ],
+  "abilities": ["defiant"],
   "baseStats": {
     "hp": 80,
     "attack": 120,
@@ -28,9 +26,7 @@
   },
   "experienceGroup": "slow",
   "eggCycles": 50,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:counter",
     "1:doublekick",
@@ -97,9 +93,7 @@
     "tm:uturn",
     "tm:zenheadbutt"
   ],
-  "labels": [
-    "gen9"
-  ],
+  "labels": ["gen9"],
   "aspects": [],
   "height": 12,
   "weight": 398,
@@ -110,9 +104,7 @@
       "name": "Wellspring",
       "primaryType": "grass",
       "secondaryType": "water",
-      "abilities": [
-        "waterabsorb"
-      ],
+      "abilities": ["waterabsorb"],
       "baseStats": {
         "hp": 80,
         "attack": 120,
@@ -135,18 +127,12 @@
       },
       "experienceGroup": "slow",
       "eggCycles": 50,
-      "eggGroups": [
-        "undiscovered"
+      "eggGroups": ["undiscovered"],
+      "pokedex": [
+        "This Pokémon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks."
       ],
-    "pokedex": [
-    "This Pokémon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks."
-  ],
-      "labels": [
-        "gen9"
-      ],
-      "aspects": [
-        "wellspring"
-      ],
+      "labels": ["gen9"],
+      "aspects": ["wellspring"],
       "height": 12,
       "weight": 398,
       "cannotDynamax": false,
@@ -156,9 +142,7 @@
       "name": "Hearthflame",
       "primaryType": "grass",
       "secondaryType": "fire",
-      "abilities": [
-        "moldbreaker"
-      ],
+      "abilities": ["moldbreaker"],
       "baseStats": {
         "hp": 80,
         "attack": 120,
@@ -181,15 +165,9 @@
       },
       "experienceGroup": "slow",
       "eggCycles": 50,
-      "eggGroups": [
-        "undiscovered"
-      ],
-      "labels": [
-        "gen9"
-      ],
-      "aspects": [
-        "hearthflame"
-      ],
+      "eggGroups": ["undiscovered"],
+      "labels": ["gen9"],
+      "aspects": ["hearthflame"],
       "height": 12,
       "weight": 398,
       "cannotDynamax": false,
@@ -199,9 +177,7 @@
       "name": "Cornerstone",
       "primaryType": "grass",
       "secondaryType": "rock",
-      "abilities": [
-        "sturdy"
-      ],
+      "abilities": ["sturdy"],
       "baseStats": {
         "hp": 80,
         "attack": 120,
@@ -224,15 +200,9 @@
       },
       "experienceGroup": "slow",
       "eggCycles": 50,
-      "eggGroups": [
-        "undiscovered"
-      ],
-      "labels": [
-        "gen9"
-      ],
-      "aspects": [
-        "cornerstone"
-      ],
+      "eggGroups": ["undiscovered"],
+      "labels": ["gen9"],
+      "aspects": ["cornerstone"],
       "height": 12,
       "weight": 398,
       "cannotDynamax": false,
@@ -241,9 +211,7 @@
     {
       "name": "Teal-Tera",
       "primaryType": "grass",
-      "abilities": [
-        "embodyaspectteal"
-      ],
+      "abilities": ["embodyaspectteal"],
       "baseStats": {
         "hp": 80,
         "attack": 120,
@@ -266,15 +234,9 @@
       },
       "experienceGroup": "slow",
       "eggCycles": 50,
-      "eggGroups": [
-        "undiscovered"
-      ],
-      "labels": [
-        "gen9"
-      ],
-      "aspects": [
-        "teal-tera"
-      ],
+      "eggGroups": ["undiscovered"],
+      "labels": ["gen9"],
+      "aspects": ["teal-tera"],
       "height": 12,
       "weight": 398,
       "cannotDynamax": false,
@@ -284,9 +246,7 @@
       "name": "Wellspring-Tera",
       "primaryType": "grass",
       "secondaryType": "water",
-      "abilities": [
-        "embodyaspectwellspring"
-      ],
+      "abilities": ["embodyaspectwellspring"],
       "baseStats": {
         "hp": 80,
         "attack": 120,
@@ -309,15 +269,9 @@
       },
       "experienceGroup": "slow",
       "eggCycles": 50,
-      "eggGroups": [
-        "undiscovered"
-      ],
-      "labels": [
-        "gen9"
-      ],
-      "aspects": [
-        "wellspring-tera"
-      ],
+      "eggGroups": ["undiscovered"],
+      "labels": ["gen9"],
+      "aspects": ["wellspring-tera"],
       "height": 12,
       "weight": 398,
       "cannotDynamax": false,
@@ -327,9 +281,7 @@
       "name": "Hearthflame-Tera",
       "primaryType": "grass",
       "secondaryType": "fire",
-      "abilities": [
-        "embodyaspecthearthflame"
-      ],
+      "abilities": ["embodyaspecthearthflame"],
       "baseStats": {
         "hp": 80,
         "attack": 120,
@@ -352,15 +304,9 @@
       },
       "experienceGroup": "slow",
       "eggCycles": 50,
-      "eggGroups": [
-        "undiscovered"
-      ],
-      "labels": [
-        "gen9"
-      ],
-      "aspects": [
-        "hearthflame-tera"
-      ],
+      "eggGroups": ["undiscovered"],
+      "labels": ["gen9"],
+      "aspects": ["hearthflame-tera"],
       "height": 12,
       "weight": 398,
       "cannotDynamax": false,
@@ -370,9 +316,7 @@
       "name": "Cornerstone-Tera",
       "primaryType": "grass",
       "secondaryType": "rock",
-      "abilities": [
-        "embodyaspectcornerstone"
-      ],
+      "abilities": ["embodyaspectcornerstone"],
       "baseStats": {
         "hp": 80,
         "attack": 120,
@@ -395,16 +339,9 @@
       },
       "experienceGroup": "slow",
       "eggCycles": 50,
-      "eggGroups": [
-        "undiscovered"
-      ],
-      "labels": [
-        "gen9",
-        "legendary"
-      ],
-      "aspects": [
-        "cornerstone-tera"
-      ],
+      "eggGroups": ["undiscovered"],
+      "labels": ["gen9", "legendary"],
+      "aspects": ["cornerstone-tera"],
       "height": 12,
       "weight": 398,
       "cannotDynamax": false,

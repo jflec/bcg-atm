@@ -4,9 +4,7 @@
   "nationalPokedexNumber": 798,
   "primaryType": "grass",
   "secondaryType": "steel",
-  "abilities": [
-    "beastboost"
-  ],
+  "abilities": ["beastboost"],
   "baseStats": {
     "hp": 59,
     "attack": 181,
@@ -21,9 +19,7 @@
   "baseExperienceYield": 285,
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:furycutter",
     "1:vacuumwave",
@@ -91,13 +87,8 @@
     "tutor:vacuumwave",
     "tutor:xscissor"
   ],
-  "labels": [
-    "gen7",
-    "ultra_beast"
-  ],
-  "pokedex": [
-    "cobblemon.species.kartana.desc"
-  ],
+  "labels": ["gen7", "ultra_beast"],
+  "pokedex": ["cobblemon.species.kartana.desc"],
   "evolutions": [],
   "baseScale": 0.75,
   "hitbox": {

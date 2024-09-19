@@ -2,9 +2,7 @@
   "name": "Cresselia",
   "nationalPokedexNumber": 488,
   "primaryType": "psychic",
-  "abilities": [
-    "levitate"
-  ],
+  "abilities": ["levitate"],
   "baseStats": {
     "hp": 120,
     "attack": 70,
@@ -19,9 +17,7 @@
   "baseExperienceYield": 300,
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:confusion",
     "1:doubleteam",
@@ -152,13 +148,8 @@
     "tutor:trick",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen4",
-    "legendary"
-  ],
-  "pokedex": [
-    "cobblemon.species.cresselia.desc"
-  ],
+  "labels": ["gen4", "legendary"],
+  "pokedex": ["cobblemon.species.cresselia.desc"],
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {

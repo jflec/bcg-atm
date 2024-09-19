@@ -2,11 +2,7 @@
   "name": "Pawmi",
   "nationalPokedexNumber": 921,
   "primaryType": "electric",
-  "abilities": [
-    "static",
-    "naturalcure",
-    "h:ironfist"
-  ],
+  "abilities": ["static", "naturalcure", "h:ironfist"],
   "baseStats": {
     "hp": 45,
     "attack": 50,
@@ -29,9 +25,7 @@
   },
   "experienceGroup": "medium_fast",
   "eggCycles": 15,
-  "eggGroups": [
-    "field"
-  ],
+  "eggGroups": ["field"],
   "moves": [
     "1:growl",
     "1:scratch",
@@ -88,9 +82,7 @@
     "tm:voltswitch",
     "tm:wildcharge"
   ],
-  "labels": [
-    "gen9"
-  ],
+  "labels": ["gen9"],
   "aspects": [],
   "height": 3,
   "weight": 25,
@@ -100,9 +92,7 @@
       "variant": "level_up",
       "result": "pawmo",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "armthrust"
-      ],
+      "learnableMoves": ["armthrust"],
       "requirements": [
         {
           "variant": "level",
@@ -112,9 +102,7 @@
     }
   ],
   "cannotDynamax": false,
-  "pokedex": [
-    "cobblemon.species.pawmi.desc"
-  ],
+  "pokedex": ["cobblemon.species.pawmi.desc"],
   "drops": {
     "amount": 1,
     "entries": [

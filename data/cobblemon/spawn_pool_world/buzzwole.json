@@ -1,20 +1,20 @@
 {
-    "enabled": true,
-    "neededInstalledMods": [],
-    "neededUninstalledMods": [],
-    "spawns": [
-        {
-            "id": "buzzwole-1",
-            "pokemon": "buzzwole",
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "ultra-rare",
-            "level": "70",
-            "weight": 0.2,
-            "condition": {
-                "canSeeSky": true,
-                "biomes": ["#cobblemon:is_swamp"]
-			}
-		}
-    ]
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "buzzwole-1",
+      "pokemon": "buzzwole",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 0.2,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": ["#cobblemon:is_swamp"]
+      }
+    }
+  ]
 }

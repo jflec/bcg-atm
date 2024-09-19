@@ -2,11 +2,7 @@
   "name": "Axew",
   "nationalPokedexNumber": 610,
   "primaryType": "dragon",
-  "abilities": [
-    "rivalry",
-    "moldbreaker",
-    "h:unnerve"
-  ],
+  "abilities": ["rivalry", "moldbreaker", "h:unnerve"],
   "drops": {
     "amount": 2,
     "entries": [
@@ -34,10 +30,7 @@
   "baseExperienceYield": 64,
   "experienceGroup": "slow",
   "eggCycles": 40,
-  "eggGroups": [
-    "monster",
-    "dragon"
-  ],
+  "eggGroups": ["monster", "dragon"],
   "moves": [
     "1:leer",
     "1:scratch",
@@ -158,12 +151,8 @@
     "tutor:snore",
     "tutor:superpower"
   ],
-  "labels": [
-    "gen5"
-  ],
-  "pokedex": [
-    "cobblemon.species.axew.desc"
-  ],
+  "labels": ["gen5"],
+  "pokedex": ["cobblemon.species.axew.desc"],
   "evolutions": [
     {
       "id": "axew_fraxure",

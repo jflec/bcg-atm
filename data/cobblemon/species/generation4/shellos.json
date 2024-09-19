@@ -2,11 +2,7 @@
   "name": "Shellos",
   "nationalPokedexNumber": 422,
   "primaryType": "water",
-  "abilities": [
-    "stickyhold",
-    "stormdrain",
-    "h:sandforce"
-  ],
+  "abilities": ["stickyhold", "stormdrain", "h:sandforce"],
   "drops": {
     "amount": 2,
     "entries": [
@@ -34,10 +30,7 @@
   "baseExperienceYield": 65,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "water_1",
-    "amorphous"
-  ],
+  "eggGroups": ["water_1", "amorphous"],
   "moves": [
     "1:mudslap",
     "1:watergun",
@@ -144,12 +137,8 @@
     "tutor:waterpulse",
     "tutor:yawn"
   ],
-  "labels": [
-    "gen4"
-  ],
-  "pokedex": [
-    "cobblemon.species.shellos.desc"
-  ],
+  "labels": ["gen4"],
+  "pokedex": ["cobblemon.species.shellos.desc"],
   "evolutions": [
     {
       "id": "shellos_gastrodon",

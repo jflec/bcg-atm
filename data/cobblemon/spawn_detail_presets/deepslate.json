@@ -1,8 +1,6 @@
 {
   "condition": {
-	"maxY": 40,
-	"neededNearbyBlocks": [
-      "minecraft:deepslate"
-    ]
+    "maxY": 40,
+    "neededNearbyBlocks": ["minecraft:deepslate"]
   }
 }

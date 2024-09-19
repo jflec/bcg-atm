@@ -1,26 +1,22 @@
 {
-    "enabled": true,
-    "neededInstalledMods": [],
-    "neededUninstalledMods": [],
-    "spawns": [
-        {
-            "id": "ducklett-1",
-            "pokemon": "ducklett",
-            "presets": [
-               "freshwater"
-            ],
-            "type": "pokemon",
-            "context": "surface",
-            "bucket": "common",
-            "level": "1-20",
-            "weight": 10,
-            "condition": {
-                "canSeeSky": true,
-                "biomes": [
-                    "#cobblemon:is_river"
-                ],
-                "timeRange": "day"
-            }
-      	  }
-		  ]
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "ducklett-1",
+      "pokemon": "ducklett",
+      "presets": ["freshwater"],
+      "type": "pokemon",
+      "context": "surface",
+      "bucket": "common",
+      "level": "1-20",
+      "weight": 10,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": ["#cobblemon:is_river"],
+        "timeRange": "day"
+      }
+    }
+  ]
 }

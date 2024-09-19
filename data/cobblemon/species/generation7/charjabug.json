@@ -3,9 +3,7 @@
   "nationalPokedexNumber": 737,
   "primaryType": "bug",
   "secondaryType": "electric",
-  "abilities": [
-    "battery"
-  ],
+  "abilities": ["battery"],
   "baseStats": {
     "hp": 57,
     "attack": 82,
@@ -20,9 +18,7 @@
   "baseExperienceYield": 140,
   "experienceGroup": "medium_fast",
   "eggCycles": 15,
-  "eggGroups": [
-    "bug"
-  ],
+  "eggGroups": ["bug"],
   "moves": [
     "1:bugbite",
     "1:charge",
@@ -81,12 +77,8 @@
     "tutor:skittersmack",
     "tutor:snore"
   ],
-  "labels": [
-    "gen7"
-  ],
-  "pokedex": [
-    "cobblemon.species.charjabug.desc"
-  ],
+  "labels": ["gen7"],
+  "pokedex": ["cobblemon.species.charjabug.desc"],
   "preEvolution": "grubbin",
   "evolutions": [
     {
@@ -94,9 +86,7 @@
       "variant": "item_interact",
       "result": "vikavolt",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "thunderbolt"
-      ],
+      "learnableMoves": ["thunderbolt"],
       "requirements": [],
       "requiredContext": "cobblemon:thunder_stone"
     }

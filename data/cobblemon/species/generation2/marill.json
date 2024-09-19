@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 183,
   "primaryType": "water",
   "secondaryType": "fairy",
-  "abilities": [
-    "thickfat",
-    "hugepower",
-    "h:sapsipper"
-  ],
+  "abilities": ["thickfat", "hugepower", "h:sapsipper"],
   "baseStats": {
     "hp": 70,
     "attack": 20,
@@ -22,10 +18,7 @@
   "baseExperienceYield": 88,
   "experienceGroup": "fast",
   "eggCycles": 10,
-  "eggGroups": [
-    "water_1",
-    "fairy"
-  ],
+  "eggGroups": ["water_1", "fairy"],
   "moves": [
     "1:defensecurl",
     "1:helpinghand",
@@ -203,12 +196,8 @@
     "tutor:waterpulse",
     "tutor:whirlpool"
   ],
-  "labels": [
-    "gen2"
-  ],
-  "pokedex": [
-    "cobblemon.species.marill.desc"
-  ],
+  "labels": ["gen2"],
+  "pokedex": ["cobblemon.species.marill.desc"],
   "preEvolution": "azurill",
   "evolutions": [
     {

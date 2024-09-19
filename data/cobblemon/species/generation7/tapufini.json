@@ -4,10 +4,7 @@
   "nationalPokedexNumber": 788,
   "primaryType": "water",
   "secondaryType": "fairy",
-  "abilities": [
-    "mistysurge",
-    "h:telepathy"
-  ],
+  "abilities": ["mistysurge", "h:telepathy"],
   "baseStats": {
     "hp": 70,
     "attack": 75,
@@ -22,9 +19,7 @@
   "baseExperienceYield": 285,
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:mistyterrain",
     "1:moonblast",
@@ -63,12 +58,8 @@
     "tm:grassknot",
     "tm:scald"
   ],
-  "labels": [
-    "gen7"
-  ],
-  "pokedex": [
-    "cobblemon.species.tapufini.desc"
-  ],
+  "labels": ["gen7"],
+  "pokedex": ["cobblemon.species.tapufini.desc"],
   "preEvolution": null,
   "evolutions": [],
   "baseScale": 1,

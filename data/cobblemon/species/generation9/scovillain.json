@@ -4,11 +4,7 @@
   "nationalPokedexNumber": 952,
   "primaryType": "grass",
   "secondaryType": "fire",
-  "abilities": [
-    "chlorophyll",
-    "insomnia",
-    "h:moody"
-  ],
+  "abilities": ["chlorophyll", "insomnia", "h:moody"],
   "baseStats": {
     "hp": 65,
     "attack": 108,
@@ -39,9 +35,7 @@
   },
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "grass"
-  ],
+  "eggGroups": ["grass"],
   "moves": [
     "1:firefang",
     "1:leafage",
@@ -92,10 +86,8 @@
     "tm:willowisp",
     "tm:zenheadbutt"
   ],
-  "labels": [
-    "gen9"
-  ],
-   "baseScale": 1,
+  "labels": ["gen9"],
+  "baseScale": 1,
   "hitbox": {
     "width": 0.9,
     "height": 1.4,
@@ -107,7 +99,5 @@
   "preEvolution": "capsakid",
   "evolutions": [],
   "cannotDynamax": false,
-  "pokedex": [
-    "cobblemon.species.scovillain.desc"
-  ]
+  "pokedex": ["cobblemon.species.scovillain.desc"]
 }

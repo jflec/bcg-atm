@@ -12,14 +12,9 @@
       "level": "50-70",
       "weight": 0.8,
       "condition": {
-        "biomes": [ 
-          "#cobblemon:is_plateau"
-         ],
-         "isThundering": true,
-      "neededBaseBlocks": [
-          "#minecraft:grass_block",
-          "#minecraft:stone"
-      ]
+        "biomes": ["#cobblemon:is_plateau"],
+        "isThundering": true,
+        "neededBaseBlocks": ["#minecraft:grass_block", "#minecraft:stone"]
       }
     }
   ]

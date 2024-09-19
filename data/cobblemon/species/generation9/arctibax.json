@@ -3,10 +3,7 @@
   "nationalPokedexNumber": 997,
   "primaryType": "dragon",
   "secondaryType": "ice",
-  "abilities": [
-    "thermalexchange",
-    "h:icebody"
-  ],
+  "abilities": ["thermalexchange", "h:icebody"],
   "baseStats": {
     "hp": 90,
     "attack": 95,
@@ -29,10 +26,7 @@
   },
   "experienceGroup": "slow",
   "eggCycles": 40,
-  "eggGroups": [
-    "dragon",
-    "mineral"
-  ],
+  "eggGroups": ["dragon", "mineral"],
   "moves": [
     "1:dragontail",
     "1:leer",
@@ -77,9 +71,7 @@
     "tm:takedown",
     "tm:terablast"
   ],
-  "labels": [
-    "gen9"
-  ],
+  "labels": ["gen9"],
   "aspects": [],
   "height": 8,
   "weight": 300,
@@ -90,9 +82,7 @@
       "variant": "level_up",
       "result": "baxcalibur",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "glaiverush"
-      ],
+      "learnableMoves": ["glaiverush"],
       "requirements": [
         {
           "variant": "level",
@@ -102,9 +92,7 @@
     }
   ],
   "cannotDynamax": false,
-  "pokedex": [
-    "cobblemon.species.arctibax.desc"
-  ],
+  "pokedex": ["cobblemon.species.arctibax.desc"],
   "drops": {
     "amount": 1,
     "entries": [

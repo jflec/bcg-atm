@@ -3,9 +3,7 @@
   "nationalPokedexNumber": 1021,
   "primaryType": "electric",
   "secondaryType": "dragon",
-  "abilities": [
-    "protosynthesis"
-  ],
+  "abilities": ["protosynthesis"],
   "baseStats": {
     "hp": 125,
     "attack": 73,
@@ -28,9 +26,7 @@
   },
   "experienceGroup": "slow",
   "eggCycles": 50,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:ancientpower",
     "1:shockwave",
@@ -96,10 +92,7 @@
     "tm:weatherball",
     "tm:wildcharge"
   ],
-  "labels": [
-    "gen9",
-    "paradox"
-  ],
+  "labels": ["gen9", "paradox"],
   "pokedex": [
     "It's said to incinerate everything around it with lightning launched from its fur. Very little is known about this creature."
   ],

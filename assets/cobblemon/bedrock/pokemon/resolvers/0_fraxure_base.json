@@ -10,7 +10,7 @@
       "layers": []
     },
     {
-      "aspects": [ "shiny" ],
+      "aspects": ["shiny"],
       "texture": "cobblemon:textures/pokemon/0611_fraxure/fraxure_shiny.png"
     }
   ]

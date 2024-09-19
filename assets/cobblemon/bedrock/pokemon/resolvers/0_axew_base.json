@@ -10,7 +10,7 @@
       "layers": []
     },
     {
-      "aspects": [ "shiny" ],
+      "aspects": ["shiny"],
       "texture": "cobblemon:textures/pokemon/0610_axew/axew_shiny.png"
     }
   ]

@@ -1,5 +1,6 @@
 {
-    "target": "cobblemon:munna",
+  "implemented": true,
+  "target": "cobblemon:munna",
   "baseScale": 0.8,
   "hitbox": {
     "width": 1,

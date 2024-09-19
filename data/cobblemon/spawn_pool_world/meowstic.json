@@ -6,20 +6,15 @@
     {
       "id": "meowstic-1",
       "pokemon": "meowstic",
-      "presets": [                
-          "natural"
-      ],
+      "presets": ["natural"],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "rare",
       "level": "20-65",
       "weight": 7.0,
       "condition": {
-          "biomes": [
-              "#minecraft:is_end"
-          ]
+        "biomes": ["#minecraft:is_end"]
       }
-
     }
   ]
 }

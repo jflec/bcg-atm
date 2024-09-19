@@ -7,26 +7,24 @@
       "poser": "cobblemon:blipbug",
       "model": "cobblemon:blipbug.geo",
       "texture": "cobblemon:textures/pokemon/blipbug/blipbug.png",
-      "layers": [ 
-	  {
+      "layers": [
+        {
           "name": "emissive",
           "texture": "cobblemon:textures/pokemon/blipbug/blipbug_emissive.png",
           "emissive": true
         }
-		]
+      ]
     },
     {
-      "aspects": [
-        "shiny"
-      ],
+      "aspects": ["shiny"],
       "texture": "cobblemon:textures/pokemon/blipbug/blipbug_shiny.png",
       "layers": [
-	   {
+        {
           "name": "emissive",
           "texture": "cobblemon:textures/pokemon/blipbug/blipbug_emissive.png",
           "emissive": true
         }
-	  ]
+      ]
     }
   ]
 }

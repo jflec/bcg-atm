@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 629,
   "primaryType": "dark",
   "secondaryType": "flying",
-  "abilities": [
-    "bigpecks",
-    "overcoat",
-    "h:weakarmor"
-  ],
+  "abilities": ["bigpecks", "overcoat", "h:weakarmor"],
   "drops": {
     "amount": 4,
     "entries": [
@@ -42,9 +38,7 @@
   "baseExperienceYield": 74,
   "experienceGroup": "slow",
   "eggCycles": 20,
-  "eggGroups": [
-    "flying"
-  ],
+  "eggGroups": ["flying"],
   "moves": [
     "1:gust",
     "1:leer",
@@ -149,21 +143,15 @@
     "tutor:snore",
     "tutor:tailwind"
   ],
-  "labels": [
-    "gen5"
-  ],
-  "pokedex": [
-    "cobblemon.species.vullaby.desc"
-  ],
+  "labels": ["gen5"],
+  "pokedex": ["cobblemon.species.vullaby.desc"],
   "evolutions": [
     {
       "id": "vullaby_mandibuzz",
       "variant": "level_up",
       "result": "mandibuzz",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "bonerush"
-      ],
+      "learnableMoves": ["bonerush"],
       "requirements": [
         {
           "variant": "level",

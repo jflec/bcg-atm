@@ -4,10 +4,7 @@
   "nationalPokedexNumber": 786,
   "primaryType": "psychic",
   "secondaryType": "fairy",
-  "abilities": [
-    "psychicsurge",
-    "h:telepathy"
-  ],
+  "abilities": ["psychicsurge", "h:telepathy"],
   "baseStats": {
     "hp": 70,
     "attack": 85,
@@ -22,9 +19,7 @@
   "baseExperienceYield": 285,
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:psychicterrain",
     "1:aromaticmist",
@@ -63,12 +58,8 @@
     "tm:energyball",
     "tm:focusblast"
   ],
-  "labels": [
-    "gen7"
-  ],
-  "pokedex": [
-    "cobblemon.species.tapulele.desc"
-  ],
+  "labels": ["gen7"],
+  "pokedex": ["cobblemon.species.tapulele.desc"],
   "preEvolution": null,
   "evolutions": [],
   "baseScale": 1,

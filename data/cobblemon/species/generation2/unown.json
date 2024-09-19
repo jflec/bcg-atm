@@ -2,9 +2,7 @@
   "name": "Unown",
   "nationalPokedexNumber": 201,
   "primaryType": "psychic",
-  "abilities": [
-    "levitate"
-  ],
+  "abilities": ["levitate"],
   "baseStats": {
     "hp": 48,
     "attack": 72,
@@ -19,20 +17,10 @@
   "baseExperienceYield": 118,
   "experienceGroup": "medium_fast",
   "eggCycles": 40,
-  "eggGroups": [
-    "undiscovered"
-  ],
-  "moves": [
-    "1:hiddenpower",
-    "tm:hiddenpower",
-    "tutor:hiddenpower"
-  ],
-  "labels": [
-    "gen2"
-  ],
-  "pokedex": [
-    "cobblemon.species.unown.desc"
-  ],
+  "eggGroups": ["undiscovered"],
+  "moves": ["1:hiddenpower", "tm:hiddenpower", "tutor:hiddenpower"],
+  "labels": ["gen2"],
+  "pokedex": ["cobblemon.species.unown.desc"],
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {

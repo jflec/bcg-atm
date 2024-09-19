@@ -4,11 +4,7 @@
   "nationalPokedexNumber": 732,
   "primaryType": "normal",
   "secondaryType": "flying",
-  "abilities": [
-    "keeneye",
-    "skilllink",
-    "h:pickup"
-  ],
+  "abilities": ["keeneye", "skilllink", "h:pickup"],
   "baseStats": {
     "hp": 55,
     "attack": 85,
@@ -23,9 +19,7 @@
   "baseExperienceYield": 124,
   "experienceGroup": "medium_fast",
   "eggCycles": 15,
-  "eggGroups": [
-    "flying"
-  ],
+  "eggGroups": ["flying"],
   "moves": [
     "1:echoedvoice",
     "1:growl",
@@ -77,12 +71,8 @@
     "tutor:tailwind",
     "tutor:uproar"
   ],
-  "labels": [
-    "gen7"
-  ],
-  "pokedex": [
-    "cobblemon.species.trumbeak.desc"
-  ],
+  "labels": ["gen7"],
+  "pokedex": ["cobblemon.species.trumbeak.desc"],
   "preEvolution": "pikipek",
   "evolutions": [
     {

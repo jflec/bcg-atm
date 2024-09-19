@@ -2,9 +2,7 @@
   "name": "Melmetal",
   "nationalPokedexNumber": 809,
   "primaryType": "steel",
-  "abilities": [
-    "ironfist"
-  ],
+  "abilities": ["ironfist"],
   "baseStats": {
     "hp": 135,
     "attack": 143,
@@ -20,9 +18,7 @@
     {
       "name": "Gmax",
       "primaryType": "steel",
-      "abilities": [
-        "ironfist"
-      ],
+      "abilities": ["ironfist"],
       "baseStats": {
         "hp": 135,
         "attack": 143,
@@ -45,18 +41,9 @@
       },
       "experienceGroup": "slow",
       "eggCycles": 120,
-      "eggGroups": [
-        "undiscovered"
-      ],
-      "labels": [
-        "gen8",
-        "mythical",
-        "legendary",
-        "gmax"
-      ],
-      "aspects": [
-        "gmax"
-      ],
+      "eggGroups": ["undiscovered"],
+      "labels": ["gen8", "mythical", "legendary", "gmax"],
+      "aspects": ["gmax"],
       "height": 250,
       "weight": 0,
       "cannotDynamax": false,
@@ -66,9 +53,7 @@
   "baseExperienceYield": 300,
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:harden",
     "1:headbutt",
@@ -152,14 +137,8 @@
     "tutor:thunderwave",
     "tutor:toxic"
   ],
-  "labels": [
-    "gen7",
-    "mythical",
-    "legendary"
-  ],
-  "pokedex": [
-    "cobblemon.species.melmetal.desc"
-  ],
+  "labels": ["gen7", "mythical", "legendary"],
+  "pokedex": ["cobblemon.species.melmetal.desc"],
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {

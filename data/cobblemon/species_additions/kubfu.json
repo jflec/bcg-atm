@@ -1,7 +1,8 @@
 {
+  "implemented": true,
   "target": "cobblemon:kubfu",
 
-  "baseScale":1.0,
+  "baseScale": 1.0,
   "hitbox": {
     "width": 1,
     "height": 1.5,
@@ -30,13 +31,13 @@
   ],
 
   "behaviour": {
-      "moving": {
-        "canLook": true,
-        "walk": {
-          "walkSpeed": 0.6,
-          "canWalk": true,
-          "avoidsLand": false
-        },
+    "moving": {
+      "canLook": true,
+      "walk": {
+        "walkSpeed": 0.6,
+        "canWalk": true,
+        "avoidsLand": false
+      },
       "fly": {
         "canFly": false
       },

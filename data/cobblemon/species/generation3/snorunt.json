@@ -2,11 +2,7 @@
   "name": "Snorunt",
   "nationalPokedexNumber": 361,
   "primaryType": "ice",
-  "abilities": [
-    "innerfocus",
-    "icebody",
-    "h:moody"
-  ],
+  "abilities": ["innerfocus", "icebody", "h:moody"],
   "baseStats": {
     "hp": 50,
     "attack": 50,
@@ -21,10 +17,7 @@
   "baseExperienceYield": 60,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "fairy",
-    "mineral"
-  ],
+  "eggGroups": ["fairy", "mineral"],
   "moves": [
     "1:astonish",
     "1:headbutt",
@@ -120,21 +113,15 @@
     "tutor:waterpulse",
     "tutor:weatherball"
   ],
-  "labels": [
-    "gen3"
-  ],
-  "pokedex": [
-    "cobblemon.species.snorunt.desc"
-  ],
+  "labels": ["gen3"],
+  "pokedex": ["cobblemon.species.snorunt.desc"],
   "evolutions": [
     {
       "id": "snorunt_glalie",
       "variant": "level_up",
       "result": "glalie",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "freezedry"
-      ],
+      "learnableMoves": ["freezedry"],
       "requirements": [
         {
           "variant": "level",

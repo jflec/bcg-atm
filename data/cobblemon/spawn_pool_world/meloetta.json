@@ -12,7 +12,7 @@
       "level": "50-55",
       "weight": 1.0,
       "condition": {
-        "biomes": ["#minecraft:meadow","#minecraft:sunflower_plains"]  
+        "biomes": ["#minecraft:meadow", "#minecraft:sunflower_plains"]
       }
     }
   ]

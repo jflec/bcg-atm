@@ -12,7 +12,7 @@
       "level": "70",
       "weight": 0.4,
       "condition": {
-        "biomes": ["#cobblemon:is_lukewarm"]  
+        "biomes": ["#cobblemon:is_lukewarm"]
       }
     },
     {
@@ -24,12 +24,10 @@
       "level": "70",
       "weight": 0.4,
       "condition": {
-        "biomes": [ 
-          "#minecraft:is_beach"
-         ],
-         "timeRange": "any",
-          "isRaining": false,
-          "neededBaseBlocks": ["#minecraft:sand"]
+        "biomes": ["#minecraft:is_beach"],
+        "timeRange": "any",
+        "isRaining": false,
+        "neededBaseBlocks": ["#minecraft:sand"]
       }
     }
   ]

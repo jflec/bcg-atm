@@ -3,10 +3,7 @@
   "nationalPokedexNumber": 976,
   "primaryType": "water",
   "secondaryType": "psychic",
-  "abilities": [
-    "moldbreaker",
-    "h:sharpness"
-  ],
+  "abilities": ["moldbreaker", "h:sharpness"],
   "baseStats": {
     "hp": 90,
     "attack": 102,
@@ -29,9 +26,7 @@
   },
   "experienceGroup": "fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "water_2"
-  ],
+  "eggGroups": ["water_2"],
   "moves": [
     "1:aquajet",
     "1:tackle",
@@ -85,17 +80,13 @@
     "tm:waterpulse",
     "tm:zenheadbutt"
   ],
-  "labels": [
-    "gen9"
-  ],
+  "labels": ["gen9"],
   "aspects": [],
   "height": 25,
   "weight": 900,
   "evolutions": [],
   "cannotDynamax": false,
-  "pokedex": [
-    "cobblemon.species.veluza.desc"
-  ],
+  "pokedex": ["cobblemon.species.veluza.desc"],
   "drops": {
     "amount": 4,
     "entries": [

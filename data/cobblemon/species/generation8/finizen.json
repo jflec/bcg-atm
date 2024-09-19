@@ -1,11 +1,9 @@
 {
-  "implemented":"true",
+  "implemented": "true",
   "name": "Finizen",
   "nationalPokedexNumber": 963,
   "primaryType": "water",
-  "abilities": [
-    "waterveil"
-  ],
+  "abilities": ["waterveil"],
   "baseStats": {
     "hp": 70,
     "attack": 45,
@@ -28,10 +26,7 @@
   },
   "experienceGroup": "slow",
   "eggCycles": 40,
-  "eggGroups": [
-    "field",
-    "water_2"
-  ],
+  "eggGroups": ["field", "water_2"],
   "moves": [
     "1:supersonic",
     "1:watergun",
@@ -83,9 +78,7 @@
     "tm:waterpulse",
     "tm:zenheadbutt"
   ],
-  "labels": [
-    "gen9"
-  ],
+  "labels": ["gen9"],
   "aspects": [],
   "height": 13,
   "weight": 602,
@@ -95,9 +88,7 @@
       "variant": "level_up",
       "result": "palafin",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "flipturn"
-      ],
+      "learnableMoves": ["flipturn"],
       "requirements": [
         {
           "variant": "level",
@@ -107,9 +98,7 @@
     }
   ],
   "cannotDynamax": false,
-  "pokedex": [
-    "cobblemon.species.finizen.desc"
-  ],
+  "pokedex": ["cobblemon.species.finizen.desc"],
   "drops": {
     "amount": 1,
     "entries": [

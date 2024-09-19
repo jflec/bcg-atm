@@ -6,9 +6,7 @@
     {
       "id": "pawniard-1",
       "pokemon": "pawniard",
-      "presets": [
-        "natural"
-      ],
+      "presets": ["natural"],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "rare",
@@ -22,9 +20,7 @@
     {
       "id": "pawniard-2",
       "pokemon": "pawniard",
-      "presets": [
-        "natural"
-      ],
+      "presets": ["natural"],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "rare",
@@ -38,9 +34,7 @@
     {
       "id": "pawniard-3",
       "pokemon": "pawniard",
-      "presets": [
-        "natural"
-      ],
+      "presets": ["natural"],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "uncommon",

@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 922,
   "primaryType": "electric",
   "secondaryType": "fighting",
-  "abilities": [
-    "voltabsorb",
-    "naturalcure",
-    "h:ironfist"
-  ],
+  "abilities": ["voltabsorb", "naturalcure", "h:ironfist"],
   "baseStats": {
     "hp": 60,
     "attack": 75,
@@ -30,9 +26,7 @@
   },
   "experienceGroup": "medium_fast",
   "eggCycles": 15,
-  "eggGroups": [
-    "field"
-  ],
+  "eggGroups": ["field"],
   "moves": [
     "1:growl",
     "1:scratch",
@@ -93,9 +87,7 @@
     "tm:voltswitch",
     "tm:wildcharge"
   ],
-  "labels": [
-    "gen9"
-  ],
+  "labels": ["gen9"],
   "aspects": [],
   "height": 4,
   "weight": 65,
@@ -106,9 +98,7 @@
       "variant": "level_up",
       "result": "pawmot",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "revivalblessing"
-      ],
+      "learnableMoves": ["revivalblessing"],
       "requirements": [
         {
           "variant": "blocks_traveled",
@@ -118,9 +108,7 @@
     }
   ],
   "cannotDynamax": false,
-  "pokedex": [
-    "cobblemon.species.pawmo.desc"
-  ],
+  "pokedex": ["cobblemon.species.pawmo.desc"],
   "drops": {
     "amount": 1,
     "entries": [

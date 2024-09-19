@@ -1,20 +1,20 @@
 {
-    "enabled": true,
-    "neededInstalledMods": [],
-    "neededUninstalledMods": [],
-    "spawns": [
-        {
-          "id": "meltan-1",
-          "pokemon": "meltan",
-          "type": "pokemon",
-          "context": "grounded",
-          "bucket": "ultra-rare",
-          "level": "10-31",
-          "weight": 2.0,
-          "condition": {
-            "canSeeSky": false,
-            "biomes": ["#minecraft:deep_dark"]  
-          }
-        }
-      ]
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "meltan-1",
+      "pokemon": "meltan",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "10-31",
+      "weight": 2.0,
+      "condition": {
+        "canSeeSky": false,
+        "biomes": ["#minecraft:deep_dark"]
+      }
     }
+  ]
+}

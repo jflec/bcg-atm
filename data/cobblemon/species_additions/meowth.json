@@ -1,4 +1,5 @@
 {
-    "target": "cobblemon:meowth",   
-    "shoulderMountable": true
+  "implemented": true,
+  "target": "cobblemon:meowth",
+  "shoulderMountable": true
 }

@@ -2,9 +2,7 @@
   "name": "Phione",
   "nationalPokedexNumber": 489,
   "primaryType": "water",
-  "abilities": [
-    "hydration"
-  ],
+  "abilities": ["hydration"],
   "baseStats": {
     "hp": 80,
     "attack": 80,
@@ -19,10 +17,7 @@
   "baseExperienceYield": 216,
   "experienceGroup": "slow",
   "eggCycles": 40,
-  "eggGroups": [
-    "water_1",
-    "fairy"
-  ],
+  "eggGroups": ["water_1", "fairy"],
   "moves": [
     "1:bubble",
     "1:watergun",
@@ -108,14 +103,8 @@
     "tutor:uproar",
     "tutor:waterpulse"
   ],
-  "labels": [
-    "gen4",
-    "mythical",
-    "legendary"
-  ],
-  "pokedex": [
-    "cobblemon.species.phione.desc"
-  ],
+  "labels": ["gen4", "mythical", "legendary"],
+  "pokedex": ["cobblemon.species.phione.desc"],
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {
@@ -141,9 +130,8 @@
     "entries": [
       {
         "item": "cobblemon:mystic_water"
-
       }
     ]
   },
-  "implemented":"true"
+  "implemented": "true"
 }

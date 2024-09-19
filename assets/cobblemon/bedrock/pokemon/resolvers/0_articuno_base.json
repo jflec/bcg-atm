@@ -9,9 +9,7 @@
       "texture": "cobblemon:textures/pokemon/articuno/articuno2.png"
     },
     {
-      "aspects": [
-        "shiny"
-      ],
+      "aspects": ["shiny"],
       "texture": "cobblemon:textures/pokemon/articuno/articuno_shiny2.png"
     }
   ]

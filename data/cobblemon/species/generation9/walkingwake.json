@@ -4,9 +4,7 @@
   "nationalPokedexNumber": 1009,
   "primaryType": "water",
   "secondaryType": "dragon",
-  "abilities": [
-    "protosynthesis"
-  ],
+  "abilities": ["protosynthesis"],
   "baseStats": {
     "hp": 99,
     "attack": 83,
@@ -43,9 +41,7 @@
   },
   "experienceGroup": "slow",
   "eggCycles": 50,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:aquajet",
     "1:honeclaws",
@@ -109,12 +105,10 @@
     "tm:weatherball",
     "tm:whirlpool"
   ],
-  "labels": [
-    "gen9",
-    "paradox"],
-    "pokedex": [
-      "his ferocious creature is shrouded in mystery. It's named after an aquatic monster mentioned in an old expedition journal."
-    ],
+  "labels": ["gen9", "paradox"],
+  "pokedex": [
+    "his ferocious creature is shrouded in mystery. It's named after an aquatic monster mentioned in an old expedition journal."
+  ],
   "aspects": [],
   "height": 35,
   "weight": 2800,

@@ -9,18 +9,13 @@
       "poseName": "standing",
       "transformTicks": 10,
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
-      "animations": [
-        "look",
-        "bedrock(jirachi, ground_idle)"
-      ]
+      "animations": ["look", "bedrock(jirachi, ground_idle)"]
     },
     "walking": {
       "poseName": "walking",
       "transformTicks": 10,
       "poseTypes": ["WALK"],
-      "animations": [
-        "bedrock(jirachi, ground_walk)"
-      ]
-    }  
+      "animations": ["bedrock(jirachi, ground_walk)"]
+    }
   }
 }

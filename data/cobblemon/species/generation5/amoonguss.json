@@ -3,10 +3,7 @@
   "nationalPokedexNumber": 591,
   "primaryType": "grass",
   "secondaryType": "poison",
-  "abilities": [
-    "effectspore",
-    "h:regenerator"
-  ],
+  "abilities": ["effectspore", "h:regenerator"],
   "drops": {
     "amount": 3,
     "entries": [
@@ -34,9 +31,7 @@
   "baseExperienceYield": 162,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "grass"
-  ],
+  "eggGroups": ["grass"],
   "moves": [
     "1:absorb",
     "1:astonish",
@@ -111,12 +106,8 @@
     "tutor:synthesis",
     "tutor:worryseed"
   ],
-  "labels": [
-    "gen5"
-  ],
-  "pokedex": [
-    "cobblemon.species.amoonguss.desc"
-  ],
+  "labels": ["gen5"],
+  "pokedex": ["cobblemon.species.amoonguss.desc"],
   "preEvolution": "foongus",
   "evolutions": [],
   "baseScale": 1,

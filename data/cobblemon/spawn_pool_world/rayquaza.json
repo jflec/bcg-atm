@@ -13,8 +13,8 @@
       "weight": 0.4,
       "condition": {
         "biomes": ["#minecraft:sunflower_plains"],
-      "timeRange": "day",
-      "isRaining": false
+        "timeRange": "day",
+        "isRaining": false
       }
     }
   ]

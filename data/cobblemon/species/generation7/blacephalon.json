@@ -3,9 +3,7 @@
   "nationalPokedexNumber": 806,
   "primaryType": "fire",
   "secondaryType": "ghost",
-  "abilities": [
-    "beastboost"
-  ],
+  "abilities": ["beastboost"],
   "drops": {
     "amount": 3,
     "entries": [
@@ -29,9 +27,7 @@
   "baseExperienceYield": 285,
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:astonish",
     "1:firespin",
@@ -120,13 +116,8 @@
     "tutor:uproar",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen7",
-    "ultra_beast"
-  ],
-  "pokedex": [
-    "cobblemon.species.blacephalon.desc"
-  ],
+  "labels": ["gen7", "ultra_beast"],
+  "pokedex": ["cobblemon.species.blacephalon.desc"],
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {

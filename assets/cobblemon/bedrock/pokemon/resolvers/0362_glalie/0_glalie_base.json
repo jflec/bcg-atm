@@ -7,20 +7,12 @@
       "poser": "cobblemon:glalie",
       "model": "cobblemon:glalie.geo",
       "texture": "cobblemon:textures/pokemon/glalie/glalie.png",
-      "layers": [ 
-	  {
-        }
-		]
+      "layers": [{}]
     },
     {
-      "aspects": [
-        "shiny"
-      ],
+      "aspects": ["shiny"],
       "texture": "cobblemon:textures/pokemon/glalie/glalie_shiny.png",
-      "layers": [
-	   {
-        }
-	  ]
+      "layers": [{}]
     }
   ]
 }

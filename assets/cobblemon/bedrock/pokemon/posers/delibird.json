@@ -7,21 +7,14 @@
     "standing": {
       "poseName": "standing",
       "transformTicks": 10,
-      "poseTypes": [
-          "STAND",
-          "NONE",
-          "PORTRAIT",
-          "PROFILE"
-        ],
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
       "animations": ["bedrock(delibird, ground_idle)"]
     },
     "walking": {
       "poseName": "walking",
       "poseTypes": ["WALK"],
-      "animations": [
-        "bedrock(delibird, ground_walk)"
-      ]
+      "animations": ["bedrock(delibird, ground_walk)"]
     }
   }
 }

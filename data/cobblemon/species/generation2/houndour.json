@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 228,
   "primaryType": "dark",
   "secondaryType": "fire",
-  "abilities": [
-    "earlybird",
-    "flashfire",
-    "h:unnerve"
-  ],
+  "abilities": ["earlybird", "flashfire", "h:unnerve"],
   "baseStats": {
     "hp": 45,
     "attack": 60,
@@ -22,9 +18,7 @@
   "baseExperienceYield": 66,
   "experienceGroup": "slow",
   "eggCycles": 20,
-  "eggGroups": [
-    "field"
-  ],
+  "eggGroups": ["field"],
   "moves": [
     "1:ember",
     "1:leer",
@@ -187,12 +181,8 @@
     "tutor:toxic",
     "tutor:uproar"
   ],
-  "labels": [
-    "gen2"
-  ],
-  "pokedex": [
-    "cobblemon.species.houndour.desc"
-  ],
+  "labels": ["gen2"],
+  "pokedex": ["cobblemon.species.houndour.desc"],
   "evolutions": [
     {
       "id": "houndour_houndoom",

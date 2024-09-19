@@ -16,9 +16,7 @@
       ]
     },
     {
-      "aspects": [
-        "shiny"
-      ],
+      "aspects": ["shiny"],
       "texture": "cobblemon:textures/pokemon/0353_shuppet/shuppet_shiny.png",
       "layers": [
         {

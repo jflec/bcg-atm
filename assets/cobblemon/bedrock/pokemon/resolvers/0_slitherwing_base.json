@@ -10,7 +10,7 @@
       "layers": []
     },
     {
-      "aspects": [ "shiny" ],
+      "aspects": ["shiny"],
       "texture": "cobblemon:textures/pokemon/0988_slitherwing/slitherwing_shiny.png"
     }
   ]

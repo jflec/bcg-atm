@@ -2,11 +2,7 @@
   "name": "Duosion",
   "nationalPokedexNumber": 578,
   "primaryType": "psychic",
-  "abilities": [
-    "overcoat",
-    "magicguard",
-    "h:regenerator"
-  ],
+  "abilities": ["overcoat", "magicguard", "h:regenerator"],
   "drops": {
     "amount": 3,
     "entries": [
@@ -34,9 +30,7 @@
   "baseExperienceYield": 130,
   "experienceGroup": "medium_slow",
   "eggCycles": 20,
-  "eggGroups": [
-    "amorphous"
-  ],
+  "eggGroups": ["amorphous"],
   "moves": [
     "1:confusion",
     "1:endeavor",
@@ -147,12 +141,8 @@
     "tutor:wonderroom",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen5"
-  ],
-  "pokedex": [
-    "cobblemon.species.duosion.desc"
-  ],
+  "labels": ["gen5"],
+  "pokedex": ["cobblemon.species.duosion.desc"],
   "preEvolution": "solosis",
   "evolutions": [
     {
@@ -160,9 +150,7 @@
       "variant": "level_up",
       "result": "reuniclus",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "hammerarm"
-      ],
+      "learnableMoves": ["hammerarm"],
       "requirements": [
         {
           "variant": "level",

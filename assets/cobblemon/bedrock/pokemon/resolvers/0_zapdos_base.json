@@ -9,9 +9,7 @@
       "texture": "cobblemon:textures/pokemon/zapdos/zapdos2.png"
     },
     {
-      "aspects": [
-        "shiny"
-      ],
+      "aspects": ["shiny"],
       "texture": "cobblemon:textures/pokemon/zapdos/zapdos2_shiny.png"
     }
   ]

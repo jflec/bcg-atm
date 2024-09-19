@@ -6,9 +6,7 @@
     {
       "id": "diancie-1",
       "pokemon": "diancie",
-      "presets": [
-        "gemstones"
-      ],
+      "presets": ["gemstones"],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "rare",
@@ -16,22 +14,16 @@
       "weight": 15,
       "condition": {
         "canSeeSky": false,
-        "biomes": [
-          "#cobblemon:is_overworld"
-        ],
+        "biomes": ["#cobblemon:is_overworld"],
         "anticondition": {
-          "biomes": [
-            "#cobblemon:is_lush"
-          ]
+          "biomes": ["#cobblemon:is_lush"]
         }
       }
     },
     {
       "id": "diancie-2",
       "pokemon": "diancie",
-      "presets": [
-        "natural"
-      ],
+      "presets": ["natural"],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
@@ -39,23 +31,16 @@
       "weight": 3,
       "condition": {
         "canSeeSky": false,
-        "biomes": [
-          "#cobblemon:is_cave"
-        ],
+        "biomes": ["#cobblemon:is_cave"],
         "anticondition": {
-          "biomes": [
-            "#cobblemon:is_lush"
-          ]
+          "biomes": ["#cobblemon:is_lush"]
         }
       }
     },
     {
       "id": "diancie-3",
       "pokemon": "diancie",
-      "presets": [
-        "natural",
-		"wild"
-      ],
+      "presets": ["natural", "wild"],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
@@ -63,23 +48,16 @@
       "weight": 1.5,
       "condition": {
         "canSeeSky": true,
-        "biomes": [
-          "#cobblemon:is_mountain"
-        ]
+        "biomes": ["#cobblemon:is_mountain"]
       },
       "anticondition": {
-        "biomes": [
-          "#cobblemon:is_deep_dark",
-          "#cobblemon:is_lush"
-        ]
+        "biomes": ["#cobblemon:is_deep_dark", "#cobblemon:is_lush"]
       }
     },
     {
       "id": "diancie-4",
       "pokemon": "diancie",
-      "presets": [
-        "deepslate"
-      ],
+      "presets": ["deepslate"],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "rare",
@@ -88,9 +66,7 @@
       "condition": {
         "canSeeSky": false,
         "anticondition": {
-          "biomes": [
-            "#cobblemon:is_lush"
-          ]
+          "biomes": ["#cobblemon:is_lush"]
         }
       }
     }

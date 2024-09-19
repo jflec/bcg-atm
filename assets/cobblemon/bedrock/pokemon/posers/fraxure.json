@@ -15,43 +15,27 @@
     "battle-standing": {
       "poseTypes": ["STAND", "WALK"],
       "isBattle": true,
-      "animations": [
-        "q.bedrock('fraxure', 'battle_idle')"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('fraxure', 'blink')"
-      ]
+      "animations": ["q.bedrock('fraxure', 'battle_idle')"],
+      "quirks": ["q.bedrock_quirk('fraxure', 'blink')"]
     },
     "standing": {
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
-      "animations": [
-        "q.bedrock('fraxure', 'ground_idle')"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('fraxure', 'blink')"
-      ]
+      "animations": ["q.bedrock('fraxure', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('fraxure', 'blink')"]
     },
     "walking": {
       "poseTypes": ["WALK"],
-      "animations": [
-        "q.bedrock('fraxure', 'ground_walk')"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('fraxure', 'blink')"
-      ]
+      "animations": ["q.bedrock('fraxure', 'ground_walk')"],
+      "quirks": ["q.bedrock_quirk('fraxure', 'blink')"]
     },
     "float": {
       "poseTypes": ["FLOAT"],
-      "animations": [
-        "q.bedrock('fraxure', 'ground_walk')"
-      ]
+      "animations": ["q.bedrock('fraxure', 'ground_walk')"]
     },
     "swim": {
       "poseTypes": ["SWIM"],
-      "animations": [
-        "q.bedrock('fraxure', 'ground_walk')"
-      ]
+      "animations": ["q.bedrock('fraxure', 'ground_walk')"]
     },
     "sleep": {
       "poseTypes": ["SLEEP"],

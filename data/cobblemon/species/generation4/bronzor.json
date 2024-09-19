@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 436,
   "primaryType": "steel",
   "secondaryType": "psychic",
-  "abilities": [
-    "levitate",
-    "heatproof",
-    "h:heavymetal"
-  ],
+  "abilities": ["levitate", "heatproof", "h:heavymetal"],
   "baseStats": {
     "hp": 57,
     "attack": 24,
@@ -22,9 +18,7 @@
   "baseExperienceYield": 60,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "mineral"
-  ],
+  "eggGroups": ["mineral"],
   "moves": [
     "1:confusion",
     "1:tackle",
@@ -154,21 +148,15 @@
     "tutor:trick",
     "tutor:wonderroom"
   ],
-  "labels": [
-    "gen4"
-  ],
-  "pokedex": [
-    "cobblemon.species.bronzor.desc"
-  ],
+  "labels": ["gen4"],
+  "pokedex": ["cobblemon.species.bronzor.desc"],
   "evolutions": [
     {
       "id": "bronzor_bronzong",
       "variant": "level_up",
       "result": "bronzong",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "block"
-      ],
+      "learnableMoves": ["block"],
       "requirements": [
         {
           "variant": "level",

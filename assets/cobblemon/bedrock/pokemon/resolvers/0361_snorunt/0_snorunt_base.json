@@ -7,20 +7,12 @@
       "poser": "cobblemon:snorunt",
       "model": "cobblemon:snorunt.geo",
       "texture": "cobblemon:textures/pokemon/snorunt/snorunt.png",
-      "layers": [ 
-	  {
-        }
-		]
+      "layers": [{}]
     },
     {
-      "aspects": [
-        "shiny"
-      ],
+      "aspects": ["shiny"],
       "texture": "cobblemon:textures/pokemon/snorunt/snorunt_shiny.png",
-      "layers": [
-	   {
-        }
-	  ]
+      "layers": [{}]
     }
   ]
 }

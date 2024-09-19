@@ -1,6 +1,7 @@
 {
-    "target": "cobblemon:palpitoad",
- "behaviour": {
+  "implemented": true,
+  "target": "cobblemon:palpitoad",
+  "behaviour": {
     "moving": {
       "swim": {
         "swimSpeed": 1,

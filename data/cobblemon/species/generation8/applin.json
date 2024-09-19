@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 840,
   "primaryType": "grass",
   "secondaryType": "dragon",
-  "abilities": [
-    "ripen",
-    "gluttony",
-    "h:bulletproof"
-  ],
+  "abilities": ["ripen", "gluttony", "h:bulletproof"],
   "baseStats": {
     "hp": 40,
     "attack": 40,
@@ -22,10 +18,7 @@
   "baseExperienceYield": 52,
   "experienceGroup": "erratic",
   "eggCycles": 20,
-  "eggGroups": [
-    "grass",
-    "dragon"
-  ],
+  "eggGroups": ["grass", "dragon"],
   "moves": [
     "1:astonish",
     "1:withdraw",
@@ -39,21 +32,15 @@
     "tutor:dracometeor",
     "tutor:grassyglide"
   ],
-  "labels": [
-    "gen8"
-  ],
-  "pokedex": [
-    "cobblemon.species.applin.desc"
-  ],
+  "labels": ["gen8"],
+  "pokedex": ["cobblemon.species.applin.desc"],
   "evolutions": [
     {
       "id": "applin_flapple",
       "variant": "item_interact",
       "result": "flapple",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "wingattack"
-      ],
+      "learnableMoves": ["wingattack"],
       "requirements": [],
       "requiredContext": "cobblemon:tart_apple"
     },
@@ -62,9 +49,7 @@
       "variant": "item_interact",
       "result": "appletun",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "headbutt"
-      ],
+      "learnableMoves": ["headbutt"],
       "requirements": [],
       "requiredContext": "cobblemon:sweet_apple"
     },
@@ -73,9 +58,7 @@
       "variant": "item_interact",
       "result": "dipplin",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "doublehit"
-      ],
+      "learnableMoves": ["doublehit"],
       "requirements": [],
       "requiredContext": "cobblemon:syrupy_apple"
     }

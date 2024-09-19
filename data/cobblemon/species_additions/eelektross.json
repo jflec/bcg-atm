@@ -1,6 +1,7 @@
 {
-    "target": "cobblemon:eelektross",
- "behaviour": {
+  "implemented": true,
+  "target": "cobblemon:eelektross",
+  "behaviour": {
     "moving": {
       "swim": {
         "swimSpeed": 1,

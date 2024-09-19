@@ -1,6 +1,7 @@
 {
-    "target": "cobblemon:tynamo",
- "behaviour": {
+  "implemented": true,
+  "target": "cobblemon:tynamo",
+  "behaviour": {
     "moving": {
       "walk": {
         "walkSpeed": 0.2,

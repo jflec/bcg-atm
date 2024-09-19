@@ -1,25 +1,21 @@
 {
-    "enabled": "true",
-    "neededInstalledMods": [],
-    "neededUninstalledMods": [],
-    "spawns": [
-        {
-            "id": "mewtwo-1",
-            "pokemon": "mewtwo",
-            "presets": [
-                "natural"
-            ],
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "ultra-rare",
-            "level": "70",
-            "weight": 0.01,
-            "condition": {
-                "canSeeSky": true,
-                "biomes": [
-                    "#cobblemon:is_mountain"
-                ]
-            }
-        }
-    ]
+  "enabled": "true",
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mewtwo-1",
+      "pokemon": "mewtwo",
+      "presets": ["natural"],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 0.01,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": ["#cobblemon:is_mountain"]
+      }
+    }
+  ]
 }

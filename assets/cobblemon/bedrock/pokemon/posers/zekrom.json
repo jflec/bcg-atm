@@ -15,46 +15,35 @@
     "battle-standing": {
       "poseTypes": ["STAND"],
       "isBattle": true,
-      "animations": ["look", "q.bedrock('zekrom', 'ground_idle')"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('zekrom', 'blink')"
-      ]
+      "animations": ["look", "q.bedrock('zekrom', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('zekrom', 'blink')"]
     },
     "standing": {
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
-      "animations": ["look", "q.bedrock('zekrom', 'ground_idle')"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('zekrom', 'blink')"
-      ]
+      "animations": ["look", "q.bedrock('zekrom', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('zekrom', 'blink')"]
     },
     "walking": {
       "poseTypes": ["WALK"],
-      "animations": ["look", "q.bedrock('zekrom', 'ground_walk')"
-      ],
+      "animations": ["look", "q.bedrock('zekrom', 'ground_walk')"],
       "quirks": ["q.bedrock_quirk('zekrom', 'blink')"]
     },
     "float": {
       "poseTypes": ["FLOAT"],
-      "animations": ["look", "q.bedrock('zekrom', 'ground_idle')"
-      ],
+      "animations": ["look", "q.bedrock('zekrom', 'ground_idle')"],
       "quirks": ["q.bedrock_quirk('zekrom', 'blink')"]
     },
     "swim": {
       "poseTypes": ["SWIM"],
-      "animations": ["look",
-        "q.bedrock('zekrom', 'ground_walk')"
-      ],
+      "animations": ["look", "q.bedrock('zekrom', 'ground_walk')"],
       "quirks": ["q.bedrock_quirk('zekrom', 'blink')"]
     },
     "hover": {
       "poseName": "hover",
       "poseTypes": ["HOVER"],
       "quirks": ["q.bedrock_quirk('zekrom', 'blink')"],
-      "animations": ["look", "q.bedrock('zekrom', 'ground_walk')"
-      ]
+      "animations": ["look", "q.bedrock('zekrom', 'ground_walk')"]
     },
     "fly": {
       "poseName": "fly",

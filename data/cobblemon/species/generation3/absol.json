@@ -2,11 +2,7 @@
   "name": "Absol",
   "nationalPokedexNumber": 359,
   "primaryType": "dark",
-  "abilities": [
-    "pressure",
-    "superluck",
-    "h:justified"
-  ],
+  "abilities": ["pressure", "superluck", "h:justified"],
   "baseStats": {
     "hp": 65,
     "attack": 130,
@@ -22,9 +18,7 @@
     {
       "name": "Mega",
       "primaryType": "dark",
-      "abilities": [
-        "magicbounce"
-      ],
+      "abilities": ["magicbounce"],
       "baseStats": {
         "hp": 65,
         "attack": 150,
@@ -47,16 +41,9 @@
       },
       "experienceGroup": "medium_slow",
       "eggCycles": 25,
-      "eggGroups": [
-        "field"
-      ],
-      "labels": [
-        "gen6",
-        "mega"
-      ],
-      "aspects": [
-        "mega"
-      ],
+      "eggGroups": ["field"],
+      "labels": ["gen6", "mega"],
+      "aspects": ["mega"],
       "height": 12,
       "weight": 490,
       "cannotDynamax": false,
@@ -66,9 +53,7 @@
   "baseExperienceYield": 163,
   "experienceGroup": "medium_slow",
   "eggCycles": 25,
-  "eggGroups": [
-    "field"
-  ],
+  "eggGroups": ["field"],
   "moves": [
     "1:feint",
     "1:leer",
@@ -239,12 +224,8 @@
     "tutor:wish",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen3"
-  ],
-  "pokedex": [
-    "cobblemon.species.absol.desc"
-  ],
+  "labels": ["gen3"],
+  "pokedex": ["cobblemon.species.absol.desc"],
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {

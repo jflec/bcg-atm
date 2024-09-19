@@ -3,10 +3,7 @@
   "nationalPokedexNumber": 487,
   "primaryType": "ghost",
   "secondaryType": "dragon",
-  "abilities": [
-    "pressure",
-    "h:telepathy"
-  ],
+  "abilities": ["pressure", "h:telepathy"],
   "baseStats": {
     "hp": 150,
     "attack": 100,
@@ -30,9 +27,7 @@
   },
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:defog",
     "1:dragonbreath",
@@ -177,13 +172,8 @@
     "tutor:telekinesis",
     "tutor:twister"
   ],
-  "labels": [
-    "gen4",
-    "legendary"
-  ],
-  "pokedex": [
-    "cobblemon.species.giratina.desc"
-  ],
+  "labels": ["gen4", "legendary"],
+  "pokedex": ["cobblemon.species.giratina.desc"],
   "height": 45,
   "weight": 7500,
   "evolutions": [],
@@ -198,9 +188,7 @@
       "name": "Origin",
       "primaryType": "ghost",
       "secondaryType": "dragon",
-      "abilities": [
-        "levitate"
-      ],
+      "abilities": ["levitate"],
       "baseStats": {
         "hp": 150,
         "attack": 120,
@@ -223,16 +211,9 @@
       },
       "experienceGroup": "slow",
       "eggCycles": 120,
-      "eggGroups": [
-        "undiscovered"
-      ],
-      "labels": [
-        "gen4",
-        "legendary"
-      ],
-      "aspects": [
-        "origin"
-      ],
+      "eggGroups": ["undiscovered"],
+      "labels": ["gen4", "legendary"],
+      "aspects": ["origin"],
       "height": 69,
       "weight": 6500,
       "evolutions": [],

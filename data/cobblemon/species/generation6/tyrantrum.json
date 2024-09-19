@@ -3,10 +3,7 @@
   "nationalPokedexNumber": 697,
   "primaryType": "rock",
   "secondaryType": "dragon",
-  "abilities": [
-    "strongjaw",
-    "h:rockhead"
-  ],
+  "abilities": ["strongjaw", "h:rockhead"],
   "baseStats": {
     "hp": 82,
     "attack": 121,
@@ -21,10 +18,7 @@
   "baseExperienceYield": 182,
   "experienceGroup": "medium_fast",
   "eggCycles": 30,
-  "eggGroups": [
-    "monster",
-    "dragon"
-  ],
+  "eggGroups": ["monster", "dragon"],
   "moves": [
     "1:headsmash",
     "1:tackle",
@@ -126,12 +120,8 @@
     "100:superpower",
     "100:zenheadbutt"
   ],
-  "labels": [
-    "gen6"
-  ],
-  "pokedex": [
-    "cobblemon.species.tyrantrum.desc"
-  ],
+  "labels": ["gen6"],
+  "pokedex": ["cobblemon.species.tyrantrum.desc"],
   "preEvolution": "tyrunt",
   "evolutions": [],
   "baseScale": 1.8,

@@ -3,10 +3,7 @@
   "nationalPokedexNumber": 996,
   "primaryType": "dragon",
   "secondaryType": "ice",
-  "abilities": [
-    "thermalexchange",
-    "h:icebody"
-  ],
+  "abilities": ["thermalexchange", "h:icebody"],
   "baseStats": {
     "hp": 65,
     "attack": 75,
@@ -29,10 +26,7 @@
   },
   "experienceGroup": "slow",
   "eggCycles": 40,
-  "eggGroups": [
-    "dragon",
-    "mineral"
-  ],
+  "eggGroups": ["dragon", "mineral"],
   "moves": [
     "1:dragontail",
     "1:leer",
@@ -78,9 +72,7 @@
     "tm:takedown",
     "tm:terablast"
   ],
-  "labels": [
-    "gen9"
-  ],
+  "labels": ["gen9"],
   "aspects": [],
   "height": 5,
   "weight": 170,
@@ -100,9 +92,7 @@
     }
   ],
   "cannotDynamax": false,
-  "pokedex": [
-    "cobblemon.species.frigibax.desc"
-  ],
+  "pokedex": ["cobblemon.species.frigibax.desc"],
   "drops": {
     "amount": 1,
     "entries": [

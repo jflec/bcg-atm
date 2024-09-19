@@ -4,10 +4,7 @@
   "nationalPokedexNumber": 787,
   "primaryType": "grass",
   "secondaryType": "fairy",
-  "abilities": [
-    "grassysurge",
-    "h:telepathy"
-  ],
+  "abilities": ["grassysurge", "h:telepathy"],
   "baseStats": {
     "hp": 70,
     "attack": 130,
@@ -22,9 +19,7 @@
   "baseExperienceYield": 285,
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:grassyterrain",
     "1:woodhammer",
@@ -57,12 +52,8 @@
     "tm:frustration",
     "tm:return"
   ],
-  "labels": [
-    "gen7"
-  ],
-  "pokedex": [
-    "cobblemon.species.tapubulu.desc"
-  ],
+  "labels": ["gen7"],
+  "pokedex": ["cobblemon.species.tapubulu.desc"],
   "preEvolution": null,
   "evolutions": [],
   "baseScale": 1,

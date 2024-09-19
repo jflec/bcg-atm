@@ -1,6 +1,7 @@
 {
-    "target": "cobblemon:milotic",
- "behaviour": {
+  "implemented": true,
+  "target": "cobblemon:milotic",
+  "behaviour": {
     "moving": {
       "walk": {
         "walkSpeed": 0.2,
@@ -14,21 +15,21 @@
     }
   },
   "evolutions": [
-  {
-    "id": "milotic_megamilotic",
-    "variant": "item_interact",
-    "result": "megamilotic",
-    "consumeHeldItem": true,
-    "requirements": [],
-    "requiredContext": "lackingmegas:key_stone"
-  },
-  {
-    "id": "milotic_megamilotic1",
-    "variant": "item_interact",
-    "result": "megamilotic",
-    "consumeHeldItem": false,
-    "requirements": [],
-    "requiredContext": "lackingmegas:mega_ring"
-  }
-]
+    {
+      "id": "milotic_megamilotic",
+      "variant": "item_interact",
+      "result": "megamilotic",
+      "consumeHeldItem": true,
+      "requirements": [],
+      "requiredContext": "lackingmegas:key_stone"
+    },
+    {
+      "id": "milotic_megamilotic1",
+      "variant": "item_interact",
+      "result": "megamilotic",
+      "consumeHeldItem": false,
+      "requirements": [],
+      "requiredContext": "lackingmegas:mega_ring"
+    }
+  ]
 }

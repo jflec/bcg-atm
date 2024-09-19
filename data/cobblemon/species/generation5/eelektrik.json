@@ -2,9 +2,7 @@
   "name": "Eelektrik",
   "nationalPokedexNumber": 603,
   "primaryType": "electric",
-  "abilities": [
-    "levitate"
-  ],
+  "abilities": ["levitate"],
   "drops": {
     "amount": 2,
     "entries": [
@@ -28,9 +26,7 @@
   "baseExperienceYield": 142,
   "experienceGroup": "slow",
   "eggCycles": 20,
-  "eggGroups": [
-    "amorphous"
-  ],
+  "eggGroups": ["amorphous"],
   "moves": [
     "1:chargebeam",
     "1:crunch",
@@ -107,12 +103,8 @@
     "tutor:superfang",
     "tutor:throatchop"
   ],
-  "labels": [
-    "gen5"
-  ],
-  "pokedex": [
-    "cobblemon.species.eelektrik.desc"
-  ],
+  "labels": ["gen5"],
+  "pokedex": ["cobblemon.species.eelektrik.desc"],
   "preEvolution": "tynamo",
   "evolutions": [
     {

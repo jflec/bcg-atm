@@ -4,10 +4,7 @@
   "nationalPokedexNumber": 752,
   "primaryType": "water",
   "secondaryType": "bug",
-  "abilities": [
-    "waterbubble",
-    "h:waterabsorb"
-  ],
+  "abilities": ["waterbubble", "h:waterabsorb"],
   "baseStats": {
     "hp": 68,
     "attack": 70,
@@ -16,14 +13,14 @@
     "special_defence": 132,
     "speed": 42
   },
-   "behaviour": {
-        "moving": {
-            "swim": {
-                "canSwimInWater": true,
-                "canBreatheUnderwater": true
-            }
-        }
-    },
+  "behaviour": {
+    "moving": {
+      "swim": {
+        "canSwimInWater": true,
+        "canBreatheUnderwater": true
+      }
+    }
+  },
   "catchRate": 100,
   "maleRatio": 0.5,
   "shoulderMountable": false,
@@ -32,9 +29,7 @@
       "name": "Totem",
       "primaryType": "water",
       "secondaryType": "bug",
-      "abilities": [
-        "waterbubble"
-      ],
+      "abilities": ["waterbubble"],
       "baseStats": {
         "hp": 68,
         "attack": 70,
@@ -57,10 +52,7 @@
       },
       "experienceGroup": "medium_fast",
       "eggCycles": 15,
-      "eggGroups": [
-        "water_1",
-        "bug"
-      ],
+      "eggGroups": ["water_1", "bug"],
       "moves": [
         "1:bubble",
         "1:bugbite",
@@ -121,13 +113,8 @@
         "tutor:waterpulse",
         "tutor:wonderroom"
       ],
-      "labels": [
-        "gen7",
-        "totem"
-      ],
-      "aspects": [
-        "totem"
-      ],
+      "labels": ["gen7", "totem"],
+      "aspects": ["totem"],
       "height": 31,
       "weight": 2175,
       "evolutions": [],
@@ -138,10 +125,7 @@
   "baseExperienceYield": 159,
   "experienceGroup": "medium_fast",
   "eggCycles": 15,
-  "eggGroups": [
-    "water_1",
-    "bug"
-  ],
+  "eggGroups": ["water_1", "bug"],
   "moves": [
     "1:bite",
     "1:bubble",
@@ -204,12 +188,8 @@
     "tutor:skittersmack",
     "tutor:waterpulse"
   ],
-  "labels": [
-    "gen7"
-  ],
-  "pokedex": [
-    "cobblemon.species.araquanid.desc"
-  ],
+  "labels": ["gen7"],
+  "pokedex": ["cobblemon.species.araquanid.desc"],
   "preEvolution": "dewpider",
   "evolutions": [],
   "baseScale": 1.4,

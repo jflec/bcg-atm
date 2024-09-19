@@ -2,9 +2,7 @@
   "name": "Zeraora",
   "nationalPokedexNumber": 807,
   "primaryType": "electric",
-  "abilities": [
-    "voltabsorb"
-  ],
+  "abilities": ["voltabsorb"],
   "baseStats": {
     "hp": 88,
     "attack": 112,
@@ -19,9 +17,7 @@
   "baseExperienceYield": 300,
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:fakeout",
     "1:poweruppunch",
@@ -128,14 +124,8 @@
     "tutor:thunder",
     "tutor:thunderpunch"
   ],
-  "labels": [
-    "gen7",
-    "mythical",
-    "legendary"
-  ],
-  "pokedex": [
-    "cobblemon.species.zeraora.desc"
-  ],
+  "labels": ["gen7", "mythical", "legendary"],
+  "pokedex": ["cobblemon.species.zeraora.desc"],
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {

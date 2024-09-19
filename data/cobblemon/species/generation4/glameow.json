@@ -2,11 +2,7 @@
   "name": "Glameow",
   "nationalPokedexNumber": 431,
   "primaryType": "normal",
-  "abilities": [
-    "limber",
-    "owntempo",
-    "h:keeneye"
-  ],
+  "abilities": ["limber", "owntempo", "h:keeneye"],
   "drops": {
     "amount": 1,
     "entries": [
@@ -30,9 +26,7 @@
   "baseExperienceYield": 62,
   "experienceGroup": "fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "field"
-  ],
+  "eggGroups": ["field"],
   "moves": [
     "1:fakeout",
     "5:scratch",
@@ -123,12 +117,8 @@
     "tutor:swift",
     "tutor:waterpulse"
   ],
-  "labels": [
-    "gen4"
-  ],
-  "pokedex": [
-    "cobblemon.species.glameow.desc"
-  ],
+  "labels": ["gen4"],
+  "pokedex": ["cobblemon.species.glameow.desc"],
   "evolutions": [
     {
       "id": "glameow_purugly",

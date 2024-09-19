@@ -16,9 +16,7 @@
       ]
     },
     {
-      "aspects": [
-        "shiny"
-      ],
+      "aspects": ["shiny"],
       "texture": "cobblemon:textures/pokemon/0867_runerigus/runerigus_shiny_shadow.png",
       "layers": [
         {

@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 668,
   "primaryType": "fire",
   "secondaryType": "normal",
-  "abilities": [
-    "rivalry",
-    "unnerve",
-    "h:moxie"
-  ],
+  "abilities": ["rivalry", "unnerve", "h:moxie"],
   "baseStats": {
     "hp": 86,
     "attack": 68,
@@ -22,9 +18,7 @@
   "baseExperienceYield": 177,
   "experienceGroup": "medium_slow",
   "eggCycles": 20,
-  "eggGroups": [
-    "field"
-  ],
+  "eggGroups": ["field"],
   "moves": [
     "1:ember",
     "1:hyperbeam",
@@ -114,12 +108,8 @@
     "tutor:snatch",
     "tutor:snore"
   ],
-  "labels": [
-    "gen6"
-  ],
-  "pokedex": [
-    "cobblemon.species.pyroar.desc"
-  ],
+  "labels": ["gen6"],
+  "pokedex": ["cobblemon.species.pyroar.desc"],
   "preEvolution": "litleo",
   "evolutions": [],
   "baseScale": 1,

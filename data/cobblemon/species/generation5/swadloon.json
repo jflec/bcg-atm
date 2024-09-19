@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 541,
   "primaryType": "bug",
   "secondaryType": "grass",
-  "abilities": [
-    "leafguard",
-    "chlorophyll",
-    "h:overcoat"
-  ],
+  "abilities": ["leafguard", "chlorophyll", "h:overcoat"],
   "drops": {
     "amount": 5,
     "entries": [
@@ -43,9 +39,7 @@
   "baseExperienceYield": 133,
   "experienceGroup": "medium_slow",
   "eggCycles": 15,
-  "eggGroups": [
-    "bug"
-  ],
+  "eggGroups": ["bug"],
   "moves": [
     "1:bugbite",
     "1:grasswhistle",
@@ -117,12 +111,8 @@
     "tutor:synthesis",
     "tutor:worryseed"
   ],
-  "labels": [
-    "gen5"
-  ],
-  "pokedex": [
-    "cobblemon.species.swadloon.desc"
-  ],
+  "labels": ["gen5"],
+  "pokedex": ["cobblemon.species.swadloon.desc"],
   "preEvolution": "sewaddle",
   "evolutions": [
     {
@@ -130,9 +120,7 @@
       "variant": "level_up",
       "result": "leavanny",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "slash"
-      ],
+      "learnableMoves": ["slash"],
       "requirements": [
         {
           "variant": "friendship",

@@ -2,10 +2,7 @@
   "name": "Kubfu",
   "nationalPokedexNumber": 891,
   "primaryType": "fighting",
-  "abilities": [
-    "innerfocus",
-    "h:noguard"
-  ],
+  "abilities": ["innerfocus", "h:noguard"],
   "baseStats": {
     "hp": 60,
     "attack": 90,
@@ -20,9 +17,7 @@
   "baseExperienceYield": 77,
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:leer",
     "1:rocksmash",
@@ -86,10 +81,7 @@
     "tutor:leer",
     "tutor:rocksmash"
   ],
-  "labels": [
-    "gen8",
-    "legendary"
-  ],
+  "labels": ["gen8", "legendary"],
   "pokedex": [
     "Inhabiting the mountains of a distant region, this Pokémon races across sheer cliffs, training its legs and refining its moves."
   ],
@@ -99,9 +91,7 @@
       "variant": "block_click",
       "result": "urshifu",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "wickedblow"
-      ],
+      "learnableMoves": ["wickedblow"],
       "requirements": [],
       "item": "cobblemon:black_belt"
     },
@@ -110,9 +100,7 @@
       "variant": "block_click",
       "result": "urshifu rapidrs",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "surgingstrikes"
-      ],
+      "learnableMoves": ["surgingstrikes"],
       "requirements": [],
       "item": "cobblemon:choice_scarf"
     }

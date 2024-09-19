@@ -4,36 +4,32 @@
   "portraitTranslation": [-0.8, -0.3, 0],
   "profileScale": 0.75,
   "profileTranslation": [0, 0.6, 0],
-  "cry":  "bedrock(tauros, cry)",
+  "cry": "bedrock(tauros, cry)",
   "poses": {
     "standing": {
       "poseName": "standing",
       "transformTicks": 10,
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
-	  "isBattle": false,
+      "isBattle": false,
       "animations": ["look", "bedrock(tauros, ground_idle)"],
-            "quirks": [
-                {
-                    "name": "blink",
-                    "animations": [
-                        "bedrock(tauros, blink)"
-                    ]
-                }
-            ]
-  },
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(tauros, blink)"]
+        }
+      ]
+    },
     "walking": {
       "poseName": "walking",
       "transformTicks": 10,
       "poseTypes": ["WALK"],
       "animations": ["bedrock(tauros, ground_walk)"],
-            "quirks": [
-                {
-                    "name": "blink",
-                    "animations": [
-                        "bedrock(tauros, blink)"
-                    ]
-                }
-            ]
-     }
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(tauros, blink)"]
+        }
+      ]
+    }
   }
 }

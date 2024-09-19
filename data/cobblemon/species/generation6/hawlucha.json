@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 701,
   "primaryType": "fighting",
   "secondaryType": "flying",
-  "abilities": [
-    "limber",
-    "unburden",
-    "h:moldbreaker"
-  ],
+  "abilities": ["limber", "unburden", "h:moldbreaker"],
   "baseStats": {
     "hp": 78,
     "attack": 92,
@@ -22,10 +18,7 @@
   "baseExperienceYield": 175,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "flying",
-    "human_like"
-  ],
+  "eggGroups": ["flying", "human_like"],
   "moves": [
     "1:honeclaws",
     "1:tackle",
@@ -169,12 +162,8 @@
     "tutor:thunderpunch",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen6"
-  ],
-  "pokedex": [
-    "cobblemon.species.hawlucha.desc"
-  ],
+  "labels": ["gen6"],
+  "pokedex": ["cobblemon.species.hawlucha.desc"],
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {

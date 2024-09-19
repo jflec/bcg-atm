@@ -1,6 +1,7 @@
 {
-    "target": "cobblemon:tympole",
- "behaviour": {
+  "implemented": true,
+  "target": "cobblemon:tympole",
+  "behaviour": {
     "moving": {
       "walk": {
         "walkSpeed": 0.2,

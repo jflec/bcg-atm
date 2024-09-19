@@ -6,18 +6,15 @@
     {
       "id": "shaymin-1",
       "pokemon": "shaymin",
-      "presets": [                
-          "natural"
-      ],
+      "presets": ["natural"],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
       "level": "60-75",
       "weight": 5,
       "condition": {
-          "biomes":[
-            "#minecraft:flower_forest"]
-	  }
-	}
-    ]
+        "biomes": ["#minecraft:flower_forest"]
+      }
+    }
+  ]
 }

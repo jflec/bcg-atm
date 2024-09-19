@@ -3,18 +3,13 @@
   "order": 1,
   "variations": [
     {
-      "aspects": [
-        "galarian"
-      ],
+      "aspects": ["galarian"],
       "poser": "cobblemon:zapdos_galar",
       "model": "cobblemon:zapdos_galar.geo",
       "texture": "cobblemon:textures/pokemon/zapdos/zapdos_galar.png"
     },
     {
-      "aspects": [
-        "galarian",
-        "shiny"
-      ],
+      "aspects": ["galarian", "shiny"],
       "texture": "cobblemon:textures/pokemon/zapdos/zapdos_galar_shiny.png"
     }
   ]

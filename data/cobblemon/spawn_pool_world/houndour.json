@@ -1,51 +1,37 @@
 {
-    "enabled": true,
-    "neededInstalledMods": [],
-    "neededUninstalledMods": [],
-    "spawns": [
-        {
-            "id": "houndour-1",
-            "pokemon": "houndour",
-            "presets": [
-                "natural"
-            ],
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "uncommon",
-            "level": "5-68",
-            "weight": 10,
-            "condition": {
-				
-                "canSeeSky": true,
-                "biomes": [
-                    "#cobblemon:is_sandy"
-                ],
-				"structures": [
-	         "#minecraft:village"
-	        ],
-                "timeRange": "night"
-            }
-      	  
-		  
-
-      	  },
-		  {
-            "id": "houndour-2",
-            "pokemon": "houndour",
-            "presets": [
-                "natural"
-            ],
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "common",
-            "level": "10-70",
-            "weight": 10,
-            "condition": {
-                "canSeeSky": false,
-                "biomes": [
-                    "#minecraft:is_nether"
-                ]
-            }
-		  }
-		  ]
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "houndour-1",
+      "pokemon": "houndour",
+      "presets": ["natural"],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "5-68",
+      "weight": 10,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": ["#cobblemon:is_sandy"],
+        "structures": ["#minecraft:village"],
+        "timeRange": "night"
+      }
+    },
+    {
+      "id": "houndour-2",
+      "pokemon": "houndour",
+      "presets": ["natural"],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "10-70",
+      "weight": 10,
+      "condition": {
+        "canSeeSky": false,
+        "biomes": ["#minecraft:is_nether"]
+      }
+    }
+  ]
 }

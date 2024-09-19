@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 423,
   "primaryType": "water",
   "secondaryType": "ground",
-  "abilities": [
-    "stickyhold",
-    "stormdrain",
-    "h:sandforce"
-  ],
+  "abilities": ["stickyhold", "stormdrain", "h:sandforce"],
   "drops": {
     "amount": 3,
     "entries": [
@@ -35,10 +31,7 @@
   "baseExperienceYield": 166,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "water_1",
-    "amorphous"
-  ],
+  "eggGroups": ["water_1", "amorphous"],
   "moves": [
     "1:harden",
     "1:mudslap",
@@ -145,12 +138,8 @@
     "tutor:stringshot",
     "tutor:waterpulse"
   ],
-  "labels": [
-    "gen4"
-  ],
-  "pokedex": [
-    "cobblemon.species.gastrodon.desc"
-  ],
+  "labels": ["gen4"],
+  "pokedex": ["cobblemon.species.gastrodon.desc"],
   "preEvolution": "shellos",
   "evolutions": [],
   "baseScale": 1,

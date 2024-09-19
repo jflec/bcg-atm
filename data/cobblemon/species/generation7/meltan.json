@@ -2,9 +2,7 @@
   "name": "Meltan",
   "nationalPokedexNumber": 808,
   "primaryType": "steel",
-  "abilities": [
-    "magnetpull"
-  ],
+  "abilities": ["magnetpull"],
   "baseStats": {
     "hp": 46,
     "attack": 65,
@@ -19,9 +17,7 @@
   "baseExperienceYield": 150,
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:harden",
     "1:thundershock",
@@ -59,14 +55,8 @@
     "tutor:thunderwave",
     "tutor:toxic"
   ],
-  "labels": [
-    "gen7",
-    "mythical",
-    "legendary"
-  ],
-  "pokedex": [
-    "cobblemon.species.meltan.desc"
-  ],
+  "labels": ["gen7", "mythical", "legendary"],
+  "pokedex": ["cobblemon.species.meltan.desc"],
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {

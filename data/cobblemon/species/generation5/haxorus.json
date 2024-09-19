@@ -2,11 +2,7 @@
   "name": "Haxorus",
   "nationalPokedexNumber": 612,
   "primaryType": "dragon",
-  "abilities": [
-    "rivalry",
-    "moldbreaker",
-    "h:unnerve"
-  ],
+  "abilities": ["rivalry", "moldbreaker", "h:unnerve"],
   "drops": {
     "amount": 2,
     "entries": [
@@ -34,10 +30,7 @@
   "baseExperienceYield": 270,
   "experienceGroup": "slow",
   "eggCycles": 40,
-  "eggGroups": [
-    "monster",
-    "dragon"
-  ],
+  "eggGroups": ["monster", "dragon"],
   "moves": [
     "1:bite",
     "1:dragonrage",
@@ -155,12 +148,8 @@
     "tutor:superpower",
     "tutor:xscissor"
   ],
-  "labels": [
-    "gen5"
-  ],
-  "pokedex": [
-    "cobblemon.species.haxorus.desc"
-  ],
+  "labels": ["gen5"],
+  "pokedex": ["cobblemon.species.haxorus.desc"],
   "preEvolution": "fraxure",
   "evolutions": [],
   "baseScale": 1,

@@ -1,7 +1,8 @@
 {
+  "implemented": true,
   "target": "cobblemon:groudon",
 
-  "baseScale":0.5,
+  "baseScale": 0.5,
   "hitbox": {
     "width": 11,
     "height": 12,
@@ -9,13 +10,13 @@
   },
 
   "behaviour": {
-      "moving": {
-        "canLook": true,
-        "walk": {
-          "walkSpeed": 0.2,
-          "canWalk": true,
-          "avoidsLand": false
-        },
+    "moving": {
+      "canLook": true,
+      "walk": {
+        "walkSpeed": 0.2,
+        "canWalk": true,
+        "avoidsLand": false
+      },
       "fly": {
         "canFly": false
       },

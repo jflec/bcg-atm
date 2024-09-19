@@ -2,10 +2,7 @@
   "name": "Cursola",
   "nationalPokedexNumber": 864,
   "primaryType": "ghost",
-  "abilities": [
-    "weakarmor",
-    "h:perishbody"
-  ],
+  "abilities": ["weakarmor", "h:perishbody"],
   "baseStats": {
     "hp": 60,
     "attack": 95,
@@ -20,10 +17,7 @@
   "baseExperienceYield": 179,
   "experienceGroup": "fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "water_1",
-    "water_3"
-  ],
+  "eggGroups": ["water_1", "water_3"],
   "moves": [
     "1:astonish",
     "1:disable",
@@ -97,12 +91,8 @@
     "tutor:meteorbeam",
     "tutor:poltergeist"
   ],
-  "labels": [
-    "gen8"
-  ],
-  "pokedex": [
-    "cobblemon.species.cursola.desc"
-  ],
+  "labels": ["gen8"],
+  "pokedex": ["cobblemon.species.cursola.desc"],
   "preEvolution": "corsola galarian",
   "evolutions": [],
   "baseScale": 1,

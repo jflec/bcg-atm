@@ -1,6 +1,6 @@
 {
   "implemented": true,
-  "target": "cobblemon:indeedee",   
+  "target": "cobblemon:indeedee",
   "baseScale": 0.75,
   "hitbox": {
     "width": 0.86,
@@ -11,11 +11,7 @@
   "forms": [
     {
       "name": "female",
-      "abilities": [
-        "owntempo",
-        "synchronize",
-        "h:psychicsurge"
-      ],
+      "abilities": ["owntempo", "synchronize", "h:psychicsurge"],
       "baseStats": {
         "hp": 70,
         "attack": 55,
@@ -38,9 +34,7 @@
       },
       "experienceGroup": "fast",
       "eggCycles": 40,
-      "eggGroups": [
-        "fairy"
-      ],
+      "eggGroups": ["fairy"],
       "moves": [
         "1:playnice",
         "1:storedpower",
@@ -109,12 +103,8 @@
         "tutor:expandingforce",
         "tutor:terrainpulse"
       ],
-      "labels": [
-        "gen8"
-      ],
-      "aspects": [
-        "female"
-      ],
+      "labels": ["gen8"],
+      "aspects": ["female"],
       "height": 9,
       "weight": 280,
       "baseScale": 0.75,
@@ -130,7 +120,5 @@
   "baseExperienceYield": 166,
   "experienceGroup": "fast",
   "eggCycles": 40,
-  "eggGroups": [
-    "fairy"
-  ]
- }
+  "eggGroups": ["fairy"]
+}

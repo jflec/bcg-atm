@@ -15,9 +15,7 @@
     "battle-standing": {
       "poseTypes": ["STAND"],
       "isBattle": true,
-      "animations": [
-        "q.bedrock('kyogre', 'ground_idle')"
-      ],
+      "animations": ["q.bedrock('kyogre', 'ground_idle')"],
       "quirks": [
         "q.bedrock_quirk('kyogre', 'blink')",
         "q.bedrock_quirk('kyogre', q.array('quirk_ground_idle'), 30, 60, 1)"
@@ -26,9 +24,7 @@
     "standing": {
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
-      "animations": [
-        "q.bedrock('kyogre', 'ground_idle')"
-      ],
+      "animations": ["q.bedrock('kyogre', 'ground_idle')"],
       "quirks": [
         "q.bedrock_quirk('kyogre', 'blink')",
         "q.bedrock_quirk('kyogre', 'quirk_ground_idle', 20, 60, 1)"
@@ -36,23 +32,17 @@
     },
     "walking": {
       "poseTypes": ["WALK"],
-      "animations": [
-        "q.bedrock('kyogre', 'ground_walk')"
-      ],
+      "animations": ["q.bedrock('kyogre', 'ground_walk')"],
       "quirks": ["q.bedrock_quirk('kyogre', 'blink')"]
     },
     "float": {
       "poseTypes": ["FLOAT"],
-      "animations": [
-        "q.bedrock('kyogre', 'water_idle')"
-      ],
+      "animations": ["q.bedrock('kyogre', 'water_idle')"],
       "quirks": ["q.bedrock_quirk('kyogre', 'blink')"]
     },
     "swim": {
       "poseTypes": ["SWIM"],
-      "animations": [
-        "q.bedrock('kyogre', 'water_swim')"
-      ],
+      "animations": ["q.bedrock('kyogre', 'water_swim')"],
       "quirks": ["q.bedrock_quirk('kyogre', 'blink')"]
     },
     "sleep": {

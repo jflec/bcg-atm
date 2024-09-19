@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 225,
   "primaryType": "ice",
   "secondaryType": "flying",
-  "abilities": [
-    "vitalspirit",
-    "hustle",
-    "h:insomnia"
-  ],
+  "abilities": ["vitalspirit", "hustle", "h:insomnia"],
   "baseStats": {
     "hp": 45,
     "attack": 55,
@@ -22,10 +18,7 @@
   "baseExperienceYield": 116,
   "experienceGroup": "fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "water_1",
-    "field"
-  ],
+  "eggGroups": ["water_1", "field"],
   "moves": [
     "1:present",
     "25:drillpeck",
@@ -175,12 +168,8 @@
     "tutor:tripleaxel",
     "tutor:waterpulse"
   ],
-  "labels": [
-    "gen2"
-  ],
-  "pokedex": [
-    "cobblemon.species.delibird.desc"
-  ],
+  "labels": ["gen2"],
+  "pokedex": ["cobblemon.species.delibird.desc"],
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {

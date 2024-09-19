@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 536,
   "primaryType": "water",
   "secondaryType": "ground",
-  "abilities": [
-    "swiftswim",
-    "hydration",
-    "h:waterabsorb"
-  ],
+  "abilities": ["swiftswim", "hydration", "h:waterabsorb"],
   "drops": {
     "amount": 3,
     "entries": [
@@ -35,9 +31,7 @@
   "baseExperienceYield": 134,
   "experienceGroup": "medium_slow",
   "eggCycles": 20,
-  "eggGroups": [
-    "water_1"
-  ],
+  "eggGroups": ["water_1"],
   "moves": [
     "1:acid",
     "1:bubble",
@@ -108,12 +102,8 @@
     "tutor:uproar",
     "tutor:waterpulse"
   ],
-  "labels": [
-    "gen5"
-  ],
-  "pokedex": [
-    "cobblemon.species.palpitoad.desc"
-  ],
+  "labels": ["gen5"],
+  "pokedex": ["cobblemon.species.palpitoad.desc"],
   "preEvolution": "tympole",
   "evolutions": [
     {
@@ -121,9 +111,7 @@
       "variant": "level_up",
       "result": "seismitoad",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "drainpunch"
-      ],
+      "learnableMoves": ["drainpunch"],
       "requirements": [
         {
           "variant": "level",

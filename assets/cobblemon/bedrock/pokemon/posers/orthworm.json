@@ -9,25 +9,19 @@
       "poseName": "standing",
       "transformTicks": 10,
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE", "FLOAT"],
-      "animations": [
-        "look",
-        "bedrock(orthworm, ground_idle)"
-      ]
+      "animations": ["look", "bedrock(orthworm, ground_idle)"]
     },
     "walking": {
       "poseName": "walking",
       "transformTicks": 10,
       "poseTypes": ["WALK", "SWIM"],
-      "animations": [
-        "look",
-        "bedrock(orthworm, ground_walk)"
-      ]
+      "animations": ["look", "bedrock(orthworm, ground_walk)"]
     },
-	"sleeping": {
+    "sleeping": {
       "poseName": "sleeping",
       "transformTicks": 10,
-      "poseTypes": [ "SLEEP" ],
-      "animations": [ "bedrock(orthworm, sleep)" ]
+      "poseTypes": ["SLEEP"],
+      "animations": ["bedrock(orthworm, sleep)"]
     }
   }
 }

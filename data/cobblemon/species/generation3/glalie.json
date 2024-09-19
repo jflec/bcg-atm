@@ -2,11 +2,7 @@
   "name": "Glalie",
   "nationalPokedexNumber": 362,
   "primaryType": "ice",
-  "abilities": [
-    "innerfocus",
-    "icebody",
-    "h:moody"
-  ],
+  "abilities": ["innerfocus", "icebody", "h:moody"],
   "baseStats": {
     "hp": 80,
     "attack": 80,
@@ -22,9 +18,7 @@
     {
       "name": "Mega",
       "primaryType": "ice",
-      "abilities": [
-        "refrigerate"
-      ],
+      "abilities": ["refrigerate"],
       "baseStats": {
         "hp": 80,
         "attack": 120,
@@ -47,17 +41,9 @@
       },
       "experienceGroup": "medium_fast",
       "eggCycles": 20,
-      "eggGroups": [
-        "fairy",
-        "mineral"
-      ],
-      "labels": [
-        "gen6",
-        "mega"
-      ],
-      "aspects": [
-        "mega"
-      ],
+      "eggGroups": ["fairy", "mineral"],
+      "labels": ["gen6", "mega"],
+      "aspects": ["mega"],
       "height": 21,
       "weight": 3502,
       "cannotDynamax": false,
@@ -67,10 +53,7 @@
   "baseExperienceYield": 168,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "fairy",
-    "mineral"
-  ],
+  "eggGroups": ["fairy", "mineral"],
   "moves": [
     "1:astonish",
     "1:doubleteam",
@@ -176,12 +159,8 @@
     "tutor:swagger",
     "tutor:waterpulse"
   ],
-  "labels": [
-    "gen3"
-  ],
-  "pokedex": [
-    "cobblemon.species.glalie.desc"
-  ],
+  "labels": ["gen3"],
+  "pokedex": ["cobblemon.species.glalie.desc"],
   "preEvolution": "snorunt",
   "evolutions": [],
   "baseScale": 1,

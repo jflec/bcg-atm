@@ -23,31 +23,19 @@
     "standing": {
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
-      "animations": [
-        "q.look')",
-        "q.bedrock('slitherwing', 'ground_idle')"
-      ]
+      "animations": ["q.look')", "q.bedrock('slitherwing', 'ground_idle')"]
     },
     "walking": {
       "poseTypes": ["WALK"],
-      "animations": [
-        "q.look')",
-        "q.bedrock('slitherwing', 'ground_walk')"
-      ]
+      "animations": ["q.look')", "q.bedrock('slitherwing', 'ground_walk')"]
     },
     "float": {
       "poseTypes": ["FLOAT"],
-      "animations": [
-        "q.look')",
-        "q.bedrock('slitherwing', 'ground_walk')"
-      ]
+      "animations": ["q.look')", "q.bedrock('slitherwing', 'ground_walk')"]
     },
     "swim": {
       "poseTypes": ["SWIM"],
-      "animations": [
-        "q.look')",
-        "q.bedrock('slitherwing', 'ground_walk')"
-      ]
+      "animations": ["q.look')", "q.bedrock('slitherwing', 'ground_walk')"]
     },
     "sleep": {
       "poseTypes": ["SLEEP"],

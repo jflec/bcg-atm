@@ -3,11 +3,7 @@
   "name": "Capsakid",
   "nationalPokedexNumber": 951,
   "primaryType": "grass",
-  "abilities": [
-    "chlorophyll",
-    "insomnia",
-    "h:klutz"
-  ],
+  "abilities": ["chlorophyll", "insomnia", "h:klutz"],
   "baseStats": {
     "hp": 52,
     "attack": 62,
@@ -31,9 +27,7 @@
   },
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "grass"
-  ],
+  "eggGroups": ["grass"],
   "behaviour": {
     "resting": {
       "canSleep": true,
@@ -86,9 +80,7 @@
     "tm:trailblaze",
     "tm:zenheadbutt"
   ],
-  "labels": [
-    "gen9"
-  ],
+  "labels": ["gen9"],
   "aspects": [],
   "height": 3,
   "weight": 30,
@@ -98,22 +90,17 @@
       "variant": "item_interact",
       "result": "scovillain",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "flamethrower",
-        "spicyextract"
-      ],
+      "learnableMoves": ["flamethrower", "spicyextract"],
       "requirements": [],
       "requiredContext": "cobblemon:fire_stone"
     }
   ],
-   "baseScale": 1,
+  "baseScale": 1,
   "hitbox": {
     "width": 0.5,
     "height": 0.65,
     "fixed": false
   },
   "cannotDynamax": false,
-  "pokedex": [
-    "cobblemon.species.capsakid.desc"
-  ]
+  "pokedex": ["cobblemon.species.capsakid.desc"]
 }

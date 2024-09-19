@@ -1,21 +1,19 @@
 {
-    "enabled": true,
-    "neededInstalledMods": [],
-    "neededUninstalledMods": [],
-    "spawns": [
-        {
-            "id": "ogerpon-1",
-            "pokemon": "ogerpon",
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "ultra-rare",
-            "level": "60-80",
-            "weight": 5.0,
-            "condition": {
-                "biomes": [
-                    "cobblemon:lush_caves"
-                ]
-            }
-        }
-    ]
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "ogerpon-1",
+      "pokemon": "ogerpon",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "60-80",
+      "weight": 5.0,
+      "condition": {
+        "biomes": ["cobblemon:lush_caves"]
+      }
+    }
+  ]
 }

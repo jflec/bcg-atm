@@ -2,11 +2,7 @@
   "name": "Feebas",
   "nationalPokedexNumber": 349,
   "primaryType": "water",
-  "abilities": [
-    "swiftswim",
-    "oblivious",
-    "h:adaptability"
-  ],
+  "abilities": ["swiftswim", "oblivious", "h:adaptability"],
   "baseStats": {
     "hp": 20,
     "attack": 15,
@@ -21,10 +17,7 @@
   "baseExperienceYield": 40,
   "experienceGroup": "erratic",
   "eggCycles": 20,
-  "eggGroups": [
-    "water_1",
-    "dragon"
-  ],
+  "eggGroups": ["water_1", "dragon"],
   "moves": [
     "1:splash",
     "15:tackle",
@@ -103,21 +96,15 @@
     "tutor:swift",
     "tutor:waterpulse"
   ],
-  "labels": [
-    "gen3"
-  ],
-  "pokedex": [
-    "cobblemon.species.feebas.desc"
-  ],
+  "labels": ["gen3"],
+  "pokedex": ["cobblemon.species.feebas.desc"],
   "evolutions": [
     {
       "id": "feebas_milotic",
       "variant": "trade",
       "result": "milotic",
       "consumeHeldItem": true,
-      "learnableMoves": [
-        "waterpulse"
-      ],
+      "learnableMoves": ["waterpulse"],
       "requirements": [
         {
           "variant": "held_item",

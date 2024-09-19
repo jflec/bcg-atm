@@ -1,13 +1,9 @@
 {
-  "implemented":"true",
+  "implemented": "true",
   "name": "Wugtrio",
   "nationalPokedexNumber": 961,
   "primaryType": "water",
-  "abilities": [
-    "gooey",
-    "rattled",
-    "h:sandveil"
-  ],
+  "abilities": ["gooey", "rattled", "h:sandveil"],
   "baseStats": {
     "hp": 35,
     "attack": 100,
@@ -30,9 +26,7 @@
   },
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "water_3"
-  ],
+  "eggGroups": ["water_3"],
   "moves": [
     "1:mudslap",
     "1:sandattack",
@@ -81,16 +75,12 @@
     "tm:waterpulse",
     "tm:whirlpool"
   ],
-  "labels": [
-    "gen9"
-  ],
+  "labels": ["gen9"],
   "aspects": [],
   "height": 12,
   "weight": 54,
   "preEvolution": "wiglett",
   "evolutions": [],
   "cannotDynamax": false,
-  "pokedex": [
-    "cobblemon.species.wugtrio.desc"
-  ]
+  "pokedex": ["cobblemon.species.wugtrio.desc"]
 }

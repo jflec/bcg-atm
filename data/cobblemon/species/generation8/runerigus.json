@@ -4,9 +4,7 @@
   "nationalPokedexNumber": 867,
   "primaryType": "ground",
   "secondaryType": "ghost",
-  "abilities": [
-    "wanderingspirit"
-  ],
+  "abilities": ["wanderingspirit"],
   "baseStats": {
     "hp": 58,
     "attack": 95,
@@ -21,10 +19,7 @@
   "baseExperienceYield": 169,
   "experienceGroup": "medium_fast",
   "eggCycles": 25,
-  "eggGroups": [
-    "mineral",
-    "amorphous"
-  ],
+  "eggGroups": ["mineral", "amorphous"],
   "moves": [
     "1:astonish",
     "1:haze",
@@ -100,12 +95,8 @@
     "tm:zenheadbutt",
     "tutor:poltergeist"
   ],
-  "labels": [
-    "gen8"
-  ],
-  "pokedex": [
-    "cobblemon.species.runerigus.desc"
-  ],
+  "labels": ["gen8"],
+  "pokedex": ["cobblemon.species.runerigus.desc"],
   "preEvolution": "yamask form=galar",
   "evolutions": [],
   "baseScale": 1,

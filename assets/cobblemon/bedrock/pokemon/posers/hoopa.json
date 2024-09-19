@@ -15,8 +15,7 @@
     "battle-standing": {
       "poseTypes": ["STAND"],
       "isBattle": true,
-      "animations": ["look", "q.bedrock('hoopa', 'ground_idle')"
-      ],
+      "animations": ["look", "q.bedrock('hoopa', 'ground_idle')"],
       "quirks": [
         {
           "name": "blink",
@@ -35,8 +34,7 @@
     "standing": {
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
-      "animations": ["look", "q.bedrock('hoopa', 'ground_idle')"
-      ],
+      "animations": ["look", "q.bedrock('hoopa', 'ground_idle')"],
       "quirks": [
         "q.bedrock_quirk('hoopa', 'blink')",
         "q.bedrock_quirk('hoopa', 'quirk')",
@@ -45,22 +43,17 @@
     },
     "walking": {
       "poseTypes": ["WALK"],
-      "animations": ["look", "q.bedrock('hoopa', 'ground_walk')"
-      ],
+      "animations": ["look", "q.bedrock('hoopa', 'ground_walk')"],
       "quirks": ["q.bedrock_quirk('hoopa', 'blink')"]
     },
     "float": {
       "poseTypes": ["FLOAT"],
-      "animations": ["look",
-        "q.bedrock('hoopa', 'ground_idle')"
-      ],
+      "animations": ["look", "q.bedrock('hoopa', 'ground_idle')"],
       "quirks": ["q.bedrock_quirk('hoopa', 'blink')"]
     },
     "swim": {
       "poseTypes": ["SWIM"],
-      "animations": ["look",
-        "q.bedrock('hoopa', 'ground_walk')"
-      ],
+      "animations": ["look", "q.bedrock('hoopa', 'ground_walk')"],
       "quirks": ["q.bedrock_quirk('hoopa', 'blink')"]
     },
     "hover": {

@@ -2,11 +2,7 @@
   "name": "Bellibolt",
   "nationalPokedexNumber": 939,
   "primaryType": "electric",
-  "abilities": [
-    "electromorphosis",
-    "static",
-    "h:damp"
-  ],
+  "abilities": ["electromorphosis", "static", "h:damp"],
   "baseStats": {
     "hp": 109,
     "attack": 64,
@@ -29,9 +25,7 @@
   },
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "water_1"
-  ],
+  "eggGroups": ["water_1"],
   "moves": [
     "1:mudslap",
     "1:slackoff",
@@ -82,18 +76,14 @@
     "tm:weatherball",
     "tm:wildcharge"
   ],
-  "labels": [
-    "gen9"
-  ],
+  "labels": ["gen9"],
   "aspects": [],
   "height": 12,
   "weight": 1130,
   "preEvolution": "tadbulb",
   "evolutions": [],
   "cannotDynamax": false,
-  "pokedex": [
-    "cobblemon.species.bellibolt.desc"
-  ],
+  "pokedex": ["cobblemon.species.bellibolt.desc"],
   "drops": {
     "amount": 2,
     "entries": [

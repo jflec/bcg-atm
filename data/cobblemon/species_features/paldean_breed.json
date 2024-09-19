@@ -2,11 +2,7 @@
   "type": "choice",
   "keys": ["paldean_breed"],
   "default": "false",
-  "choices": [
-    "combat",
-    "aqua",
-    "blaze"
-  ],
+  "choices": ["combat", "aqua", "blaze"],
   "isAspect": true,
   "aspectFormat": "paldean-breed-{{choice}}"
 }

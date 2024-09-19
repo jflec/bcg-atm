@@ -2,11 +2,7 @@
   "name": "Purugly",
   "nationalPokedexNumber": 432,
   "primaryType": "normal",
-  "abilities": [
-    "thickfat",
-    "owntempo",
-    "h:defiant"
-  ],
+  "abilities": ["thickfat", "owntempo", "h:defiant"],
   "drops": {
     "amount": 1,
     "entries": [
@@ -30,9 +26,7 @@
   "baseExperienceYield": 158,
   "experienceGroup": "fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "field"
-  ],
+  "eggGroups": ["field"],
   "moves": [
     "1:fakeout",
     "1:growl",
@@ -118,12 +112,8 @@
     "tutor:throatchop",
     "tutor:waterpulse"
   ],
-  "labels": [
-    "gen4"
-  ],
-  "pokedex": [
-    "cobblemon.species.purugly.desc"
-  ],
+  "labels": ["gen4"],
+  "pokedex": ["cobblemon.species.purugly.desc"],
   "preEvolution": "glameow",
   "evolutions": [],
   "baseScale": 1,

@@ -15,10 +15,7 @@
     "battle-standing": {
       "poseTypes": ["STAND", "WALK"],
       "isBattle": true,
-      "animations": [
-        "q.look('head')",
-        "q.bedrock('haxorus', 'battle_idle')"
-      ],
+      "animations": ["q.look('head')", "q.bedrock('haxorus', 'battle_idle')"],
       "quirks": [
         "q.bedrock_quirk('haxorus', 'blink')",
         "q.bedrock_quirk('haxorus', 'stomp_head_shake')"
@@ -27,10 +24,7 @@
     "standing": {
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
-      "animations": [
-        "q.look('head')",
-        "q.bedrock('haxorus', 'ground_idle')"
-      ],
+      "animations": ["q.look('head')", "q.bedrock('haxorus', 'ground_idle')"],
       "quirks": [
         "q.bedrock_quirk('haxorus', 'blink')",
         "q.bedrock_quirk('haxorus', 'head_shake')"
@@ -38,24 +32,15 @@
     },
     "walking": {
       "poseTypes": ["WALK"],
-      "animations": [
-        "q.look('head')",
-        "q.bedrock('haxorus', 'ground_walk')"
-      ]
+      "animations": ["q.look('head')", "q.bedrock('haxorus', 'ground_walk')"]
     },
     "float": {
       "poseTypes": ["FLOAT"],
-      "animations": [
-        "q.look('head')",
-        "q.bedrock('haxorus', 'ground_walk')"
-      ]
+      "animations": ["q.look('head')", "q.bedrock('haxorus', 'ground_walk')"]
     },
     "swim": {
       "poseTypes": ["SWIM"],
-      "animations": [
-        "q.look('head')",
-        "q.bedrock('haxorus', 'ground_walk')"
-      ]
+      "animations": ["q.look('head')", "q.bedrock('haxorus', 'ground_walk')"]
     },
     "sleep": {
       "poseTypes": ["SLEEP"],

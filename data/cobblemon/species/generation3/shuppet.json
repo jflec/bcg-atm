@@ -2,11 +2,7 @@
   "name": "Shuppet",
   "nationalPokedexNumber": 353,
   "primaryType": "ghost",
-  "abilities": [
-    "insomnia",
-    "frisk",
-    "h:cursedbody"
-  ],
+  "abilities": ["insomnia", "frisk", "h:cursedbody"],
   "baseStats": {
     "hp": 44,
     "attack": 75,
@@ -21,9 +17,7 @@
   "baseExperienceYield": 59,
   "experienceGroup": "fast",
   "eggCycles": 25,
-  "eggGroups": [
-    "amorphous"
-  ],
+  "eggGroups": ["amorphous"],
   "moves": [
     "1:astonish",
     "1:knockoff",
@@ -158,21 +152,15 @@
     "tutor:trick",
     "tutor:willowisp"
   ],
-  "labels": [
-    "gen3"
-  ],
-  "pokedex": [
-    "cobblemon.species.shuppet.desc"
-  ],
+  "labels": ["gen3"],
+  "pokedex": ["cobblemon.species.shuppet.desc"],
   "evolutions": [
     {
       "id": "shuppet_banette",
       "variant": "level_up",
       "result": "banette",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "knockoff"
-      ],
+      "learnableMoves": ["knockoff"],
       "requirements": [
         {
           "variant": "level",

@@ -1,12 +1,9 @@
 {
-  "implemented":"true",
+  "implemented": "true",
   "name": "Houndstone",
   "nationalPokedexNumber": 972,
   "primaryType": "ghost",
-  "abilities": [
-    "sandrush",
-    "h:fluffy"
-  ],
+  "abilities": ["sandrush", "h:fluffy"],
   "baseStats": {
     "hp": 72,
     "attack": 101,
@@ -29,9 +26,7 @@
   },
   "experienceGroup": "medium_slow",
   "eggCycles": 20,
-  "eggGroups": [
-    "field"
-  ],
+  "eggGroups": ["field"],
   "moves": [
     "1:growl",
     "1:tackle",
@@ -93,18 +88,14 @@
     "tm:uproar",
     "tm:willowisp"
   ],
-  "labels": [
-    "gen9"
-  ],
+  "labels": ["gen9"],
   "aspects": [],
   "height": 20,
   "weight": 150,
   "preEvolution": "greavard",
   "evolutions": [],
   "cannotDynamax": false,
-  "pokedex": [
-    "cobblemon.species.houndstone.desc"
-  ],
+  "pokedex": ["cobblemon.species.houndstone.desc"],
   "drops": {
     "amount": 6,
     "entries": [

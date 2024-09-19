@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 542,
   "primaryType": "bug",
   "secondaryType": "grass",
-  "abilities": [
-    "swarm",
-    "chlorophyll",
-    "h:overcoat"
-  ],
+  "abilities": ["swarm", "chlorophyll", "h:overcoat"],
   "drops": {
     "amount": 6,
     "entries": [
@@ -43,9 +39,7 @@
   "baseExperienceYield": 225,
   "experienceGroup": "medium_slow",
   "eggCycles": 15,
-  "eggGroups": [
-    "bug"
-  ],
+  "eggGroups": ["bug"],
   "moves": [
     "1:bugbite",
     "1:falseswipe",
@@ -147,12 +141,8 @@
     "tutor:throatchop",
     "tutor:worryseed"
   ],
-  "labels": [
-    "gen5"
-  ],
-  "pokedex": [
-    "cobblemon.species.leavanny.desc"
-  ],
+  "labels": ["gen5"],
+  "pokedex": ["cobblemon.species.leavanny.desc"],
   "preEvolution": "swadloon",
   "evolutions": [],
   "baseScale": 1,

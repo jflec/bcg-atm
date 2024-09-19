@@ -3,11 +3,7 @@
   "name": "Drilbur",
   "nationalPokedexNumber": 529,
   "primaryType": "ground",
-  "abilities": [
-    "sandrush",
-    "sandforce",
-    "h:moldbreaker"
-  ],
+  "abilities": ["sandrush", "sandforce", "h:moldbreaker"],
   "baseStats": {
     "hp": 60,
     "attack": 85,
@@ -30,9 +26,7 @@
   "baseExperienceYield": 66,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "field"
-  ],
+  "eggGroups": ["field"],
   "moves": [
     "1:mudsport",
     "1:scratch",
@@ -112,21 +106,15 @@
     "tutor:snore",
     "tutor:stealthrock"
   ],
-  "labels": [
-    "gen5"
-  ],
-  "pokedex": [
-    "cobblemon.species.drilbur.desc"
-  ],
+  "labels": ["gen5"],
+  "pokedex": ["cobblemon.species.drilbur.desc"],
   "evolutions": [
     {
       "id": "drilbur_excadrill",
       "variant": "level_up",
       "result": "excadrill",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "horndrill"
-      ],
+      "learnableMoves": ["horndrill"],
       "requirements": [
         {
           "variant": "level",

@@ -1,13 +1,11 @@
 {
- "target": "cobblemon:toxtricity",
- "baseScale": 0.6,
+  "implemented": true,
+  "target": "cobblemon:toxtricity",
+  "baseScale": 0.6,
   "hitbox": {
     "width": 1,
     "height": 1.5,
     "fixed": false
   },
-      "aspects": [
-    "female"
-    ]
-
-  }
+  "aspects": ["female"]
+}

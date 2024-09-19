@@ -3,10 +3,7 @@
   "nationalPokedexNumber": 637,
   "primaryType": "bug",
   "secondaryType": "fire",
-  "abilities": [
-    "flamebody",
-    "h:swarm"
-  ],
+  "abilities": ["flamebody", "h:swarm"],
   "baseStats": {
     "hp": 85,
     "attack": 60,
@@ -15,18 +12,14 @@
     "special_defence": 105,
     "speed": 100
   },
-  "features": [
-    "prismatic"
-  ],
+  "features": ["prismatic"],
   "catchRate": 15,
   "maleRatio": 0.5,
   "shoulderMountable": false,
   "baseExperienceYield": 275,
   "experienceGroup": "slow",
   "eggCycles": 40,
-  "eggGroups": [
-    "bug"
-  ],
+  "eggGroups": ["bug"],
   "moves": [
     "1:absorb",
     "1:amnesia",
@@ -134,12 +127,8 @@
     "100:tailwind",
     "100:zenheadbutt"
   ],
-  "labels": [
-    "gen5"
-  ],
-  "pokedex": [
-    "cobblemon.species.volcarona.desc"
-  ],
+  "labels": ["gen5"],
+  "pokedex": ["cobblemon.species.volcarona.desc"],
   "preEvolution": "larvesta",
   "evolutions": [],
   "baseScale": 1,

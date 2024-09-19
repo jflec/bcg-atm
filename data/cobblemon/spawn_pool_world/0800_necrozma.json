@@ -1,27 +1,21 @@
 {
-    "enabled": "true",
-    "neededInstalledMods": [],
-    "neededUninstalledMods": [],
-    "spawns": [
-        {
-            "id": "necrozma",
-            "pokemon": "necrozma",
-            "presets": [
-                "natural"
-            ],
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "ultra-rare",
-            "level": "70",
-            "weight": 0.01,
-            "condition": {
-                "biomes": [ 
-                  "#minecraft:is_end"
-                   ],
-                   "neededBaseBlocks": [
-                    "#minecraft:end_stone"
-                ]
-              }
-        }
-    ]
+  "enabled": "true",
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "necrozma",
+      "pokemon": "necrozma",
+      "presets": ["natural"],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 0.01,
+      "condition": {
+        "biomes": ["#minecraft:is_end"],
+        "neededBaseBlocks": ["#minecraft:end_stone"]
+      }
+    }
+  ]
 }

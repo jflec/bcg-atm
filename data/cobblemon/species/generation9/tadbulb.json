@@ -2,11 +2,7 @@
   "name": "Tadbulb",
   "nationalPokedexNumber": 938,
   "primaryType": "electric",
-  "abilities": [
-    "owntempo",
-    "static",
-    "h:damp"
-  ],
+  "abilities": ["owntempo", "static", "h:damp"],
   "baseStats": {
     "hp": 61,
     "attack": 31,
@@ -29,9 +25,7 @@
   },
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "water_1"
-  ],
+  "eggGroups": ["water_1"],
   "moves": [
     "1:mudslap",
     "1:tackle",
@@ -80,9 +74,7 @@
     "tm:weatherball",
     "tm:wildcharge"
   ],
-  "labels": [
-    "gen9"
-  ],
+  "labels": ["gen9"],
   "aspects": [],
   "height": 3,
   "weight": 4,
@@ -98,9 +90,7 @@
     }
   ],
   "cannotDynamax": false,
-  "pokedex": [
-    "cobblemon.species.tadbulb.desc"
-  ],
+  "pokedex": ["cobblemon.species.tadbulb.desc"],
   "drops": {
     "amount": 2,
     "entries": [

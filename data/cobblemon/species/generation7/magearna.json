@@ -4,9 +4,7 @@
   "nationalPokedexNumber": 801,
   "primaryType": "steel",
   "secondaryType": "fairy",
-  "abilities": [
-    "soulheart"
-  ],
+  "abilities": ["soulheart"],
   "baseStats": {
     "hp": 80,
     "attack": 95,
@@ -23,9 +21,7 @@
       "name": "Original",
       "primaryType": "steel",
       "secondaryType": "fairy",
-      "abilities": [
-        "soulheart"
-      ],
+      "abilities": ["soulheart"],
       "baseStats": {
         "hp": 80,
         "attack": 95,
@@ -48,9 +44,7 @@
       },
       "experienceGroup": "slow",
       "eggCycles": 120,
-      "eggGroups": [
-        "undiscovered"
-      ],
+      "eggGroups": ["undiscovered"],
       "moves": [
         "1:gyroball",
         "1:helpinghand",
@@ -147,14 +141,8 @@
         "tutor:steelbeam",
         "tutor:steelroller"
       ],
-      "labels": [
-        "gen7",
-        "mythical",
-        "legendary"
-      ],
-      "aspects": [
-        "original"
-      ],
+      "labels": ["gen7", "mythical", "legendary"],
+      "aspects": ["original"],
       "height": 10,
       "weight": 805,
       "evolutions": [],
@@ -165,9 +153,7 @@
   "baseExperienceYield": 300,
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:gyroball",
     "1:helpinghand",
@@ -290,14 +276,8 @@
     "tutor:steelroller",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen7",
-    "mythical",
-    "legendary"
-  ],
-  "pokedex": [
-    "cobblemon.species.magearna.desc"
-  ],
+  "labels": ["gen7", "mythical", "legendary"],
+  "pokedex": ["cobblemon.species.magearna.desc"],
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {

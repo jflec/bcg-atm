@@ -1,12 +1,10 @@
 {
-  "implemented":"true",
+  "implemented": "true",
   "name": "Iron Valiant",
   "nationalPokedexNumber": 1006,
   "primaryType": "fairy",
   "secondaryType": "fighting",
-  "abilities": [
-    "quarkdrive"
-  ],
+  "abilities": ["quarkdrive"],
   "baseStats": {
     "hp": 74,
     "attack": 130,
@@ -29,9 +27,7 @@
   },
   "experienceGroup": "slow",
   "eggCycles": 50,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:disable",
     "1:doubleteam",
@@ -119,16 +115,11 @@
     "tm:xscissor",
     "tm:zenheadbutt"
   ],
-  "labels": [
-    "gen9",
-    "paradox"
-  ],
+  "labels": ["gen9", "paradox"],
   "aspects": [],
   "height": 14,
   "weight": 350,
   "evolutions": [],
   "cannotDynamax": false,
-  "pokedex": [
-    "cobblemon.species.ironvaliant.desc"
-  ]
+  "pokedex": ["cobblemon.species.ironvaliant.desc"]
 }

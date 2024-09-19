@@ -17,9 +17,7 @@
       ]
     },
     {
-      "aspects": [
-        "shiny"
-      ],
+      "aspects": ["shiny"],
       "texture": "cobblemon:textures/pokemon/regice/regice_shiny.png",
       "layers": [
         {

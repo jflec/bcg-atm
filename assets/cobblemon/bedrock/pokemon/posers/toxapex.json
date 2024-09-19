@@ -10,24 +10,24 @@
       "transformTicks": 10,
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "animations": ["look", "bedrock(toxapex, ground_idle)"],
-    "quirks": [
-      {
-        "name": "blink",
-        "animations": ["bedrock(toxapex, blink)"]
-      }
-    ]
-  },
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(toxapex, blink)"]
+        }
+      ]
+    },
     "walking": {
       "poseName": "walking",
       "transformTicks": 10,
       "poseTypes": ["WALK"],
       "animations": ["bedrock(toxapex, ground_walk)"],
-    "quirks": [
-      {
-        "name": "blink",
-        "animations": ["bedrock(toxapex, blink)"]
-      }
-    ]
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(toxapex, blink)"]
+        }
+      ]
     },
     "floating": {
       "poseName": "floating",
@@ -53,21 +53,18 @@
         }
       ]
     },
-        "battle-idle": {
-          "poseName": "battle-idle",
-          "transformTicks": 10,
-          "poseTypes": ["STAND"],
-          "isBattle": true,
-          "animations": [
-            "look",
-            "bedrock(toxapex, ground_idle)"
-          ],
-        "quirks": [
-          {
-            "name": "blink",
-            "animations": ["bedrock(toxapex, blink)"]
-          }
-        ]
-      }
+    "battle-idle": {
+      "poseName": "battle-idle",
+      "transformTicks": 10,
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": ["look", "bedrock(toxapex, ground_idle)"],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(toxapex, blink)"]
+        }
+      ]
     }
   }
+}

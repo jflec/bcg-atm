@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 624,
   "primaryType": "dark",
   "secondaryType": "steel",
-  "abilities": [
-    "defiant",
-    "innerfocus",
-    "h:pressure"
-  ],
+  "abilities": ["defiant", "innerfocus", "h:pressure"],
   "baseStats": {
     "hp": 45,
     "attack": 85,
@@ -22,9 +18,7 @@
   "baseExperienceYield": 68,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "human_like"
-  ],
+  "eggGroups": ["human_like"],
   "moves": [
     "1:leer",
     "1:scratch",
@@ -135,12 +129,8 @@
     "tutor:steelbeam",
     "tutor:suckerpunch"
   ],
-  "labels": [
-    "gen5"
-  ],
-  "pokedex": [
-    "cobblemon.species.pawniard.desc"
-  ],
+  "labels": ["gen5"],
+  "pokedex": ["cobblemon.species.pawniard.desc"],
   "evolutions": [
     {
       "id": "pawniard_bisharp",

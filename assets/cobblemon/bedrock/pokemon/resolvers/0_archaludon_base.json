@@ -8,25 +8,23 @@
       "model": "cobblemon:archaludon.geo",
       "texture": "cobblemon:textures/pokemon/archaludon/archaludon.png",
       "layers": [
-	  {
+        {
           "name": "glow",
           "texture": "cobblemon:textures/pokemon/archaludon/archaludon_emissive.png",
           "emissive": true
-      }
-		]
+        }
+      ]
     },
     {
-      "aspects": [
-        "shiny"
-      ],
+      "aspects": ["shiny"],
       "texture": "cobblemon:textures/pokemon/archaludon/archaludon_shiny.png",
-	  "layers": [
-	  {
+      "layers": [
+        {
           "name": "glow",
           "texture": "cobblemon:textures/pokemon/archaludon/archaludon_emissive.png",
           "emissive": true
-      }
-		]
+        }
+      ]
     }
   ]
 }

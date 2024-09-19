@@ -3,9 +3,7 @@
   "nationalPokedexNumber": 845,
   "primaryType": "flying",
   "secondaryType": "water",
-  "abilities": [
-    "gulpmissile"
-  ],
+  "abilities": ["gulpmissile"],
   "baseStats": {
     "hp": 70,
     "attack": 85,
@@ -22,9 +20,7 @@
       "name": "Gulping",
       "primaryType": "flying",
       "secondaryType": "water",
-      "abilities": [
-        "gulpmissile"
-      ],
+      "abilities": ["gulpmissile"],
       "baseStats": {
         "hp": 70,
         "attack": 85,
@@ -47,16 +43,9 @@
       },
       "experienceGroup": "medium_fast",
       "eggCycles": 20,
-      "eggGroups": [
-        "water_1",
-        "flying"
-      ],
-      "labels": [
-        "gen8"
-      ],
-      "aspects": [
-        "gulping"
-      ],
+      "eggGroups": ["water_1", "flying"],
+      "labels": ["gen8"],
+      "aspects": ["gulping"],
       "height": 8,
       "weight": 180,
       "cannotDynamax": false,
@@ -66,9 +55,7 @@
       "name": "Gorging",
       "primaryType": "flying",
       "secondaryType": "water",
-      "abilities": [
-        "gulpmissile"
-      ],
+      "abilities": ["gulpmissile"],
       "baseStats": {
         "hp": 70,
         "attack": 85,
@@ -91,16 +78,9 @@
       },
       "experienceGroup": "medium_fast",
       "eggCycles": 20,
-      "eggGroups": [
-        "water_1",
-        "flying"
-      ],
-      "labels": [
-        "gen8"
-      ],
-      "aspects": [
-        "gorging"
-      ],
+      "eggGroups": ["water_1", "flying"],
+      "labels": ["gen8"],
+      "aspects": ["gorging"],
       "height": 8,
       "weight": 180,
       "cannotDynamax": false,
@@ -110,10 +90,7 @@
   "baseExperienceYield": 166,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "water_1",
-    "flying"
-  ],
+  "eggGroups": ["water_1", "flying"],
   "moves": [
     "1:belch",
     "1:peck",
@@ -183,12 +160,8 @@
     "tm:whirlpool",
     "tutor:dualwingbeat"
   ],
-  "labels": [
-    "gen8"
-  ],
-  "pokedex": [
-    "cobblemon.species.cramorant.desc"
-  ],
+  "labels": ["gen8"],
+  "pokedex": ["cobblemon.species.cramorant.desc"],
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {

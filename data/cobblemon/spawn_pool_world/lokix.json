@@ -1,43 +1,42 @@
 {
-    "enabled": true,
-    "neededInstalledMods": [],
-    "neededUninstalledMods": [],
-    "spawns": [
-      {
-        "id": "lokix-1",
-        "pokemon": "lokix",
-        "type": "pokemon",
-        "context": "grounded",
-        "bucket": "rare",
-        "level": "25-46",
-        "weight": 10.0,
-        "condition": {
-          "canSeeSky": true,
-          "biomes": [ "minecraft:plains"
-                    ]
-        }
-        
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "lokix-1",
+      "pokemon": "lokix",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "25-46",
+      "weight": 10.0,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": ["minecraft:plains"]
+      }
+    },
+    {
+      "id": "lokix-2",
+      "pokemon": "lokix",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "35-45",
+      "weight": 10.0,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": ["#cminecraft:is_forest"]
       },
-      {
-        "id": "lokix-2",
-        "pokemon": "lokix",
-        "type": "pokemon",
-        "context": "grounded",
-        "bucket": "rare",
-        "level": "35-45",
-        "weight": 10.0,
-        "condition": {
-          "canSeeSky": true,
-          "biomes": [ "#cminecraft:is_forest"]
-        },
-        "anticondition": {
-          "biomes": [ "#cobblemon:is_cold_ocean",
+      "anticondition": {
+        "biomes": [
+          "#cobblemon:is_cold_ocean",
           "#cobblemon:is_freezing",
           "#cobblemon:is_peak",
           "#cobblemon:is_taiga",
-          "#cobblemon:is_tundra"]
-        }
+          "#cobblemon:is_tundra"
+        ]
       }
-
-    ]
+    }
+  ]
 }

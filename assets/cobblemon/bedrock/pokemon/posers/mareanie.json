@@ -28,15 +28,14 @@
       "poseName": "standing",
       "transformTicks": 10,
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
-      "animations": ["look", "bedrock(mareanie, ground_idle)"]
-    ,
-    "quirks": [
-      {
-        "name": "blink",
-        "animations": ["bedrock(mareanie, blink)"]
-      }
-    ]
-  },
+      "animations": ["look", "bedrock(mareanie, ground_idle)"],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(mareanie, blink)"]
+        }
+      ]
+    },
     "walking": {
       "poseName": "walking",
       "transformTicks": 10,
@@ -49,15 +48,13 @@
         }
       ]
     },
-  "sleeping": {
+    "sleeping": {
       "poseName": "sleeping",
       "transformTicks": 10,
       "poseTypes": ["SLEEP"],
-      "animations": [
-        "bedrock(mareanie, sleep)"
-      ]
-     },
-	     "floating": {
+      "animations": ["bedrock(mareanie, sleep)"]
+    },
+    "floating": {
       "poseName": "floating",
       "transformTicks": 10,
       "poseTypes": ["FLOAT"],

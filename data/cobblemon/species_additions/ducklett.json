@@ -1,12 +1,13 @@
 {
- "target": "cobblemon:ducklett",
- "baseScale": 0.4,
+  "implemented": true,
+  "target": "cobblemon:ducklett",
+  "baseScale": 0.4,
   "hitbox": {
     "width": 1,
     "height": 1,
     "fixed": false
   },
-"behaviour": {
+  "behaviour": {
     "moving": {
       "walk": {
         "walkSpeed": 0.28
@@ -25,5 +26,4 @@
       "light": "0-4"
     }
   }
-
-  }
+}

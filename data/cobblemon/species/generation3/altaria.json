@@ -3,10 +3,7 @@
   "nationalPokedexNumber": 334,
   "primaryType": "dragon",
   "secondaryType": "flying",
-  "abilities": [
-    "naturalcure",
-    "h:cloudnine"
-  ],
+  "abilities": ["naturalcure", "h:cloudnine"],
   "baseStats": {
     "hp": 75,
     "attack": 70,
@@ -23,9 +20,7 @@
       "name": "Mega",
       "primaryType": "dragon",
       "secondaryType": "fairy",
-      "abilities": [
-        "pixilate"
-      ],
+      "abilities": ["pixilate"],
       "baseStats": {
         "hp": 75,
         "attack": 110,
@@ -48,17 +43,9 @@
       },
       "experienceGroup": "erratic",
       "eggCycles": 20,
-      "eggGroups": [
-        "flying",
-        "dragon"
-      ],
-      "labels": [
-        "gen6",
-        "mega"
-      ],
-      "aspects": [
-        "mega"
-      ],
+      "eggGroups": ["flying", "dragon"],
+      "labels": ["gen6", "mega"],
+      "aspects": ["mega"],
       "height": 15,
       "weight": 206,
       "cannotDynamax": false,
@@ -68,10 +55,7 @@
   "baseExperienceYield": 172,
   "experienceGroup": "erratic",
   "eggCycles": 20,
-  "eggGroups": [
-    "flying",
-    "dragon"
-  ],
+  "eggGroups": ["flying", "dragon"],
   "moves": [
     "1:astonish",
     "1:disarmingvoice",
@@ -216,12 +200,8 @@
     "tutor:uproar",
     "tutor:wonderroom"
   ],
-  "labels": [
-    "gen3"
-  ],
-  "pokedex": [
-    "cobblemon.species.altaria.desc"
-  ],
+  "labels": ["gen3"],
+  "pokedex": ["cobblemon.species.altaria.desc"],
   "preEvolution": "swablu",
   "evolutions": [],
   "baseScale": 1,

@@ -1,10 +1,10 @@
 {
- "target": "cobblemon:houndoom",
- "baseScale": 0.5,
+  "implemented": true,
+  "target": "cobblemon:houndoom",
+  "baseScale": 0.5,
   "hitbox": {
     "width": 1,
     "height": 1,
     "fixed": false
   }
-
-  }
+}

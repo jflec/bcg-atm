@@ -20,9 +20,7 @@
     "walking": {
       "poseName": "walking",
       "poseTypes": ["WALK"],
-      "animations": [
-        "bedrock(toedscruel, ground_walk)"
-      ],
+      "animations": ["bedrock(toedscruel, ground_walk)"],
       "quirks": [
         {
           "name": "blink",

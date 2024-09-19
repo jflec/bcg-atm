@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 777,
   "primaryType": "electric",
   "secondaryType": "steel",
-  "abilities": [
-    "ironbarbs",
-    "lightningrod",
-    "h:sturdy"
-  ],
+  "abilities": ["ironbarbs", "lightningrod", "h:sturdy"],
   "baseStats": {
     "hp": 65,
     "attack": 98,
@@ -24,9 +20,7 @@
       "name": "Totem",
       "primaryType": "electric",
       "secondaryType": "steel",
-      "abilities": [
-        "sturdy"
-      ],
+      "abilities": ["sturdy"],
       "baseStats": {
         "hp": 65,
         "attack": 98,
@@ -49,10 +43,7 @@
       },
       "experienceGroup": "medium_fast",
       "eggCycles": 10,
-      "eggGroups": [
-        "field",
-        "fairy"
-      ],
+      "eggGroups": ["field", "fairy"],
       "moves": [
         "1:tackle",
         "1:thundershock",
@@ -119,13 +110,8 @@
         "tutor:zenheadbutt",
         "tutor:zingzap"
       ],
-      "labels": [
-        "gen7",
-        "totem"
-      ],
-      "aspects": [
-        "totem"
-      ],
+      "labels": ["gen7", "totem"],
+      "aspects": ["totem"],
       "height": 6,
       "weight": 130,
       "cannotDynamax": false,
@@ -135,10 +121,7 @@
   "baseExperienceYield": 152,
   "experienceGroup": "medium_fast",
   "eggCycles": 10,
-  "eggGroups": [
-    "field",
-    "fairy"
-  ],
+  "eggGroups": ["field", "fairy"],
   "moves": [
     "1:nuzzle",
     "1:tackle",
@@ -232,12 +215,8 @@
     "tutor:superfang",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen7"
-  ],
-  "pokedex": [
-    "cobblemon.species.togedemaru.desc"
-  ],
+  "labels": ["gen7"],
+  "pokedex": ["cobblemon.species.togedemaru.desc"],
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {

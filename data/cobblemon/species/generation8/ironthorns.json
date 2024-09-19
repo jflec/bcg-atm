@@ -1,12 +1,10 @@
 {
-  "implemented":"true",
+  "implemented": "true",
   "name": "Iron Thorns",
   "nationalPokedexNumber": 995,
   "primaryType": "rock",
   "secondaryType": "electric",
-  "abilities": [
-    "quarkdrive"
-  ],
+  "abilities": ["quarkdrive"],
   "baseStats": {
     "hp": 100,
     "attack": 134,
@@ -29,9 +27,7 @@
   },
   "experienceGroup": "slow",
   "eggCycles": 50,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:electricterrain",
     "1:firefang",
@@ -124,16 +120,11 @@
     "tm:voltswitch",
     "tm:wildcharge"
   ],
-  "labels": [
-    "gen9",
-    "paradox"
-  ],
+  "labels": ["gen9", "paradox"],
   "aspects": [],
   "height": 16,
   "weight": 3030,
   "evolutions": [],
   "cannotDynamax": false,
-  "pokedex": [
-    "cobblemon.species.ironthorns.desc"
-  ]
+  "pokedex": ["cobblemon.species.ironthorns.desc"]
 }

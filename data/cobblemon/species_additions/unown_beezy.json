@@ -1,17 +1,18 @@
 {
-    "target": "cobblemon:unown",
-	  "baseScale": 2,
+  "implemented": true,
+  "target": "cobblemon:unown",
+  "baseScale": 2,
   "hitbox": {
     "width": 0.5,
     "height": 0.7,
     "fixed": false
   },
-   "behaviour": {
+  "behaviour": {
     "moving": {
-    "canLook": false,
+      "canLook": false,
       "fly": {
         "canFly": true
-      }  
+      }
     }
   },
   "drops": {
@@ -23,7 +24,5 @@
       }
     ]
   },
-  "features": [
-  "letter"
-  ]
+  "features": ["letter"]
 }

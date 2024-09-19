@@ -3,10 +3,7 @@
   "name": "Polteageist",
   "nationalPokedexNumber": 855,
   "primaryType": "ghost",
-  "abilities": [
-    "weakarmor",
-    "h:cursedbody"
-  ],
+  "abilities": ["weakarmor", "h:cursedbody"],
   "baseStats": {
     "hp": 60,
     "attack": 65,
@@ -22,10 +19,7 @@
     {
       "name": "Antique",
       "primaryType": "ghost",
-      "abilities": [
-        "weakarmor",
-        "h:cursedbody"
-      ],
+      "abilities": ["weakarmor", "h:cursedbody"],
       "baseStats": {
         "hp": 60,
         "attack": 65,
@@ -48,15 +42,9 @@
       },
       "experienceGroup": "medium_fast",
       "eggCycles": 20,
-      "eggGroups": [
-        "undiscovered"
-      ],
-      "labels": [
-        "gen8"
-      ],
-      "aspects": [
-        "is_antique"
-      ],
+      "eggGroups": ["undiscovered"],
+      "labels": ["gen8"],
+      "aspects": ["is_antique"],
       "height": 2,
       "weight": 4,
       "preEvolution": "sinistea form=Antique",
@@ -68,10 +56,7 @@
   "baseExperienceYield": 178,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "mineral",
-    "amorphous"
-  ],
+  "eggGroups": ["mineral", "amorphous"],
   "moves": [
     "1:aromaticmist",
     "1:astonish",
@@ -129,9 +114,7 @@
     "tm:wonderroom",
     "tutor:poltergeist"
   ],
-  "labels": [
-    "gen8"
-  ],
+  "labels": ["gen8"],
   "pokedex": [
     "Leaving leftover black tea unattended is asking for this Pokémon to come along and pour itself into it, turning the tea into a new Polteageist."
   ],
@@ -155,8 +138,6 @@
   "height": 2,
   "weight": 4,
   "aspects": [],
-  "features": [
-    "is_antique"
-],
+  "features": ["is_antique"],
   "cannotDynamax": false
 }

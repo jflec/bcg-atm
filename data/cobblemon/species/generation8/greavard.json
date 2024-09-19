@@ -1,13 +1,9 @@
-
 {
-  "implemented":"true",
+  "implemented": "true",
   "name": "Greavard",
   "nationalPokedexNumber": 971,
   "primaryType": "ghost",
-  "abilities": [
-    "pickup",
-    "h:fluffy"
-  ],
+  "abilities": ["pickup", "h:fluffy"],
   "baseStats": {
     "hp": 50,
     "attack": 61,
@@ -30,9 +26,7 @@
   },
   "experienceGroup": "medium_slow",
   "eggCycles": 20,
-  "eggGroups": [
-    "field"
-  ],
+  "eggGroups": ["field"],
   "moves": [
     "1:growl",
     "1:tackle",
@@ -96,9 +90,7 @@
     "tm:trick",
     "tm:uproar"
   ],
-  "labels": [
-    "gen9"
-  ],
+  "labels": ["gen9"],
   "aspects": [],
   "height": 6,
   "weight": 350,
@@ -108,9 +100,7 @@
       "variant": "level_up",
       "result": "houndstone",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "lastrespects"
-      ],
+      "learnableMoves": ["lastrespects"],
       "requirements": [
         {
           "variant": "level",
@@ -124,9 +114,7 @@
     }
   ],
   "cannotDynamax": false,
-  "pokedex": [
-    "cobblemon.species.greavard.desc"
-  ],
+  "pokedex": ["cobblemon.species.greavard.desc"],
   "drops": {
     "amount": 5,
     "entries": [

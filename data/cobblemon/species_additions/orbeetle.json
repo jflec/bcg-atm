@@ -1,5 +1,6 @@
 {
- "target": "cobblemon:orbeetle",
+  "implemented": true,
+  "target": "cobblemon:orbeetle",
   "baseScale": 0.75,
   "hitbox": {
     "width": 1.4,

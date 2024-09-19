@@ -3,9 +3,7 @@
   "nationalPokedexNumber": 793,
   "primaryType": "rock",
   "secondaryType": "poison",
-  "abilities": [
-    "beastboost"
-  ],
+  "abilities": ["beastboost"],
   "baseStats": {
     "hp": 109,
     "attack": 53,
@@ -20,9 +18,7 @@
   "baseExperienceYield": 285,
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:constrict",
     "1:pound",
@@ -118,13 +114,8 @@
     "tutor:worryseed",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen7",
-    "ultra_beast"
-  ],
-  "pokedex": [
-    "cobblemon.species.nihilego.desc"
-  ],
+  "labels": ["gen7", "ultra_beast"],
+  "pokedex": ["cobblemon.species.nihilego.desc"],
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {

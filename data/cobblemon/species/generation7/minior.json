@@ -4,9 +4,7 @@
   "nationalPokedexNumber": 774,
   "primaryType": "rock",
   "secondaryType": "flying",
-  "abilities": [
-    "shieldsdown"
-  ],
+  "abilities": ["shieldsdown"],
   "baseStats": {
     "hp": 60,
     "attack": 100,
@@ -21,9 +19,7 @@
   "baseExperienceYield": 175,
   "experienceGroup": "medium_slow",
   "eggCycles": 25,
-  "eggGroups": [
-    "mineral"
-  ],
+  "eggGroups": ["mineral"],
   "moves": [
     "1:tackle",
     "3:defensecurl",
@@ -103,9 +99,7 @@
     "tutor:telekinesis",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen7"
-  ],
+  "labels": ["gen7"],
   "pokedex": [
     "Although its outer shell is uncommonly durable, the shock of falling to the ground smashes the shell to smithereens."
   ],
@@ -132,9 +126,7 @@
       "name": "Meteor",
       "primaryType": "rock",
       "secondaryType": "flying",
-      "abilities": [
-        "shieldsdown"
-      ],
+      "abilities": ["shieldsdown"],
       "baseStats": {
         "hp": 60,
         "attack": 60,
@@ -157,15 +149,9 @@
       },
       "experienceGroup": "medium_slow",
       "eggCycles": 25,
-      "eggGroups": [
-        "mineral"
-      ],
-      "labels": [
-        "gen7"
-      ],
-      "aspects": [
-        "meteor"
-      ],
+      "eggGroups": ["mineral"],
+      "labels": ["gen7"],
+      "aspects": ["meteor"],
       "height": 3,
       "weight": 400,
       "cannotDynamax": false,

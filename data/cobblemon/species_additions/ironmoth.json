@@ -1,5 +1,6 @@
 {
- "target": "cobblemon:ironmoth",
+  "implemented": true,
+  "target": "cobblemon:ironmoth",
   "behaviour": {
     "resting": {
       "canSleep": false,
@@ -25,9 +26,9 @@
       "wanderChance": 1
     }
   },
-    "hitbox": {
+  "hitbox": {
     "width": 1.15,
     "height": 2.35,
     "fixed": false
   }
-  }
+}

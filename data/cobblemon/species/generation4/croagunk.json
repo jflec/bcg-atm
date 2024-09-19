@@ -4,11 +4,7 @@
   "nationalPokedexNumber": 453,
   "primaryType": "poison",
   "secondaryType": "fighting",
-  "abilities": [
-    "anticipation",
-    "dryskin",
-    "h:poisontouch"
-  ],
+  "abilities": ["anticipation", "dryskin", "h:poisontouch"],
   "baseStats": {
     "hp": 48,
     "attack": 61,
@@ -31,9 +27,7 @@
   "baseExperienceYield": 60,
   "experienceGroup": "medium_fast",
   "eggCycles": 10,
-  "eggGroups": [
-    "human_like"
-  ],
+  "eggGroups": ["human_like"],
   "moves": [
     "1:astonish",
     "3:mudslap",
@@ -178,12 +172,8 @@
     "tutor:thunderpunch",
     "tutor:vacuumwave"
   ],
-  "labels": [
-    "gen4"
-  ],
-  "pokedex": [
-    "cobblemon.species.croagunk.desc"
-  ],
+  "labels": ["gen4"],
+  "pokedex": ["cobblemon.species.croagunk.desc"],
   "evolutions": [
     {
       "id": "croagunk_toxicroak",

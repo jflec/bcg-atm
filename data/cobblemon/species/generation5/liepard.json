@@ -2,11 +2,7 @@
   "name": "Liepard",
   "nationalPokedexNumber": 510,
   "primaryType": "dark",
-  "abilities": [
-    "limber",
-    "unburden",
-    "h:prankster"
-  ],
+  "abilities": ["limber", "unburden", "h:prankster"],
   "drops": {
     "amount": 3,
     "entries": [
@@ -34,9 +30,7 @@
   "baseExperienceYield": 156,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "field"
-  ],
+  "eggGroups": ["field"],
   "moves": [
     "1:assist",
     "1:fakeout",
@@ -136,12 +130,8 @@
     "tutor:throatchop",
     "tutor:trick"
   ],
-  "labels": [
-    "gen5"
-  ],
-  "pokedex": [
-    "cobblemon.species.liepard.desc"
-  ],
+  "labels": ["gen5"],
+  "pokedex": ["cobblemon.species.liepard.desc"],
   "preEvolution": "purrloin",
   "evolutions": [],
   "baseScale": 1,

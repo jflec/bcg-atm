@@ -1,6 +1,5 @@
 {
-    "target": "cobblemon:mrmime",
-    "features": [
-      "galarian"
-  ]
+  "implemented": true,
+  "target": "cobblemon:mrmime",
+  "features": ["galarian"]
 }

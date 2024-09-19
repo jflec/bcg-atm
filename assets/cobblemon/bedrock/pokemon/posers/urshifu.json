@@ -16,42 +16,28 @@
     "battle-standing": {
       "poseTypes": ["STAND", "PORTRAIT", "PROFILE"],
       "isBattle": true,
-      "animations": ["look",
-        "q.bedrock('urshifu', 'singlestrike')"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('urshifu', 'blink')"
-      ]
+      "animations": ["look", "q.bedrock('urshifu', 'singlestrike')"],
+      "quirks": ["q.bedrock_quirk('urshifu', 'blink')"]
     },
     "standing": {
       "poseTypes": ["STAND", "NONE"],
       "isBattle": false,
-      "animations": ["look",
-        "q.bedrock('urshifu', 'ground_idle')"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('urshifu', 'blink')"
-      ]
+      "animations": ["look", "q.bedrock('urshifu', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('urshifu', 'blink')"]
     },
     "walking": {
       "poseTypes": ["WALK"],
-      "animations": ["look",
-        "q.bedrock('urshifu', 'ground_walk')"
-      ],
+      "animations": ["look", "q.bedrock('urshifu', 'ground_walk')"],
       "quirks": ["q.bedrock_quirk('urshifu', 'blink')"]
     },
     "float": {
       "poseTypes": ["FLOAT"],
-      "animations": [
-        "q.bedrock('urshifu', 'ground_idle')"
-      ],
+      "animations": ["q.bedrock('urshifu', 'ground_idle')"],
       "quirks": ["q.bedrock_quirk('urshifu', 'blink')"]
     },
     "swim": {
       "poseTypes": ["SWIM"],
-      "animations": [
-        "q.bedrock('urshifu', 'ground_walk')"
-      ],
+      "animations": ["q.bedrock('urshifu', 'ground_walk')"],
       "quirks": ["q.bedrock_quirk('urshifu', 'blink')"]
     },
     "sleep": {

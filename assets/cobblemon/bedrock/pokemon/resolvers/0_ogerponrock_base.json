@@ -8,12 +8,12 @@
       "model": "cobblemon:ogerpon_rock.geo",
       "texture": "cobblemon:textures/pokemon/ogerpon/ogerpon_rock.png",
       "layers": [
-	  {
-			"name": "glow",
-			"texture": "cobblemon:textures/pokemon/ogerpon/ogerpon_emissive_rock.png",
-			"emissive": true
-	  }
-	  ]
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/ogerpon/ogerpon_emissive_rock.png",
+          "emissive": true
+        }
+      ]
     },
     {
       "aspects": ["shiny"],

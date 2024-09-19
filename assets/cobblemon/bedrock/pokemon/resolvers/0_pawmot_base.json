@@ -1,20 +1,18 @@
 {
-    "species": "cobblemon:pawmot",
-    "order": 0,
-    "variations": [
-        {
-            "aspects": [],
-            "poser": "cobblemon:pawmot",
-            "model": "cobblemon:pawmot.geo",
-            "texture": "cobblemon:textures/pokemon/pawmot/pawmot.png",
-            "layers": []
-        },
-        {
-            "aspects": [
-                "shiny"
-            ],
-            "texture": "cobblemon:textures/pokemon/pawmot/pawmot_shiny.png",
-            "layers": []
-        }
-    ]
+  "species": "cobblemon:pawmot",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:pawmot",
+      "model": "cobblemon:pawmot.geo",
+      "texture": "cobblemon:textures/pokemon/pawmot/pawmot.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/pawmot/pawmot_shiny.png",
+      "layers": []
+    }
+  ]
 }

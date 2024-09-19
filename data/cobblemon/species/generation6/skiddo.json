@@ -2,10 +2,7 @@
   "name": "Skiddo",
   "nationalPokedexNumber": 672,
   "primaryType": "grass",
-  "abilities": [
-    "sapsipper",
-    "h:grasspelt"
-  ],
+  "abilities": ["sapsipper", "h:grasspelt"],
   "baseStats": {
     "hp": 66,
     "attack": 65,
@@ -20,9 +17,7 @@
   "baseExperienceYield": 70,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "field"
-  ],
+  "eggGroups": ["field"],
   "moves": [
     "1:growth",
     "1:tackle",
@@ -106,21 +101,15 @@
     "tutor:worryseed",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen6"
-  ],
-  "pokedex": [
-    "cobblemon.species.skiddo.desc"
-  ],
+  "labels": ["gen6"],
+  "pokedex": ["cobblemon.species.skiddo.desc"],
   "evolutions": [
     {
       "id": "skiddo_gogoat",
       "variant": "level_up",
       "result": "gogoat",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "aerialace"
-      ],
+      "learnableMoves": ["aerialace"],
       "requirements": [
         {
           "variant": "level",

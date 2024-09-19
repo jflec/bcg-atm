@@ -3,10 +3,7 @@
   "nationalPokedexNumber": 770,
   "primaryType": "ghost",
   "secondaryType": "ground",
-  "abilities": [
-    "watercompaction",
-    "h:sandveil"
-  ],
+  "abilities": ["watercompaction", "h:sandveil"],
   "baseStats": {
     "hp": 85,
     "attack": 75,
@@ -21,9 +18,7 @@
   "baseExperienceYield": 168,
   "experienceGroup": "medium_fast",
   "eggCycles": 15,
-  "eggGroups": [
-    "amorphous"
-  ],
+  "eggGroups": ["amorphous"],
   "moves": [
     "1:absorb",
     "1:astonish",
@@ -118,12 +113,8 @@
     "tutor:terrainpulse",
     "tutor:trick"
   ],
-  "labels": [
-    "gen7"
-  ],
-  "pokedex": [
-    "cobblemon.species.palossand.desc"
-  ],
+  "labels": ["gen7"],
+  "pokedex": ["cobblemon.species.palossand.desc"],
   "preEvolution": "sandygast",
   "evolutions": [],
   "baseScale": 1,

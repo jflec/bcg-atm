@@ -1,15 +1,14 @@
 {
-    "target": "cobblemon:rockruff",
-    "baseScale": 0.7,
+  "implemented": true,
+  "target": "cobblemon:rockruff",
+  "baseScale": 0.7,
   "evolutions": [
     {
       "id": "rockruff_lycanroc_midnight",
       "variant": "level_up",
       "result": "lycanroc midnight",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "counter"
-      ],
+      "learnableMoves": ["counter"],
       "requirements": [
         {
           "variant": "level",
@@ -26,9 +25,7 @@
       "variant": "level_up",
       "result": "lycanroc dusk",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "crushclaw"
-      ],
+      "learnableMoves": ["crushclaw"],
       "requirements": [
         {
           "variant": "level",

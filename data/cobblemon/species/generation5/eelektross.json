@@ -2,9 +2,7 @@
   "name": "Eelektross",
   "nationalPokedexNumber": 604,
   "primaryType": "electric",
-  "abilities": [
-    "levitate"
-  ],
+  "abilities": ["levitate"],
   "drops": {
     "amount": 3,
     "entries": [
@@ -28,9 +26,7 @@
   "baseExperienceYield": 232,
   "experienceGroup": "slow",
   "eggCycles": 20,
-  "eggGroups": [
-    "amorphous"
-  ],
+  "eggGroups": ["amorphous"],
   "moves": [
     "1:acid",
     "1:coil",
@@ -144,12 +140,8 @@
     "tutor:throatchop",
     "tutor:thunderpunch"
   ],
-  "labels": [
-    "gen5"
-  ],
-  "pokedex": [
-    "cobblemon.species.eelektross.desc"
-  ],
+  "labels": ["gen5"],
+  "pokedex": ["cobblemon.species.eelektross.desc"],
   "preEvolution": "eelektrik",
   "evolutions": [],
   "baseScale": 1,

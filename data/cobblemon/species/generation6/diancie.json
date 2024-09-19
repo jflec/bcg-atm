@@ -4,9 +4,7 @@
   "nationalPokedexNumber": 719,
   "primaryType": "rock",
   "secondaryType": "fairy",
-  "abilities": [
-    "clearbody"
-  ],
+  "abilities": ["clearbody"],
   "baseStats": {
     "hp": 50,
     "attack": 100,
@@ -21,9 +19,7 @@
   "baseExperienceYield": 300,
   "experienceGroup": "slow",
   "eggCycles": 25,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "behaviour": {
     "moving": {
       "walk": {
@@ -34,7 +30,7 @@
       "canSleep": true,
       "willSleepOnBed": false,
       "depth": "normal",
-	  "light": "0-7"
+      "light": "0-7"
     }
   },
   "moves": [
@@ -91,7 +87,7 @@
     "tm:metronome",
     "tm:mysticalfire",
     "tm:naturepower",
-	"tm:nastyplot",
+    "tm:nastyplot",
     "tm:playrough",
     "tm:powergem",
     "tm:protect",
@@ -151,14 +147,8 @@
     "tutor:terrainpulse",
     "tutor:wonderroom"
   ],
-  "labels": [
-    "gen6",
-    "mythical",
-    "legendary"
-  ],
-  "pokedex": [
-    "cobblemon.species.diancie.desc"
-  ],
+  "labels": ["gen6", "mythical", "legendary"],
+  "pokedex": ["cobblemon.species.diancie.desc"],
   "evolutions": [
     {
       "id": "diancie_mega_evo",
@@ -171,14 +161,14 @@
           "variant": "held_item",
           "itemCondition": "minecraft:nether_star"
         },
-		{
+        {
           "variant": "friendship",
           "amount": 160
         },
-		{
+        {
           "variant": "level",
           "minLevel": 1
-      }
+        }
       ]
     }
   ],

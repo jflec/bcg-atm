@@ -1,9 +1,10 @@
 {
- "target": "cobblemon:dottler",
-	"baseScale": 0.5,
-	"hitbox": {
-		"width": 1,
-		"height": 1,
-		"fixed": false
-   }
+  "implemented": true,
+  "target": "cobblemon:dottler",
+  "baseScale": 0.5,
+  "hitbox": {
+    "width": 1,
+    "height": 1,
+    "fixed": false
+  }
 }

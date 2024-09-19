@@ -1,5 +1,6 @@
 {
-    "target": "cobblemon:cubone",
+  "implemented": true,
+  "target": "cobblemon:cubone",
   "evolutions": [
     {
       "id": "cubone_marowak",
@@ -19,9 +20,7 @@
       "variant": "level_up",
       "result": "marowak alolan",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "shadowbone"
-      ],
+      "learnableMoves": ["shadowbone"],
       "requirements": [
         {
           "variant": "level",

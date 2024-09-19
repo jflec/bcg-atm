@@ -1,4 +1,5 @@
 {
-    "target": "cobblemon:shinx",   
-    "shoulderMountable": true
+  "implemented": true,
+  "target": "cobblemon:shinx",
+  "shoulderMountable": true
 }

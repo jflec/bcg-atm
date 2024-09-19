@@ -1,12 +1,10 @@
 {
-  "implemented":"true",
+  "implemented": "true",
   "name": "Iron Bundle",
   "nationalPokedexNumber": 991,
   "primaryType": "ice",
   "secondaryType": "water",
-  "abilities": [
-    "quarkdrive"
-  ],
+  "abilities": ["quarkdrive"],
   "baseStats": {
     "hp": 56,
     "attack": 80,
@@ -29,9 +27,7 @@
   },
   "experienceGroup": "slow",
   "eggCycles": 50,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:electricterrain",
     "1:present",
@@ -85,16 +81,11 @@
     "tm:waterpulse",
     "tm:whirlpool"
   ],
-  "labels": [
-    "gen9",
-    "paradox"
-  ],
+  "labels": ["gen9", "paradox"],
   "aspects": [],
   "height": 6,
   "weight": 110,
   "evolutions": [],
   "cannotDynamax": false,
-  "pokedex": [
-    "cobblemon.species.ironbundle.desc"
-  ]
+  "pokedex": ["cobblemon.species.ironbundle.desc"]
 }

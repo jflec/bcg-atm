@@ -3,9 +3,7 @@
   "nationalPokedexNumber": 1025,
   "primaryType": "poison",
   "secondaryType": "ghost",
-  "abilities": [
-    "poisonpuppeteer"
-  ],
+  "abilities": ["poisonpuppeteer"],
   "baseStats": {
     "hp": 88,
     "attack": 88,
@@ -28,9 +26,7 @@
   },
   "experienceGroup": "slow",
   "eggCycles": 20,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:astonish",
     "1:defensecurl",
@@ -72,13 +68,10 @@
     "tm:toxic",
     "tm:venoshock"
   ],
-  "labels": [
-    "gen9",
-    "mythical",
-    "legendary"],
-    "pokedex": [
-      "It feeds others toxic mochi that draw out desires and capabilities. Those who eat the mochi fall under Pecharunt’s control, chained to its will."
-    ],
+  "labels": ["gen9", "mythical", "legendary"],
+  "pokedex": [
+    "It feeds others toxic mochi that draw out desires and capabilities. Those who eat the mochi fall under Pecharunt’s control, chained to its will."
+  ],
   "aspects": [],
   "height": 3,
   "weight": 3,

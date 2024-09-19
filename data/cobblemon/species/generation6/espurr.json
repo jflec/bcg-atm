@@ -2,11 +2,7 @@
   "name": "Espurr",
   "nationalPokedexNumber": 677,
   "primaryType": "psychic",
-  "abilities": [
-    "keeneye",
-    "infiltrator",
-    "h:owntempo"
-  ],
+  "abilities": ["keeneye", "infiltrator", "h:owntempo"],
   "baseStats": {
     "hp": 62,
     "attack": 48,
@@ -21,9 +17,7 @@
   "baseExperienceYield": 71,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "field"
-  ],
+  "eggGroups": ["field"],
   "moves": [
     "1:leer",
     "1:scratch",
@@ -121,12 +115,8 @@
     "tutor:wonderroom",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen6"
-  ],
-  "pokedex": [
-    "cobblemon.species.espurr.desc"
-  ],
+  "labels": ["gen6"],
+  "pokedex": ["cobblemon.species.espurr.desc"],
   "evolutions": [
     {
       "id": "espurr_meowstic",

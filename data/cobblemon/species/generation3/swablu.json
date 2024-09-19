@@ -4,10 +4,7 @@
   "nationalPokedexNumber": 333,
   "primaryType": "normal",
   "secondaryType": "flying",
-  "abilities": [
-    "naturalcure",
-    "h:cloudnine"
-  ],
+  "abilities": ["naturalcure", "h:cloudnine"],
   "baseStats": {
     "hp": 45,
     "attack": 40,
@@ -22,10 +19,7 @@
   "baseExperienceYield": 62,
   "experienceGroup": "erratic",
   "eggCycles": 20,
-  "eggGroups": [
-    "flying",
-    "dragon"
-  ],
+  "eggGroups": ["flying", "dragon"],
   "moves": [
     "1:growl",
     "1:peck",
@@ -144,21 +138,15 @@
     "tutor:twister",
     "tutor:uproar"
   ],
-  "labels": [
-    "gen3"
-  ],
-  "pokedex": [
-    "cobblemon.species.swablu.desc"
-  ],
+  "labels": ["gen3"],
+  "pokedex": ["cobblemon.species.swablu.desc"],
   "evolutions": [
     {
       "id": "swablu_altaria",
       "variant": "level_up",
       "result": "altaria",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "dragonpulse"
-      ],
+      "learnableMoves": ["dragonpulse"],
       "requirements": [
         {
           "variant": "level",

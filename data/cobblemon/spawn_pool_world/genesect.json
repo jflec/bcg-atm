@@ -1,23 +1,20 @@
 {
-    "enabled": true,
-    "neededInstalledMods": [],
-    "neededUninstalledMods": [],
-    "spawns": [
-        {
-            "id": "genesect-1",
-            "pokemon": "genesect",
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "ultra-rare",
-            "level": "65-75",
-            "weight": 5,
-            "condition": {
-                "canSeeSky": true,
-                "biomes": [
-                    "#cobblemon:is_peak",
-					"#cobblemon:is_mountain"
-                ]
-            }
-        }
-    ]
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "genesect-1",
+      "pokemon": "genesect",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "65-75",
+      "weight": 5,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": ["#cobblemon:is_peak", "#cobblemon:is_mountain"]
+      }
+    }
+  ]
 }

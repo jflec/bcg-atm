@@ -3,9 +3,7 @@
   "order": 1,
   "variations": [
     {
-      "aspects": [
-        "galarian"
-      ],
+      "aspects": ["galarian"],
       "poser": "cobblemon:articuno_galar",
       "model": "cobblemon:articuno_galar.geo",
       "texture": "cobblemon:textures/pokemon/articuno/articuno_galar.png",
@@ -19,10 +17,7 @@
       ]
     },
     {
-      "aspects": [
-        "galarian",
-        "shiny"
-      ],
+      "aspects": ["galarian", "shiny"],
       "texture": "cobblemon:textures/pokemon/articuno/articuno_galar_shiny.png",
       "layers": [
         {

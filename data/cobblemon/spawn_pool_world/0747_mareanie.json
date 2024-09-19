@@ -1,48 +1,37 @@
 {
-    "enabled": true,
-    "neededInstalledMods": [],
-    "neededUninstalledMods": [],
-    "spawns": [
-        {
-            "id": "mareanie-1",
-            "pokemon": "mareanie",
-            "presets": [
-                "natural"
-            ],
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "rare",
-            "level": "10-40",
-            "weight": 10,
-            "condition": {
-                "canSeeSky": true,
-                "biomes": [
-                    "#cobblemon:is_beach"
-                ],
-                "timeRange": "night"
-            }
-      	  
-		  
-
-      	  },
-		  {
-            "id": "mareanie-2",
-            "pokemon": "mareanie",
-            "presets": [
-                "underwater"
-            ],
-            "type": "pokemon",
-            "context": "submerged",
-            "bucket": "uncommon",
-            "level": "10-40",
-            "weight": 10,
-            "condition": {
-                "canSeeSky": true,
-                "biomes": [
-                    "#cobblemon:is_warm_ocean"
-                ],
-                "timeRange": "night"
-            }
-		  }
-		  ]
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mareanie-1",
+      "pokemon": "mareanie",
+      "presets": ["natural"],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "10-40",
+      "weight": 10,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": ["#cobblemon:is_beach"],
+        "timeRange": "night"
+      }
+    },
+    {
+      "id": "mareanie-2",
+      "pokemon": "mareanie",
+      "presets": ["underwater"],
+      "type": "pokemon",
+      "context": "submerged",
+      "bucket": "uncommon",
+      "level": "10-40",
+      "weight": 10,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": ["#cobblemon:is_warm_ocean"],
+        "timeRange": "night"
+      }
+    }
+  ]
 }

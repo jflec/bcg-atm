@@ -4,11 +4,7 @@
   "nationalPokedexNumber": 530,
   "primaryType": "ground",
   "secondaryType": "steel",
-  "abilities": [
-    "sandrush",
-    "sandforce",
-    "h:moldbreaker"
-  ],
+  "abilities": ["sandrush", "sandforce", "h:moldbreaker"],
   "baseStats": {
     "hp": 110,
     "attack": 135,
@@ -31,9 +27,7 @@
   "baseExperienceYield": 178,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "field"
-  ],
+  "eggGroups": ["field"],
   "moves": [
     "1:mudslap",
     "1:mudsport",
@@ -115,12 +109,8 @@
     "tutor:steelbeam",
     "tutor:stompingtantrum"
   ],
-  "labels": [
-    "gen5"
-  ],
-  "pokedex": [
-    "cobblemon.species.excadrill.desc"
-  ],
+  "labels": ["gen5"],
+  "pokedex": ["cobblemon.species.excadrill.desc"],
   "preEvolution": "drilbur",
   "evolutions": [],
   "baseScale": 1.2,

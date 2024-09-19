@@ -1,6 +1,3 @@
 {
-    "textures": [
-        "cobblemon:fire_beam"
-    ]
-
+  "textures": ["cobblemon:fire_beam"]
 }

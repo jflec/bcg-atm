@@ -2,11 +2,7 @@
   "name": "Gothorita",
   "nationalPokedexNumber": 575,
   "primaryType": "psychic",
-  "abilities": [
-    "frisk",
-    "competitive",
-    "h:shadowtag"
-  ],
+  "abilities": ["frisk", "competitive", "h:shadowtag"],
   "drops": {
     "amount": 4,
     "entries": [
@@ -38,9 +34,7 @@
   "baseExperienceYield": 137,
   "experienceGroup": "medium_slow",
   "eggCycles": 20,
-  "eggGroups": [
-    "human_like"
-  ],
+  "eggGroups": ["human_like"],
   "moves": [
     "1:confusion",
     "1:playnice",
@@ -155,12 +149,8 @@
     "tutor:uproar",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen5"
-  ],
-  "pokedex": [
-    "cobblemon.species.gothorita.desc"
-  ],
+  "labels": ["gen5"],
+  "pokedex": ["cobblemon.species.gothorita.desc"],
   "preEvolution": "gothita",
   "evolutions": [
     {

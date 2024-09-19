@@ -1,5 +1,6 @@
 {
-    "target": "cobblemon:flapple",
+  "implemented": true,
+  "target": "cobblemon:flapple",
   "baseScale": 0.7,
   "hitbox": {
     "width": 1,

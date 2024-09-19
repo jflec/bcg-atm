@@ -1,43 +1,42 @@
 {
-    "enabled": true,
-    "neededInstalledMods": [],
-    "neededUninstalledMods": [],
-    "spawns": [
-      {
-        "id": "nymble-1",
-        "pokemon": "nymble",
-        "type": "pokemon",
-        "context": "grounded",
-        "bucket": "common",
-        "level": "7-25",
-        "weight": 10.0,
-        "condition": {
-          "canSeeSky": true,
-          "biomes": [ "minecraft:plains"
-                    ]
-        }
-        
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "nymble-1",
+      "pokemon": "nymble",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "7-25",
+      "weight": 10.0,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": ["minecraft:plains"]
+      }
+    },
+    {
+      "id": "nymble-2",
+      "pokemon": "nymble",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "7-22",
+      "weight": 10.0,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": ["#cminecraft:is_forest"]
       },
-      {
-        "id": "nymble-2",
-        "pokemon": "nymble",
-        "type": "pokemon",
-        "context": "grounded",
-        "bucket": "common",
-        "level": "7-22",
-        "weight": 10.0,
-        "condition": {
-          "canSeeSky": true,
-          "biomes": [ "#cminecraft:is_forest"]
-        },
-        "anticondition": {
-          "biomes": [ "#cobblemon:is_cold_ocean",
+      "anticondition": {
+        "biomes": [
+          "#cobblemon:is_cold_ocean",
           "#cobblemon:is_freezing",
           "#cobblemon:is_peak",
           "#cobblemon:is_taiga",
-          "#cobblemon:is_tundra"]
-        }
+          "#cobblemon:is_tundra"
+        ]
       }
-
-    ]
+    }
+  ]
 }

@@ -1,25 +1,20 @@
 {
-    "enabled": true,
-    "neededInstalledMods": [],
-    "neededUninstalledMods": [],
-    "spawns": [
-        {
-            "id": "calyrex-1",
-            "pokemon": "calyrex",
-            "presets": [
-                "natural"
-            ],
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "ultra-rare",
-            "level": "50-70",
-            "weight": 1.0,
-            "condition": {
-                "biomes": [
-                    "#cobblemon:is_plains"
-                ]
-            }
-        }
-    ]
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "calyrex-1",
+      "pokemon": "calyrex",
+      "presets": ["natural"],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-70",
+      "weight": 1.0,
+      "condition": {
+        "biomes": ["#cobblemon:is_plains"]
+      }
+    }
+  ]
 }
-        

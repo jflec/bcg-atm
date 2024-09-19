@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 581,
   "primaryType": "water",
   "secondaryType": "flying",
-  "abilities": [
-    "keeneye",
-    "bigpecks",
-    "h:hydration"
-  ],
+  "abilities": ["keeneye", "bigpecks", "h:hydration"],
   "drops": {
     "amount": 5,
     "entries": [
@@ -42,10 +38,7 @@
   "baseExperienceYield": 166,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "water_1",
-    "flying"
-  ],
+  "eggGroups": ["water_1", "flying"],
   "moves": [
     "1:defog",
     "1:watergun",
@@ -127,12 +120,8 @@
     "tutor:uproar",
     "tutor:waterpulse"
   ],
-  "labels": [
-    "gen5"
-  ],
-  "pokedex": [
-    "cobblemon.species.swanna.desc"
-  ],
+  "labels": ["gen5"],
+  "pokedex": ["cobblemon.species.swanna.desc"],
   "preEvolution": "ducklett",
   "evolutions": [],
   "baseScale": 1,

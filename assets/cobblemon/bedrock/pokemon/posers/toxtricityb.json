@@ -28,15 +28,14 @@
       "poseName": "standing",
       "transformTicks": 10,
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
-      "animations": ["look", "bedrock(toxtricityb, ground_idle)"]
-    ,
-    "quirks": [
-      {
-        "name": "blink",
-        "animations": ["bedrock(toxtricityb, blink)"]
-      }
-    ]
-  },
+      "animations": ["look", "bedrock(toxtricityb, ground_idle)"],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(toxtricityb, blink)"]
+        }
+      ]
+    },
     "walking": {
       "poseName": "walking",
       "transformTicks": 10,
@@ -49,13 +48,11 @@
         }
       ]
     },
-  "sleeping": {
+    "sleeping": {
       "poseName": "sleeping",
       "transformTicks": 10,
       "poseTypes": ["SLEEP"],
-      "animations": [
-        "bedrock(toxtricityb, sleep)"
-      ]
-     }
+      "animations": ["bedrock(toxtricityb, sleep)"]
+    }
   }
 }

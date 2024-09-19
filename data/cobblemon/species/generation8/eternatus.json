@@ -3,9 +3,7 @@
   "nationalPokedexNumber": 890,
   "primaryType": "poison",
   "secondaryType": "dragon",
-  "abilities": [
-    "pressure"
-  ],
+  "abilities": ["pressure"],
   "baseStats": {
     "hp": 140,
     "attack": 85,
@@ -22,9 +20,7 @@
       "name": "Eternamax",
       "primaryType": "poison",
       "secondaryType": "dragon",
-      "abilities": [
-        "pressure"
-      ],
+      "abilities": ["pressure"],
       "baseStats": {
         "hp": 255,
         "attack": 115,
@@ -47,16 +43,9 @@
       },
       "experienceGroup": "slow",
       "eggCycles": 120,
-      "eggGroups": [
-        "undiscovered"
-      ],
-      "labels": [
-        "gen8",
-        "legendary"
-      ],
-      "aspects": [
-        "eternamax"
-      ],
+      "eggGroups": ["undiscovered"],
+      "labels": ["gen8", "legendary"],
+      "aspects": ["eternamax"],
       "height": 1000,
       "weight": 0,
       "cannotDynamax": true,
@@ -66,9 +55,7 @@
   "baseExperienceYield": 345,
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:agility",
     "1:confuseray",
@@ -145,13 +132,8 @@
     "tutor:meteorbeam",
     "tutor:sludgebomb"
   ],
-  "labels": [
-    "gen8",
-    "legendary"
-  ],
-  "pokedex": [
-    "cobblemon.species.eternatus.desc"
-  ],
+  "labels": ["gen8", "legendary"],
+  "pokedex": ["cobblemon.species.eternatus.desc"],
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {

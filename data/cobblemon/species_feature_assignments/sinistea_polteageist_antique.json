@@ -1,5 +1,4 @@
 {
-    "pokemon": ["sinistea", "polteageist"],
-    "features": ["is_antique"]
-  }
-  
+  "pokemon": ["sinistea", "polteageist"],
+  "features": ["is_antique"]
+}

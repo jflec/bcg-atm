@@ -3,10 +3,7 @@
   "nationalPokedexNumber": 1012,
   "primaryType": "grass",
   "secondaryType": "ghost",
-  "abilities": [
-    "hospitality",
-    "h:heatproof"
-  ],
+  "abilities": ["hospitality", "h:heatproof"],
   "baseStats": {
     "hp": 40,
     "attack": 45,
@@ -29,10 +26,7 @@
   },
   "experienceGroup": "slow",
   "eggCycles": 50,
-  "eggGroups": [
-    "mineral",
-    "amorphous"
-  ],
+  "eggGroups": ["mineral", "amorphous"],
   "moves": [
     "1:astonish",
     "1:stunspore",
@@ -78,9 +72,7 @@
     "tm:trickroom",
     "tm:uproar"
   ],
-  "labels": [
-    "gen9"
-  ],
+  "labels": ["gen9"],
   "aspects": [],
   "height": 1,
   "weight": 11,
@@ -90,9 +82,7 @@
       "variant": "item_interact",
       "result": "sinistcha",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "matchagotcha"
-      ],
+      "learnableMoves": ["matchagotcha"],
       "requirements": [],
       "requiredContext": "cobblemon:unremarkable_teacup"
     }
@@ -103,10 +93,7 @@
       "name": "Artisan",
       "primaryType": "grass",
       "secondaryType": "ghost",
-      "abilities": [
-        "hospitality",
-        "h:heatproof"
-      ],
+      "abilities": ["hospitality", "h:heatproof"],
       "baseStats": {
         "hp": 40,
         "attack": 45,
@@ -129,9 +116,7 @@
       },
       "experienceGroup": "slow",
       "eggCycles": 50,
-      "eggGroups": [
-        "undiscovered"
-      ],
+      "eggGroups": ["undiscovered"],
       "moves": [
         "1:astonish",
         "1:stunspore",
@@ -177,15 +162,11 @@
         "tm:trickroom",
         "tm:uproar"
       ],
-      "labels": [
-        "gen9"
-      ],
+      "labels": ["gen9"],
       "pokedex": [
         "Supposedly, the regrets of a tea ceremony master who died before perfecting his craft lingered in some matcha and became a Pokémon."
       ],
-      "aspects": [
-        "artisan"
-      ],
+      "aspects": ["artisan"],
       "height": 1,
       "weight": 11,
       "evolutions": [
@@ -194,9 +175,7 @@
           "variant": "item_interact",
           "result": "sinistcha masterpiece",
           "consumeHeldItem": false,
-          "learnableMoves": [
-            "matchagotcha"
-          ],
+          "learnableMoves": ["matchagotcha"],
           "requirements": [],
           "requiredContext": "cobblemon:masterpiece_teacup"
         }

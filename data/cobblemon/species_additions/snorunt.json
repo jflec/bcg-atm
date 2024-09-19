@@ -1,4 +1,5 @@
 {
- "target": "cobblemon:snorunt",
-	"baseScale": 0.8
+  "implemented": true,
+  "target": "cobblemon:snorunt",
+  "baseScale": 0.8
 }

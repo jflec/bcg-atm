@@ -2,11 +2,7 @@
   "name": "Milotic",
   "nationalPokedexNumber": 350,
   "primaryType": "water",
-  "abilities": [
-    "marvelscale",
-    "competitive",
-    "h:cutecharm"
-  ],
+  "abilities": ["marvelscale", "competitive", "h:cutecharm"],
   "baseStats": {
     "hp": 95,
     "attack": 60,
@@ -21,10 +17,7 @@
   "baseExperienceYield": 189,
   "experienceGroup": "erratic",
   "eggCycles": 20,
-  "eggGroups": [
-    "water_1",
-    "dragon"
-  ],
+  "eggGroups": ["water_1", "dragon"],
   "moves": [
     "1:flail",
     "1:refresh",
@@ -149,12 +142,8 @@
     "tutor:twister",
     "tutor:waterpulse"
   ],
-  "labels": [
-    "gen3"
-  ],
-  "pokedex": [
-    "cobblemon.species.milotic.desc"
-  ],
+  "labels": ["gen3"],
+  "pokedex": ["cobblemon.species.milotic.desc"],
   "preEvolution": "feebas",
   "evolutions": [],
   "baseScale": 1,

@@ -3,11 +3,7 @@
   "name": "Gumshoos",
   "nationalPokedexNumber": 735,
   "primaryType": "normal",
-  "abilities": [
-    "stakeout",
-    "strongjaw",
-    "h:adaptability"
-  ],
+  "abilities": ["stakeout", "strongjaw", "h:adaptability"],
   "baseStats": {
     "hp": 88,
     "attack": 110,
@@ -23,9 +19,7 @@
     {
       "name": "Totem",
       "primaryType": "normal",
-      "abilities": [
-        "adaptability"
-      ],
+      "abilities": ["adaptability"],
       "baseStats": {
         "hp": 88,
         "attack": 110,
@@ -48,9 +42,7 @@
       },
       "experienceGroup": "medium_fast",
       "eggCycles": 15,
-      "eggGroups": [
-        "field"
-      ],
+      "eggGroups": ["field"],
       "moves": [
         "1:leer",
         "1:pursuit",
@@ -115,13 +107,8 @@
         "tutor:uproar",
         "tutor:zenheadbutt"
       ],
-      "labels": [
-        "gen7",
-        "totem"
-      ],
-      "aspects": [
-        "totem"
-      ],
+      "labels": ["gen7", "totem"],
+      "aspects": ["totem"],
       "height": 14,
       "weight": 600,
       "evolutions": [],
@@ -132,9 +119,7 @@
   "baseExperienceYield": 146,
   "experienceGroup": "medium_fast",
   "eggCycles": 15,
-  "eggGroups": [
-    "field"
-  ],
+  "eggGroups": ["field"],
   "moves": [
     "1:leer",
     "1:payback",
@@ -227,12 +212,8 @@
     "tutor:uproar",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen7"
-  ],
-  "pokedex": [
-    "cobblemon.species.gumshoos.desc"
-  ],
+  "labels": ["gen7"],
+  "pokedex": ["cobblemon.species.gumshoos.desc"],
   "preEvolution": "yungoos",
   "evolutions": [],
   "baseScale": 1,

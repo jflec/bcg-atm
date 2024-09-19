@@ -4,9 +4,7 @@
   "nationalPokedexNumber": 1010,
   "primaryType": "grass",
   "secondaryType": "psychic",
-  "abilities": [
-    "quarkdrive"
-  ],
+  "abilities": ["quarkdrive"],
   "baseStats": {
     "hp": 90,
     "attack": 130,
@@ -37,9 +35,7 @@
   },
   "experienceGroup": "slow",
   "eggCycles": 50,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:electricterrain",
     "1:helpinghand",
@@ -106,13 +102,10 @@
     "tm:wildcharge",
     "tm:xscissor"
   ],
-  "labels": [
-    "gen9",
-    "paradox"
+  "labels": ["gen9", "paradox"],
+  "pokedex": [
+    "Many of its physical characteristics match those of a Virizion from the future that was covered in a paranormal magazine."
   ],
-"pokedex": [
-  "Many of its physical characteristics match those of a Virizion from the future that was covered in a paranormal magazine."
-],
   "aspects": [],
   "height": 15,
   "weight": 1250,

@@ -9,22 +9,22 @@
       "texture": "cobblemon:textures/pokemon/dialga/dialga.png",
       "layers": [
         {
-              "name": "emissive",
-              "emissive": true,
-              "texture": "cobblemon:textures/pokemon/dialga/dialga_e.png",
-              "translucent": true
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/dialga/dialga_e.png",
+          "translucent": true
         }
       ]
     },
     {
-      "aspects": [ "shiny" ],
+      "aspects": ["shiny"],
       "texture": "cobblemon:textures/pokemon/dialga/dialga_shiny.png",
       "layers": [
         {
-              "name": "emissive",
-              "emissive": true,
-              "texture": "cobblemon:textures/pokemon/dialga/dialga_shiny_e.png",
-              "translucent": true
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/dialga/dialga_shiny_e.png",
+          "translucent": true
         }
       ]
     }

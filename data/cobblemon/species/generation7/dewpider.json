@@ -4,10 +4,7 @@
   "nationalPokedexNumber": 751,
   "primaryType": "water",
   "secondaryType": "bug",
-  "abilities": [
-    "waterbubble",
-    "h:waterabsorb"
-  ],
+  "abilities": ["waterbubble", "h:waterabsorb"],
   "baseStats": {
     "hp": 38,
     "attack": 40,
@@ -22,18 +19,15 @@
   "baseExperienceYield": 54,
   "experienceGroup": "medium_fast",
   "eggCycles": 15,
-  "eggGroups": [
-    "water_1",
-    "bug"
-  ],
+  "eggGroups": ["water_1", "bug"],
   "behaviour": {
-        "moving": {
-            "swim": {
-                "canSwimInWater": true,
-                "canBreatheUnderwater": true
-            }
-        }
-    },
+    "moving": {
+      "swim": {
+        "canSwimInWater": true,
+        "canBreatheUnderwater": true
+      }
+    }
+  },
   "moves": [
     "1:bubble",
     "1:infestation",
@@ -96,12 +90,8 @@
     "tutor:skittersmack",
     "tutor:waterpulse"
   ],
-  "labels": [
-    "gen7"
-  ],
-  "pokedex": [
-    "cobblemon.species.dewpider.desc"
-  ],
+  "labels": ["gen7"],
+  "pokedex": ["cobblemon.species.dewpider.desc"],
   "evolutions": [
     {
       "id": "dewpider_araquanid",

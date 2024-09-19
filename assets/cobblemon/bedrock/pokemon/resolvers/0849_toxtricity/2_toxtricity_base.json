@@ -10,7 +10,7 @@
       "layers": []
     },
     {
-      "aspects": [ "female", "shiny" ],
+      "aspects": ["female", "shiny"],
       "texture": "cobblemon:textures/pokemon/toxtricity/toxtricityb_shiny.png"
     }
   ]

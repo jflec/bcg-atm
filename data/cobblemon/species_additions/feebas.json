@@ -1,6 +1,7 @@
 {
-    "target": "cobblemon:feebas",
- "behaviour": {
+  "implemented": true,
+  "target": "cobblemon:feebas",
+  "behaviour": {
     "moving": {
       "walk": {
         "walkSpeed": 0.2,

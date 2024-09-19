@@ -2,11 +2,7 @@
   "name": "Banette",
   "nationalPokedexNumber": 354,
   "primaryType": "ghost",
-  "abilities": [
-    "insomnia",
-    "frisk",
-    "h:cursedbody"
-  ],
+  "abilities": ["insomnia", "frisk", "h:cursedbody"],
   "baseStats": {
     "hp": 64,
     "attack": 115,
@@ -22,9 +18,7 @@
     {
       "name": "Mega",
       "primaryType": "ghost",
-      "abilities": [
-        "prankster"
-      ],
+      "abilities": ["prankster"],
       "baseStats": {
         "hp": 64,
         "attack": 165,
@@ -47,16 +41,9 @@
       },
       "experienceGroup": "fast",
       "eggCycles": 25,
-      "eggGroups": [
-        "amorphous"
-      ],
-      "labels": [
-        "gen6",
-        "mega"
-      ],
-      "aspects": [
-        "mega"
-      ],
+      "eggGroups": ["amorphous"],
+      "labels": ["gen6", "mega"],
+      "aspects": ["mega"],
       "height": 12,
       "weight": 130,
       "cannotDynamax": false,
@@ -66,9 +53,7 @@
   "baseExperienceYield": 159,
   "experienceGroup": "fast",
   "eggCycles": 25,
-  "eggGroups": [
-    "amorphous"
-  ],
+  "eggGroups": ["amorphous"],
   "moves": [
     "1:knockoff",
     "1:nightshade",
@@ -204,12 +189,8 @@
     "tutor:thunderwave",
     "tutor:trick"
   ],
-  "labels": [
-    "gen3"
-  ],
-  "pokedex": [
-    "cobblemon.species.banette.desc"
-  ],
+  "labels": ["gen3"],
+  "pokedex": ["cobblemon.species.banette.desc"],
   "preEvolution": "shuppet",
   "evolutions": [],
   "baseScale": 1,

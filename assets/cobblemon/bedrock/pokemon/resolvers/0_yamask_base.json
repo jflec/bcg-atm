@@ -3,9 +3,7 @@
   "order": 0,
   "variations": [
     {
-      "aspects": [
-        "galarian"
-      ],
+      "aspects": ["galarian"],
       "poser": "cobblemon:yamask_galarian",
       "model": "cobblemon:yamask_galarian.geo",
       "texture": "cobblemon:textures/pokemon/0562_yamask/yamask_galarian.png",
@@ -18,10 +16,7 @@
       ]
     },
     {
-      "aspects": [
-        "galarian",
-        "shiny"
-      ],
+      "aspects": ["galarian", "shiny"],
       "poser": "cobblemon:yamask_galarian",
       "model": "cobblemon:yamask_galarian.geo",
       "texture": "cobblemon:textures/pokemon/0562_yamask/yamask_galarian_shiny.png",

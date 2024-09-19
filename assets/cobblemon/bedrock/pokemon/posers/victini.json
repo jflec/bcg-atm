@@ -9,18 +9,13 @@
       "poseName": "standing",
       "transformTicks": 10,
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
-      "animations": [
-        "look",
-        "bedrock(victini, ground_idle)"
-      ]
+      "animations": ["look", "bedrock(victini, ground_idle)"]
     },
     "walking": {
       "poseName": "walking",
       "transformTicks": 10,
       "poseTypes": ["WALK"],
-      "animations": [
-        "bedrock(victini, ground_walk)"
-      ]
-    }  
+      "animations": ["bedrock(victini, ground_walk)"]
+    }
   }
 }

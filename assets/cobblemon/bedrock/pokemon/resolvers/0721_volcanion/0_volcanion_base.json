@@ -7,20 +7,12 @@
       "poser": "cobblemon:volcanion",
       "model": "cobblemon:volcanion.geo",
       "texture": "cobblemon:textures/pokemon/volcanion/volcanion.png",
-      "layers": [ 
-	  {
-        }
-		]
+      "layers": [{}]
     },
     {
-      "aspects": [
-        "shiny"
-      ],
+      "aspects": ["shiny"],
       "texture": "cobblemon:textures/pokemon/volcanion/volcanion_shiny.png",
-      "layers": [
-	   {
-        }
-	  ]
+      "layers": [{}]
     }
   ]
 }

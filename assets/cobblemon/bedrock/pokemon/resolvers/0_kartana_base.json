@@ -7,16 +7,12 @@
       "poser": "cobblemon:kartana",
       "model": "cobblemon:kartana.geo",
       "texture": "cobblemon:textures/pokemon/0798_kartana/kartana.png",
-      "layers": [
-      ]
+      "layers": []
     },
     {
-      "aspects": [
-        "shiny"
-      ],
+      "aspects": ["shiny"],
       "texture": "cobblemon:textures/pokemon/0798_kartana/kartana_shiny.png",
-      "layers": [
-      ]
+      "layers": []
     }
   ]
 }

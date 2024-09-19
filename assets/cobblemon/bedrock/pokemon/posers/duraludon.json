@@ -14,41 +14,26 @@
     "battle-standing": {
       "poseTypes": ["STAND", "WALK"],
       "isBattle": true,
-      "animations": [
-        "q.bedrock('duraludon', 'battle_idle')"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('duraludon', 'quirk')"
-      ]
+      "animations": ["q.bedrock('duraludon', 'battle_idle')"],
+      "quirks": ["q.bedrock_quirk('duraludon', 'quirk')"]
     },
     "standing": {
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
-      "animations": [
-        "q.bedrock('duraludon', 'ground_idle')"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('duraludon', 'quirk')"
-      ]
+      "animations": ["q.bedrock('duraludon', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('duraludon', 'quirk')"]
     },
     "walking": {
       "poseTypes": ["WALK"],
-      "animations": [
-        "q.bedrock('duraludon', 'ground_walk')"
-      ]
+      "animations": ["q.bedrock('duraludon', 'ground_walk')"]
     },
     "float": {
       "poseTypes": ["FLOAT"],
-      "animations": [
-        "q.bedrock('duraludon', 'ground_walk')"
-      ]
+      "animations": ["q.bedrock('duraludon', 'ground_walk')"]
     },
     "swim": {
       "poseTypes": ["SWIM"],
-      "animations": [
-        "q.look('head')",
-        "q.bedrock('duraludon', 'ground_walk')"
-      ]
+      "animations": ["q.look('head')", "q.bedrock('duraludon', 'ground_walk')"]
     },
     "sleep": {
       "poseTypes": ["SLEEP"],

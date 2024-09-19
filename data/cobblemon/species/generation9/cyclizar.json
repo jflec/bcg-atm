@@ -3,10 +3,7 @@
   "nationalPokedexNumber": 967,
   "primaryType": "dragon",
   "secondaryType": "normal",
-  "abilities": [
-    "shedskin",
-    "h:regenerator"
-  ],
+  "abilities": ["shedskin", "h:regenerator"],
   "baseStats": {
     "hp": 70,
     "attack": 95,
@@ -29,9 +26,7 @@
   },
   "experienceGroup": "medium_slow",
   "eggCycles": 30,
-  "eggGroups": [
-    "field"
-  ],
+  "eggGroups": ["field"],
   "moves": [
     "1:growl",
     "1:tackle",
@@ -97,17 +92,13 @@
     "tm:uturn",
     "tm:wildcharge"
   ],
-  "labels": [
-    "gen9"
-  ],
+  "labels": ["gen9"],
   "aspects": [],
   "height": 16,
   "weight": 630,
   "evolutions": [],
   "cannotDynamax": false,
-  "pokedex": [
-    "cobblemon.species.cyclizar.desc"
-  ],
+  "pokedex": ["cobblemon.species.cyclizar.desc"],
   "drops": {
     "amount": 1,
     "entries": [

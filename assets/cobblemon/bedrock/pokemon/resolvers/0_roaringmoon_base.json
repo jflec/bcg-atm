@@ -7,16 +7,12 @@
       "poser": "cobblemon:roaringmoon",
       "model": "cobblemon:roaringmoon.geo",
       "texture": "cobblemon:textures/pokemon/1005_roaringmoon/roaringmoon.png",
-      "layers": [
-      ]
+      "layers": []
     },
     {
-      "aspects": [
-        "shiny"
-      ],
+      "aspects": ["shiny"],
       "texture": "cobblemon:textures/pokemon/1005_roaringmoon/roaringmoon_shiny.png",
-      "layers": [
-      ]
+      "layers": []
     }
   ]
 }

@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 825,
   "primaryType": "bug",
   "secondaryType": "psychic",
-  "abilities": [
-    "swarm",
-    "compoundeyes",
-    "h:telepathy"
-  ],
+  "abilities": ["swarm", "compoundeyes", "h:telepathy"],
   "baseStats": {
     "hp": 50,
     "attack": 35,
@@ -22,9 +18,7 @@
   "baseExperienceYield": 117,
   "experienceGroup": "medium_fast",
   "eggCycles": 15,
-  "eggGroups": [
-    "bug"
-  ],
+  "eggGroups": ["bug"],
   "moves": [
     "1:strugglebug",
     "tm:allyswitch",
@@ -66,12 +60,8 @@
     "tm:zenheadbutt",
     "tutor:expandingforce"
   ],
-  "labels": [
-    "gen8"
-  ],
-  "pokedex": [
-    "cobblemon.species.dottler.desc"
-  ],
+  "labels": ["gen8"],
+  "pokedex": ["cobblemon.species.dottler.desc"],
   "preEvolution": "blipbug",
   "evolutions": [
     {

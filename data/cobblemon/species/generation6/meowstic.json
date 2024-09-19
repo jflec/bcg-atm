@@ -2,11 +2,7 @@
   "name": "Meowstic",
   "nationalPokedexNumber": 678,
   "primaryType": "psychic",
-  "abilities": [
-    "keeneye",
-    "infiltrator",
-    "h:prankster"
-  ],
+  "abilities": ["keeneye", "infiltrator", "h:prankster"],
   "baseStats": {
     "hp": 74,
     "attack": 48,
@@ -30,9 +26,7 @@
   },
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "field"
-  ],
+  "eggGroups": ["field"],
   "moves": [
     "1:disarmingvoice",
     "1:fakeout",
@@ -155,12 +149,8 @@
     "tutor:wonderroom",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen6"
-  ],
-  "pokedex": [
-    "cobblemon.species.meowstic.desc"
-  ],
+  "labels": ["gen6"],
+  "pokedex": ["cobblemon.species.meowstic.desc"],
   "height": 6,
   "weight": 85,
   "preEvolution": "espurr",
@@ -169,11 +159,7 @@
     {
       "name": "F",
       "primaryType": "psychic",
-      "abilities": [
-        "keeneye",
-        "infiltrator",
-        "h:competitive"
-      ],
+      "abilities": ["keeneye", "infiltrator", "h:competitive"],
       "baseStats": {
         "hp": 74,
         "attack": 48,
@@ -196,9 +182,7 @@
       },
       "experienceGroup": "medium_fast",
       "eggCycles": 20,
-      "eggGroups": [
-        "field"
-      ],
+      "eggGroups": ["field"],
       "moves": [
         "1:disarmingvoice",
         "1:fakeout",
@@ -314,12 +298,8 @@
         "tutor:wonderroom",
         "tutor:zenheadbutt"
       ],
-      "labels": [
-        "gen6"
-      ],
-      "aspects": [
-        "f"
-      ],
+      "labels": ["gen6"],
+      "aspects": ["f"],
       "height": 6,
       "weight": 85,
       "preEvolution": "espurr",

@@ -2,11 +2,7 @@
   "name": "Skitty",
   "nationalPokedexNumber": 300,
   "primaryType": "normal",
-  "abilities": [
-    "cutecharm",
-    "normalize",
-    "h:wonderskin"
-  ],
+  "abilities": ["cutecharm", "normalize", "h:wonderskin"],
   "baseStats": {
     "hp": 50,
     "attack": 45,
@@ -21,10 +17,7 @@
   "baseExperienceYield": 52,
   "experienceGroup": "fast",
   "eggCycles": 15,
-  "eggGroups": [
-    "field",
-    "fairy"
-  ],
+  "eggGroups": ["field", "fairy"],
   "moves": [
     "1:fakeout",
     "1:growl",
@@ -141,12 +134,8 @@
     "tutor:waterpulse",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen3"
-  ],
-  "pokedex": [
-    "cobblemon.species.skitty.desc"
-  ],
+  "labels": ["gen3"],
+  "pokedex": ["cobblemon.species.skitty.desc"],
   "evolutions": [
     {
       "id": "skitty_delcatty",
