@@ -16,7 +16,7 @@
             "condition": {
 		"timeRange": "night",
 		"biomes": [
-                    "#cobblemon:is_overworld"
+                    "#minecraft:is_overworld"
                 ]
             }
         },
@@ -32,7 +32,7 @@
             "weight": 20.0,
             "condition": {
 		"biomes": [
-                    "#cobblemon:is_nether"
+                    "#minecraft:is_nether"
                 ]  
             }
         },
@@ -49,7 +49,7 @@
             "condition": {
                 "timeRange": "night",
                 "biomes": [
-                    "#minecraft:is_savanna"
+                    "#cobblemon:is_savanna"
                 ]
                 
             }
@@ -103,7 +103,7 @@
             "condition": {
                 "timeRange": "night",
                 "biomes": [
-                    "#cobblemon:is_freshwater",
+                    "#minecraft:is_freshwater",
 		    "#cobblemon:is_coast"
                 ]
                 
@@ -139,7 +139,7 @@
             "weight": 20.0,
             "condition": {
                 "biomes": [
-                    "#minecraft:is_end"
+                    "#cobblemon:is_end"
                 ]
             }
         }
