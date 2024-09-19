@@ -172,7 +172,7 @@
  },
   "evolutions": [
     {
-      "id": "hoopaunbound_hoopa",
+      "id": "hoopa_unbound",
       "variant": "item_interact",
       "result": "hoopa",
       "consumeHeldItem": false,
