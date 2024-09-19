@@ -1,5 +1,5 @@
 {
-    "enabled": "true",
+    "enabled": true,
     "neededInstalledMods": [],
     "neededUninstalledMods": [],
     "spawns": [
@@ -32,7 +32,7 @@
             "weight": 20.0,
             "condition": {
 		"biomes": [
-                    "#minecraft:is_nether"
+                    "#cobblemon:is_nether"
                 ]  
             }
         },
@@ -49,7 +49,7 @@
             "condition": {
                 "timeRange": "night",
                 "biomes": [
-                    "#cobblemon:is_savanna"
+                    "#minecraft:is_savanna"
                 ]
                 
             }

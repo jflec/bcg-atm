@@ -15,9 +15,8 @@
       "level": "60-75",
       "weight": 5,
       "condition": {
-          "biomes": [
-              "#minecraft:flower_forest"
-          ]
+          "biomes":[
+            "#minecraft:flower_forest"]
 	  }
 	}
     ]

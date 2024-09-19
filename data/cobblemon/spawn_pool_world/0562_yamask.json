@@ -41,7 +41,7 @@
             "condition": {
                 "timeRange": "night",
 		"biomes": [
-                    "#cobblemon:is_overworld"
+                    "#minecraft:is_overworld"
                 ]
             }
         }

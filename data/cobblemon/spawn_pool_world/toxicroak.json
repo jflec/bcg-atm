@@ -29,7 +29,7 @@
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "#cobblemon:is_swamp"
+                    "#minecraft:is_swamp"
                 ],
 				"isRaining": true
             }
