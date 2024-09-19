@@ -17,7 +17,7 @@
            "condition": {
                "isRaining": true,
                "biomes": [
-                   "#cobblemon:is_deep_ocean"
+                   "#minecraft:is_deep_ocean"
                ]
            }
        }
