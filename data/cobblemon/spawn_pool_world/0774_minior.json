@@ -85,7 +85,7 @@
             "condition": {
                 "timeRange": "night",
                 "biomes": [
-                    "#cobblemon:is_jungle"
+                    "#minecraft:is_jungle"
                 ]
                 
             }
@@ -104,7 +104,7 @@
                 "timeRange": "night",
                 "biomes": [
                     "#minecraft:is_freshwater",
-		    "#cobblemon:is_coast"
+		    "#minecraft:is_coast"
                 ]
                 
             }
@@ -122,7 +122,7 @@
             "condition": {
                 "timeRange": "night",
                 "biomes": [
-                    "#cobblemon:is_glacial"
+                    "#minecraft:is_glacial"
                 ]
                 
             }
@@ -139,7 +139,7 @@
             "weight": 20.0,
             "condition": {
                 "biomes": [
-                    "#cobblemon:is_end"
+                    "#minecraft:is_end"
                 ]
             }
         }

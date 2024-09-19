@@ -169,6 +169,7 @@
    }
  },
 
+  "preEvolution": "hoopaunbound",
   "evolutions": [
     {
       "id": "hoopa_hoopaunbound",
