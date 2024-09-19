@@ -4,18 +4,20 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "ogerpon-1",
+            "id": "ogerpon",
             "pokemon": "ogerpon",
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "ultra-rare",
-            "level": "60-88",
+            "bucket": "ultra rare",
+            "level": "50",
             "weight": 5.0,
             "condition": {
+                "canSeeSky": false,
                 "biomes": [
-                    "cobblemon:is_lush"
+                    "#cobblemon:is_lush"
                 ]
             }
         }
     ]
 }
+   
