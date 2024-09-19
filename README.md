@@ -17,6 +17,9 @@
     
 - **BeeZy** (beezymc), one of the creators of _LackingMons_
   - https://modrinth.com/datapack/lackingmons
+ 
+- **BifeSalgado** (BifeSalgado), the creator of _OdysseyMons_
+  - https://modrinth.com/resourcepack/odysseymons
     
 - **Bwavii** (bwavi), the creator of _WaviMons_
   - https://modrinth.com/datapack/wavimons-(cobblemon)
@@ -32,9 +35,6 @@
     
 - **IZetyXX** (izetyxx), one of the creators of _LackingMons_
   - https://modrinth.com/datapack/lackingmons
- 
-- **BifeSalgado** (BifeSalgado), the creator of _OdysseyMons_
-  - https://modrinth.com/resourcepack/odysseymons
     
 - **Kale** (kylbrez), the creator of _Kale's Collection_
   - https://modrinth.com/datapack/kales-cobblemon-collection
