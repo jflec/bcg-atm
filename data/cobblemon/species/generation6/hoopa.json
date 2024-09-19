@@ -171,9 +171,9 @@
 
   "evolutions": [
     {
-      "id": "hoopa_hoopa_unbound",
+      "id": "hoopa_hoopaunbound",
       "variant": "item_interact",
-      "result": "hoopa_unbound",
+      "result": "hoopaunbound",
       "consumeHeldItem": false,
       "learnableMoves": [],
       "requirements": [],
