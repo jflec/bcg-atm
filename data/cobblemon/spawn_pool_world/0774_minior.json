@@ -5,7 +5,7 @@
     "spawns": [
         {
             "id": "minior-1",
-            "pokemon": "minior core=shielded",
+            "pokemon": "minior",
             "presets": [
             ],
             "type": "pokemon",
@@ -15,9 +15,7 @@
             "weight": 20.0,
             "condition": {
 		"timeRange": "night",
-		"biomes": [
-                    "#minecraft:is_overworld"
-                ]
+		"biomes": ["#minecraft:is_overworld"]
             }
         },
         {

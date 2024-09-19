@@ -109,8 +109,7 @@
         "custom"
     ],
     "pokedex": [
-        "cobblemon.species.ogerponwater.desc1",
-        "cobblemon.species.ogerponwater.desc2"
+        "cobblemon.species.ogerponwater.desc1"
     ],
 		"evolutions": [
         {

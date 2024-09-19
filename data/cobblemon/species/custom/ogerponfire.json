@@ -109,8 +109,7 @@
         "custom"
     ],
     "pokedex": [
-        "cobblemon.species.ogerponfire.desc1",
-        "cobblemon.species.ogerponfire.desc2"
+        "cobblemon.species.ogerponfire.desc1"
     ],
 		"evolutions": [
         {
