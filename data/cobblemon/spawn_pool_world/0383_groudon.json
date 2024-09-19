@@ -14,7 +14,7 @@
             "weight": 0.01,
             "condition": {
                 "canSeeSky": true,
-                "biomes": ["minecraft:badlands"],
+                "biomes": ["#minecraft:badlands"],
                 "neededNearbyBlocks": [
                     "#minecraft:lava"
                 ],

@@ -16,7 +16,7 @@
       "weight": 5,
       "condition": {
           "biomes": [
-              "minecraft:flower_forest"
+              "#minecraft:flower_forest"
           ]
 	  }
 	}
