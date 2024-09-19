@@ -91,7 +91,7 @@
     "legendary"
   ],
   "pokedex": [
-    "cobblemon.species.kubfu.desc"
+    "Inhabiting the mountains of a distant region, this Pokémon races across sheer cliffs, training its legs and refining its moves."
   ],
   "evolutions": [
     {
@@ -103,18 +103,18 @@
         "wickedblow"
       ],
       "requirements": [],
-      "block": "cobblemon:scroll_of_darkness"
+      "item": "cobblemon:black_belt"
     },
     {
-      "id": "kubfu_urshifu",
+      "id": "kubfu_urshifurs",
       "variant": "block_click",
-      "result": "urshifu rapidstrike",
+      "result": "urshifu rapidrs",
       "consumeHeldItem": false,
       "learnableMoves": [
         "surgingstrikes"
       ],
       "requirements": [],
-      "block": "cobblemon:scroll_of_waters"
+      "item": "cobblemon:choice_scarf"
     }
   ],
   "baseScale": 1,
