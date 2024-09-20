@@ -13,7 +13,7 @@
       "weight": 7.1,
       "condition": {
         "canSeeSky": true,
-        "biomes": ["#minecraft:birch_forest"]
+        "biomes": ["minecraft:birch_forest"]
       }
     }
   ]

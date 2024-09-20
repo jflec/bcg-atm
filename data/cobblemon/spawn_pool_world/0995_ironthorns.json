@@ -14,7 +14,7 @@
       "weight": 0.1,
       "condition": {
         "canSeeSky": false,
-        "biomes": ["#minecraft:lush_caves"],
+        "biomes": ["minecraft:lush_caves"],
         "neededNearbyBlocks": ["minecraft:lightning_rod"]
       }
     }

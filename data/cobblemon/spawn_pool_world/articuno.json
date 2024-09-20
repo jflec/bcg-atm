@@ -12,7 +12,7 @@
       "level": "50-70",
       "weight": 0.8,
       "condition": {
-        "biomes": ["#minecraft:ice_spikes"]
+        "biomes": ["minecraft:ice_spikes"]
       }
     }
   ]

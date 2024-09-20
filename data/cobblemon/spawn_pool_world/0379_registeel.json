@@ -14,7 +14,7 @@
       "weight": 0.1,
       "condition": {
         "canSeeSky": true,
-        "biomes": ["#minecraft:jagged_peaks"]
+        "biomes": ["minecraft:jagged_peaks"]
       }
     }
   ]

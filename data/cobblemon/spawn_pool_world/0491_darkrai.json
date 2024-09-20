@@ -13,7 +13,7 @@
       "level": "70",
       "weight": 0.01,
       "condition": {
-        "biomes": ["#minecraft:dark_forest"],
+        "biomes": ["minecraft:dark_forest"],
         "moonPhase": 5
       }
     },
@@ -27,7 +27,7 @@
       "level": "70",
       "weight": 0.01,
       "condition": {
-        "biomes": ["#minecraft:deep_dark"]
+        "biomes": ["minecraft:deep_dark"]
       }
     }
   ]

@@ -13,7 +13,7 @@
       "weight": 0.2,
       "condition": {
         "canSeeSky": true,
-        "biomes": ["#minecraft:mangrove_swamp"]
+        "biomes": ["minecraft:mangrove_swamp"]
       }
     }
   ]

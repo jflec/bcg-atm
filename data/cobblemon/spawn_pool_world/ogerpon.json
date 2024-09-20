@@ -12,7 +12,7 @@
       "level": "60-80",
       "weight": 5.0,
       "condition": {
-        "biomes": ["cobblemon:lush_caves"]
+        "biomes": ["minecraft:lush_caves"]
       }
     }
   ]

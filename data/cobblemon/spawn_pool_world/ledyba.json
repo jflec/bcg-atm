@@ -13,7 +13,7 @@
       "weight": 7.2,
       "condition": {
         "canSeeSky": true,
-        "biomes": ["#minecraft:sunflower_plains"]
+        "biomes": ["minecraft:sunflower_plains"]
       }
     }
   ]

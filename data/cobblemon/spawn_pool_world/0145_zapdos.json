@@ -14,7 +14,7 @@
       "weight": 0.01,
       "condition": {
         "canSeeSky": true,
-        "biomes": ["#minecraft:stony_peaks", "#minecraft:jagged_peaks"],
+        "biomes": ["minecraft:stony_peaks", "minecraft:jagged_peaks"],
         "isThundering": true
       }
     },
@@ -29,7 +29,7 @@
       "weight": 0.01,
       "condition": {
         "canSeeSky": true,
-        "biomes": ["#minecraft:cherry_grove"]
+        "biomes": ["minecraft:cherry_grove"]
       }
     }
   ]
