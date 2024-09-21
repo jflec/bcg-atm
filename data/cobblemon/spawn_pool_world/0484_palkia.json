@@ -27,7 +27,7 @@
         "biomes": ["#minecraft:is_beach"],
         "timeRange": "any",
         "isRaining": false,
-        "neededBaseBlocks": ["#minecraft:sand"]
+        "neededBaseBlocks": ["minecraft:sand"]
       }
     }
   ]

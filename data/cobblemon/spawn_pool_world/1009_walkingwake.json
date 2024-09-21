@@ -14,7 +14,7 @@
       "condition": {
         "biomes": ["#cobblemon:is_beach", "#cobblemon:is_coast"],
         "timeRange": "morning",
-        "neededBaseBlocks": ["#minecraft:sand"]
+        "neededBaseBlocks": ["minecraft:sand"]
       }
     }
   ]

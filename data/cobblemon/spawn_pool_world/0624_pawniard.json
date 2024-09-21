@@ -43,7 +43,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": ["#cobblemon:is_mountain"],
-        "neededBaseBlocks": ["#minecraft:stone"]
+        "neededBaseBlocks": ["minecraft:stone"]
       }
     }
   ]

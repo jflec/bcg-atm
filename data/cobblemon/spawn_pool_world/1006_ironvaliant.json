@@ -15,7 +15,7 @@
       "condition": {
         "canSeeSky": false,
         "biomes": ["minecraft:dark_forest"],
-        "neededNearbyBlocks": ["#minecraft:lightning_rod"]
+        "neededNearbyBlocks": ["minecraft:lightning_rod"]
       }
     }
   ]

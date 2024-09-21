@@ -14,7 +14,7 @@
       "condition": {
         "biomes": ["#cobblemon:is_savanna"],
         "timeRange": "morning",
-        "neededBaseBlocks": ["#minecraft:grass_block"]
+        "neededBaseBlocks": ["minecraft:grass_block"]
       }
     }
   ]

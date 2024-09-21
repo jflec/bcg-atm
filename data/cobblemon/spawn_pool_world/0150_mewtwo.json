@@ -14,7 +14,7 @@
       "condition": {
         "biomes": ["#cobblemon:is_overworld"],
         "timeRange": "afternoon",
-        "neededBaseBlocks": ["#minecraft:grass_block"]
+        "neededBaseBlocks": ["minecraft:grass_block"]
       }
     }
   ]

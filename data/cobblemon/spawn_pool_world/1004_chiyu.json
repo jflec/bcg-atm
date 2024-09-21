@@ -59,7 +59,7 @@
       "weight": 0.01,
       "condition": {
         "biomes": ["#cobblemon:is_volcanic"],
-        "neededNearbyBlocks": ["#minecraft:lava"]
+        "neededNearbyBlocks": ["minecraft:lava"]
       }
     }
   ]

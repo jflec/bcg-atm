@@ -14,7 +14,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": ["#minecraft:is_overworld"],
-        "neededNearbyBlocks": ["#minecraft:white_bed"]
+        "neededNearbyBlocks": ["minecraft:white_bed"]
       }
     }
   ]
