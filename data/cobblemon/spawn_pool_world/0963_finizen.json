@@ -13,7 +13,7 @@
       "level": "15-28",
       "weight": 5.8,
       "condition": {
-        "biomes": ["minecraft:lukewarm_ocean"]
+        "biomes": ["#cobblemon:is_lukewarm_ocean"]
       }
     },
     {
@@ -26,7 +26,7 @@
       "level": "15-28",
       "weight": 5.8,
       "condition": {
-        "biomes": ["minecraft:lukewarm_ocean"]
+        "biomes": ["#cobblemon:is_lukewarm_ocean"]
       }
     }
   ]

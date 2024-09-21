@@ -13,7 +13,7 @@
       "level": "70",
       "weight": 0.01,
       "condition": {
-        "biomes": ["minecraft:plains"],
+        "biomes": ["#cobblemon:is_plains"],
         "moonPhase": 4
       }
     },
@@ -27,7 +27,7 @@
       "level": "70",
       "weight": 0.01,
       "condition": {
-        "biomes": ["minecraft:plains"],
+        "biomes": ["#cobblemon:is_plains"],
         "moonPhase": 6
       }
     }

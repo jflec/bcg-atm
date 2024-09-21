@@ -28,7 +28,7 @@
       "weight": 8,
       "condition": {
         "canSeeSky": false,
-        "biomes": ["minecraft:dark_forest"]
+        "biomes": ["#cobblemon:is_magical"]
       }
     }
   ]

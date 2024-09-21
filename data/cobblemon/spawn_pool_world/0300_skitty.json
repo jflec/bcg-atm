@@ -67,7 +67,7 @@
       },
       "condition": {
         "canSeeSky": true,
-        "biomes": ["minecraft:cherry_grove"]
+        "biomes": ["#cobblemon:is_floral"]
       }
     }
   ]

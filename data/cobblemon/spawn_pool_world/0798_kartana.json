@@ -16,19 +16,6 @@
         "canSeeSky": true,
         "biomes": ["#cobblemon:is_bamboo"]
       }
-    },
-    {
-      "id": "kartana-2",
-      "pokemon": "kartana",
-      "presets": [],
-      "type": "pokemon",
-      "context": "grounded",
-      "bucket": "uncommon",
-      "level": "55-70",
-      "weight": 10.0,
-      "condition": {
-        "structures": ["hiddenmons:ultraforest"]
-      }
     }
   ]
 }

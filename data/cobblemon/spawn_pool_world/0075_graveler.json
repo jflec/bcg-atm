@@ -65,13 +65,7 @@
       },
       "condition": {
         "canSeeSky": true,
-        "biomes": [
-          "#cobblemon:is_tropical_island",
-          "#c:stony_shores",
-          "wythers:gravelly_beach",
-          "wythers:tropical_island",
-          "wythers:warm_stony_shore"
-        ]
+        "biomes": ["#cobblemon:is_tropical_island", "#c:stony_shores"]
       }
     }
   ]

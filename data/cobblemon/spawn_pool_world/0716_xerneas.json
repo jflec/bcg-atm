@@ -12,7 +12,7 @@
       "level": "65-75",
       "weight": 0.5,
       "condition": {
-        "biomes": ["#minecraft:flower_forest"],
+        "biomes": ["#cobblemon:is_floral"],
         "timeRange": "day",
         "isRaining": false,
         "maxY": 150

@@ -61,11 +61,7 @@
         "maxY": 32
       },
       "anticondition": {
-        "biomes": [
-          "#cobblemon:is_deep_dark",
-          "#cobblemon:is_dripstone",
-          "terralith:cave/underground_jungle"
-        ]
+        "biomes": ["#cobblemon:is_deep_dark", "#cobblemon:is_dripstone"]
       }
     },
     {
@@ -80,10 +76,7 @@
       "condition": {
         "minSkyLight": 0,
         "maxSkyLight": 7,
-        "biomes": [
-          "#cobblemon:is_dripstone",
-          "terralith:cave/underground_jungle"
-        ]
+        "biomes": ["#cobblemon:is_dripstone"]
       },
       "anticondition": {
         "biomes": ["#cobblemon:is_deep_dark"]
@@ -102,32 +95,6 @@
         "minSkyLight": 0,
         "maxSkyLight": 7,
         "biomes": ["#cobblemon:is_deep_dark"]
-      }
-    },
-    {
-      "id": "noibat-6",
-      "pokemon": "noibat",
-      "presets": ["natural"],
-      "type": "pokemon",
-      "context": "grounded",
-      "bucket": "common",
-      "level": "20-43",
-      "weight": 7.0,
-      "condition": {
-        "biomes": ["betterend:chorus_forest"]
-      }
-    },
-    {
-      "id": "noibat-7",
-      "pokemon": "noibat",
-      "presets": ["natural"],
-      "type": "pokemon",
-      "context": "grounded",
-      "bucket": "common",
-      "level": "20-43",
-      "weight": 4.0,
-      "condition": {
-        "biomes": ["betterend:foggy_mushroomland", "betterend:umbrella_jungle"]
       }
     }
   ]

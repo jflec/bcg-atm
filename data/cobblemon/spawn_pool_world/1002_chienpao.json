@@ -15,10 +15,7 @@
         "biomes": [
           "#cobblemon:is_freezing",
           "#cobblemon:is_taiga",
-          "#cobblemon:is_tundra",
-          "minecraft:frozen_peaks",
-          "minecraft:ice_spikes",
-          "terralith:frozen_cliffs"
+          "#cobblemon:is_tundra"
         ]
       }
     }

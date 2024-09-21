@@ -54,7 +54,7 @@
       "level": "30-60",
       "weight": 8.0,
       "condition": {
-        "biomes": ["minecraft:frozen_peaks", "minecraft:snowy_slopes"]
+        "biomes": ["#cobblemon:is_glacial"]
       }
     },
     {

@@ -12,7 +12,7 @@
       "level": "55-65",
       "weight": 5,
       "condition": {
-        "biomes": ["minecraft:mangrove_swamp", "minecraft:swamp"]
+        "biomes": ["#cobblemon:is_swamp"]
       }
     }
   ]

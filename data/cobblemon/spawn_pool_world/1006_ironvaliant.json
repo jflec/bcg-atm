@@ -14,7 +14,7 @@
       "weight": 0.1,
       "condition": {
         "canSeeSky": false,
-        "biomes": ["minecraft:dark_forest"],
+        "biomes": ["#cobblemon:is_magical"],
         "neededNearbyBlocks": ["minecraft:lightning_rod"]
       }
     }

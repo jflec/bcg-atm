@@ -14,7 +14,7 @@
       "weight": 10.0,
       "condition": {
         "canSeeSky": true,
-        "biomes": ["minecraft:jagged_peaks", "minecraft:stony_peaks"]
+        "biomes": ["#cobblemon:is_peak"]
       }
     }
   ]

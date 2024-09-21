@@ -44,7 +44,7 @@
       "level": "60-70",
       "weight": 5,
       "condition": {
-        "biomes": ["betterend:crystal_mountains", "betterend:amber_land"]
+        "biomes": ["#cobblemon:is_end"]
       }
     }
   ]

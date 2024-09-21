@@ -12,7 +12,7 @@
       "level": "70",
       "weight": 0.4,
       "condition": {
-        "biomes": ["minecraft:sunflower_plains"],
+        "biomes": ["#cobblemon:is_floral"],
         "timeRange": "day",
         "isRaining": false
       }

@@ -13,7 +13,7 @@
       "weight": 2.0,
       "condition": {
         "canSeeSky": false,
-        "biomes": ["minecraft:deep_dark"]
+        "biomes": ["#cobblemon:is_deep_dark"]
       }
     }
   ]

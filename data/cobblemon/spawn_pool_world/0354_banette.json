@@ -15,7 +15,7 @@
       "condition": {
         "canSeeSky": false,
         "minHeight": 2,
-        "biomes": ["minecraft:deep_dark"]
+        "biomes": ["#cobblemon:is_deep_dark"]
       }
     },
     {
