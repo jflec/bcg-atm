@@ -1,5 +1,4 @@
 {
-  "head": "head",
   "portraitScale": 1.8,
   "portraitTranslation": [-0.8, 1.0, 0],
   "profileScale": 0.6,
@@ -14,9 +13,13 @@
   },
   "poses": {
     "battle-standing": {
-      "poseTypes": ["STAND"],
+      "transformTicks": 10,
+	  "poseTypes": ["STAND"],
       "isBattle": true,
-      "animations": ["q.look('head')", "q.bedrock('pyroar_m', 'battle_idle')"],
+      "animations": [
+	    "q.look('head')",
+		"q.bedrock('pyroar_m', 'battle_idle')"
+	  ],
       "quirks": ["q.bedrock_quirk('pyroar_m', 'blink')"]
     },
     "standing": {
@@ -24,22 +27,24 @@
       "transformTicks": 10,
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
-      "animations": ["look", "bedrock(pyroar_m, ground_idle)"],
+      "animations": [
+	    "q.look('head')",
+	    "q.bedrock('pyroar_m', 'ground_idle')"
+	  ],
       "quirks": ["q.bedrock_quirk('pyroar_m', 'blink')"]
     },
     "walking": {
       "poseName": "walking",
       "transformTicks": 10,
       "poseTypes": ["WALK"],
-      "animations": ["bedrock(pyroar_m, ground_walk)"],
+      "animations": ["q.bedrock('pyroar_m', 'ground_walk')"],
       "quirks": ["q.bedrock_quirk('pyroar_m', 'blink')"]
     },
-
     "sleeping": {
       "poseName": "sleeping",
       "transformTicks": 10,
       "poseTypes": ["SLEEP"],
-      "animations": ["bedrock(pyroar_m, sleep)"]
+      "animations": ["q.bedrock('pyroar_m', 'sleep')"]
     }
   }
 }
