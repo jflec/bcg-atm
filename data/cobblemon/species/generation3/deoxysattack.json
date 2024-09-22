@@ -1,5 +1,5 @@
 {
-  "name": "Deoxys_Attack",
+  "name": "Deoxys-Attack",
   "nationalPokedexNumber": 3861,
   "primaryType": "psychic",
   "abilities": [
@@ -210,7 +210,9 @@
     "legendary"
   ],
   "pokedex": [
-    "cobblemon.species.deoxysattack.desc"
+    "cobblemon.species.deoxysattack.desc1",
+	"cobblemon.species.deoxysattack.desc2"
+	
   ],
   "height": 17,
   "weight": 608,
