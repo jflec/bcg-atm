@@ -6,12 +6,14 @@
       "aspects": [],
       "poser": "cobblemon:shaymin",
       "model": "cobblemon:shaymin.geo",
-      "texture": "cobblemon:textures/pokemon/shaymin/shaymin.png",
+      "texture": "cobblemon:textures/pokemon/0492_shaymin/shaymin.png",
       "layers": []
     },
     {
-      "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/shaymin/shaymin_shiny.png"
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0492_shaymin/shaymin_shiny.png"
     }
   ]
 }
