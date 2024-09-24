@@ -15,28 +15,42 @@
     "battle-standing": {
       "poseTypes": ["STAND"],
       "isBattle": true,
-      "animations": ["q.bedrock('hoopa_unbound', 'battle_idle')"],
-      "quirks": ["q.bedrock_quirk('hoopa_unbound', 'blink')"]
+      "animations": [
+        "q.bedrock('hoopa_unbound', 'battle_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('hoopa_unbound', 'blink')"
+      ]
     },
     "standing": {
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
-      "animations": ["q.bedrock('hoopa_unbound', 'ground_idle')"],
-      "quirks": ["q.bedrock_quirk('hoopa_unbound', 'blink')"]
+      "animations": [
+        "q.bedrock('hoopa_unbound', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('hoopa_unbound', 'blink')"
+      ]
     },
     "walking": {
       "poseTypes": ["WALK"],
-      "animations": ["q.bedrock('hoopa_unbound', 'ground_walk')"],
+      "animations": [
+        "q.bedrock('hoopa_unbound', 'ground_walk')"
+      ],
       "quirks": ["q.bedrock_quirk('hoopa_unbound', 'blink')"]
     },
     "float": {
       "poseTypes": ["FLOAT"],
-      "animations": ["q.bedrock('hoopa_unbound', 'ground_idle')"],
+      "animations": [
+        "q.bedrock('hoopa_unbound', 'ground_idle')"
+      ],
       "quirks": ["q.bedrock_quirk('hoopa_unbound', 'blink')"]
     },
     "swim": {
       "poseTypes": ["SWIM"],
-      "animations": ["q.bedrock('hoopa_unbound', 'ground_walk')"],
+      "animations": [
+        "q.bedrock('hoopa_unbound', 'ground_walk')"
+      ],
       "quirks": ["q.bedrock_quirk('hoopa_unbound', 'blink')"]
     },
     "hover": {
