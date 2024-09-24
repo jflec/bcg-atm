@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:houndoom",
       "model": "cobblemon:houndoom.geo",
-      "texture": "cobblemon:textures/pokemon/houndoom/houndoom.png",
+      "texture": "cobblemon:textures/pokemon/0229_houndoom/houndoom.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/houndoom/houndoom_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0229_houndoom/houndoom_shiny.png"
     }
   ]
 }

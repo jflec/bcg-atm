@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:skitty",
       "model": "cobblemon:skitty.geo",
-      "texture": "cobblemon:textures/pokemon/skitty/skitty.png",
+      "texture": "cobblemon:textures/pokemon/0300_skitty/skitty.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/skitty/skitty_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0300_skitty/skitty_shiny.png"
     }
   ]
 }

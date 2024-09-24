@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:absol",
       "model": "cobblemon:absol.geo",
-      "texture": "cobblemon:textures/pokemon/absol/absol.png",
+      "texture": "cobblemon:textures/pokemon/0359_absol/absol.png",
       "layers": [{}]
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/absol/absol_shiny.png",
+      "texture": "cobblemon:textures/pokemon/0359_absol/absol_shiny.png",
       "layers": [{}]
     }
   ]
