@@ -207,7 +207,8 @@
     "legendary"
   ],
   "pokedex": [
-    "cobblemon.species.deoxysspeed.desc"
+    "cobblemon.species.deoxysspeed.desc1",
+	"cobblemon.species.deoxysspeed.desc2"
   ],
   "height": 17,
   "weight": 608,

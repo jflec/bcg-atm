@@ -59,5 +59,20 @@
   "cobblemon.species.hoopaunbound.desc2": "Undiscovered",
   
   "cobblemon.species.shayminsky.name": "Shaymin",
-  "cobblemon.species.shayminsky.desc1": "When the turning of seasons brings the cruel winter to its end and the joyous people give thanks to the heavens, Shaymin appears and covers the withered land with flowers."
+  "cobblemon.species.shayminsky.desc1": "When the turning of seasons brings the cruel winter to its end and the joyous people give thanks to the heavens, Shaymin appears and covers the withered land with flowers.",
+  "cobblemon.species.deoxys.name": "Deoxys",
+  "cobblemon.species.deoxys.desc1": "Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest.",
+  "cobblemon.species.deoxys.desc2": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.",
+
+  "cobblemon.species.deoxysattack.name": "Deoxys",
+  "cobblemon.species.deoxysattack.desc1": "Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest.",
+  "cobblemon.species.deoxysattack.desc2": "This evolution is Deoxys' Attack form",
+
+  "cobblemon.species.deoxysdefense.name": "Deoxys",
+  "cobblemon.species.deoxysdefense.desc1": "Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest.",
+  "cobblemon.species.deoxysdefense.desc2": "This evolution is Deoxys' Defense form",
+
+  "cobblemon.species.deoxysspeed.name": "Deoxys",
+  "cobblemon.species.deoxysspeed.desc1": "Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest.",
+  "cobblemon.species.deoxysspeed.desc2": "This evolution is Deoxys' Speed form"
 }

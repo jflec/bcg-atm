@@ -14,7 +14,8 @@
   },
   "poses": {
     "battle-standing": {
-      "poseTypes": ["STAND"],
+      "transformTicks": 10,
+	  "poseTypes": ["STAND"],
       "isBattle": true,
       "animations": [
         "q.look('head')",
@@ -27,14 +28,17 @@
       "transformTicks": 10,
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
-      "animations": ["look", "bedrock(meowstic_m, ground_idle)"],
+      "animations": [
+	    "q.look('head')", 
+		"q.bedrock('meowstic_m', 'ground_idle')"
+	  ],
       "quirks": ["q.bedrock_quirk('meowstic_m', 'blink')"]
     },
     "walking": {
       "poseName": "walking",
       "transformTicks": 10,
       "poseTypes": ["WALK"],
-      "animations": ["bedrock(meowstic_m, ground_walk)"],
+      "animations": ["q.bedrock('meowstic_m', 'ground_walk')"],
       "quirks": ["q.bedrock_quirk('meowstic_m', 'blink')"]
     },
 
@@ -42,7 +46,7 @@
       "poseName": "sleeping",
       "transformTicks": 10,
       "poseTypes": ["SLEEP"],
-      "animations": ["bedrock(meowstic_m, sleep)"]
+      "animations": ["q.bedrock('meowstic_m', 'sleep')"]
     }
   }
 }
