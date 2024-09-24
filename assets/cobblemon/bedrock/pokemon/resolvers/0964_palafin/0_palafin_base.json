@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:palafin",
       "model": "cobblemon:palafin.geo",
-      "texture": "cobblemon:textures/pokemon/palafin/palafin.png",
+      "texture": "cobblemon:textures/pokemon/0964_palafin/palafin.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/palafin/palafin_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0964_palafin/palafin_shiny.png"
     }
   ]
 }
