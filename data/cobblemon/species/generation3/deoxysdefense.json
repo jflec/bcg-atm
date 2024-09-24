@@ -2,9 +2,7 @@
   "name": "Deoxys-Defense",
   "nationalPokedexNumber": 3862,
   "primaryType": "psychic",
-  "abilities": [
-    "pressure"
-  ],
+  "abilities": ["pressure"],
   "baseStats": {
     "hp": 50,
     "attack": 70,
@@ -17,19 +15,19 @@
     "resting": {
       "canSleep": true,
       "willSleepOnBed": false,
-     "depth": "normal",
+      "depth": "normal",
       "light": "0-4"
-},
-   "moving": {
-    "fly": {
-      "canFly": true,
-      "flySpeedHorizontal": 0.3
-        },
-        "walk": { 
-            "walkSpeed": 0.3
-      }
-}
     },
+    "moving": {
+      "fly": {
+        "canFly": true,
+        "flySpeedHorizontal": 0.3
+      },
+      "walk": {
+        "walkSpeed": 0.3
+      }
+    }
+  },
   "catchRate": 3,
   "maleRatio": -1,
   "shoulderMountable": false,
@@ -45,9 +43,7 @@
   },
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:leer",
     "1:wrap",
@@ -201,14 +197,10 @@
     "tutor:zapcannon",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen3",
-    "mythical",
-    "legendary"
-  ],
+  "labels": ["gen3", "mythical", "legendary"],
   "pokedex": [
     "cobblemon.species.deoxysdefense.desc1",
-	"cobblemon.species.deoxysdefense.desc2"
+    "cobblemon.species.deoxysdefense.desc2"
   ],
   "height": 17,
   "weight": 608,
@@ -239,19 +231,19 @@
       "learnableMoves": [],
       "requirements": [],
       "requiredContext": "minecraft:chorus_fruit"
-    }  
+    }
   ],
-    "baseScale": 0.6,
-    "hitbox": {
+  "baseScale": 0.6,
+  "hitbox": {
     "width": 1.3,
     "height": 3.7,
     "fixed": false
-    },
+  },
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-  "amount": 1,
-  "entries": [
+    "amount": 1,
+    "entries": [
       {
         "item": "minecraft:eye_of_ender"
       }

@@ -10,7 +10,7 @@
       "layers": []
     },
     {
-      "aspects": [ "shiny" ],
+      "aspects": ["shiny"],
       "texture": "cobblemon:textures/pokemon/0386_deoxys/deoxys_shiny.png"
     }
   ]
