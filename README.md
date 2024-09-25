@@ -1,9 +1,10 @@
-**BigChadGuys Plus** includes all individual projects to ensure authors receive full credit. **AllTheMons - BCG Modified** simply combines each project for ease of development.
+**BCG x AllTheMons** is a heavily modified version of **AllTheMons**, originally created by @easysqueeze. This pack was created with permission from each author, and BigChadGuys makes no claim of ownership over these packs.
 
-**AllTheMons** was originally created by @easysqueeze.  
-**AllTheMons Discord**: [Join here](https://discord.gg/gddMDWX2nS)
+If you encounter any issues, please reach out to us directly rather than the original authors, as any problems are likely our responsibility.
 
-**This pack was created with permission from each author. BigChadGuys makes no claim of ownership over these packs.**
+**BigChadGuys Plus** includes all individual projects to ensure authors receive full credit. **BCG x AllTheMons** combines each project for streamlined issue tracking, version control, and ease of development.
+
+**Join the BigChadGuys Discord**: [Click Here](https://discord.gg/bigchadguys)
 
 ---
 
