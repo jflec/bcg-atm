@@ -8,11 +8,11 @@
   
 **BCG x AllTheMons** is a heavily modified version of **[AllTheMons](https://modrinth.com/datapack/allthemons)**, originally created by **[easy_____](https://modrinth.com/user/easy_____)**. This pack was created with permission from each author, and **BigChadGuys makes no claim of ownership over these packs**.
 
-If you encounter any issues, please reach out to us directly rather than the original authors, as any problems are likely our responsibility.
-
 **[BigChadGuys Plus](https://modrinth.com/modpack/bcg)** includes all individual projects to ensure authors receive full credit. **BCG x AllTheMons** combines each project for streamlined issue tracking, version control, and ease of development.
 
 **Join the BigChadGuys Discord**: [Click Here](https://discord.gg/bigchadguys)
+
+_If you encounter any issues, please reach out to us directly rather than the original authors, as any problems are likely our responsibility._
 
 </div>
 
