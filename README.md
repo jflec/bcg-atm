@@ -12,7 +12,7 @@
 
 **Join the BigChadGuys Discord**: [Click Here](https://discord.gg/bigchadguys)
 
-_If you encounter any issues, please reach out to us directly rather than the original authors, as any problems are likely our responsibility._
+_If you encounter any issues, please reach out to us directly rather than the original authors, as any problems are our responsibility._
 
 </div>
 
