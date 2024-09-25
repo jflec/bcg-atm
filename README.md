@@ -6,7 +6,7 @@
 
 ---
   
-**BCG x AllTheMons** is a heavily modified version of **AllTheMons**, originally created by [easy_____](https://modrinth.com/user/easy_____). This pack was created with permission from each author, and BigChadGuys makes no claim of ownership over these packs.
+**BCG x AllTheMons** is a heavily modified version of **[AllTheMons](https://modrinth.com/datapack/allthemons)**, originally created by [easy_____](https://modrinth.com/user/easy_____). This pack was created with permission from each author, and BigChadGuys makes no claim of ownership over these packs.
 
 If you encounter any issues, please reach out to us directly rather than the original authors, as any problems are likely our responsibility.
 
