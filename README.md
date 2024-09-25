@@ -1,8 +1,10 @@
-
+<div align='center'>
 
 ---
 
-<div align='center'>
+**If you wish to use BCG x AllTheMons in a modpack, please include each individual project as mentioned above to ensure proper credit for each developer.**
+
+---
   
 **BCG x AllTheMons** is a heavily modified version of **AllTheMons**, originally created by [easy_____](https://modrinth.com/user/easy_____). This pack was created with permission from each author, and BigChadGuys makes no claim of ownership over these packs.
 
@@ -11,10 +13,6 @@ If you encounter any issues, please reach out to us directly rather than the ori
 **[BigChadGuys Plus](https://modrinth.com/modpack/bcg)** includes all individual projects to ensure authors receive full credit. **BCG x AllTheMons** combines each project for streamlined issue tracking, version control, and ease of development.
 
 **Join the BigChadGuys Discord**: [Click Here](https://discord.gg/bigchadguys)
-
----
-
-**If you wish to use BCG x AllTheMons in a modpack, please include each individual project as mentioned above to ensure proper credit for each developer.**
 
 </div>
 
