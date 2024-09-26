@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:celebi",
       "model": "cobblemon:celebi.geo",
-      "texture": "cobblemon:textures/pokemon/celebi/celebi.png",
+      "texture": "cobblemon:textures/pokemon/0251_celebi/celebi.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/celebi/celebi_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0251_celebi/celebi_shiny.png"
     }
   ]
 }

@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:bronzong",
       "model": "cobblemon:bronzong.geo",
-      "texture": "cobblemon:textures/pokemon/bronzong/bronzong.png",
+      "texture": "cobblemon:textures/pokemon/0437_bronzong/bronzong.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/bronzong/bronzong_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0437_bronzong/bronzong_shiny.png"
     }
   ]
 }

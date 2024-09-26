@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:bisharp",
       "model": "cobblemon:bisharp.geo",
-      "texture": "cobblemon:textures/pokemon/bisharp/bisharp.png",
+      "texture": "cobblemon:textures/pokemon/0625_bisharp/bisharp.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/bisharp/bisharp_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0625_bisharp/bisharp_shiny.png"
     }
   ]
 }
