@@ -1,10 +1,11 @@
 {
-  "implemented": true,
-  "name": "hoopaunbound",
+  "name": "Hoopa-Unbound",
   "nationalPokedexNumber": 720,
   "primaryType": "psychic",
   "secondaryType": "dark",
-  "abilities": ["magician"],
+  "abilities": [
+    "magician"
+  ],
   "baseStats": {
     "hp": 80,
     "attack": 160,
@@ -16,11 +17,14 @@
   "catchRate": 1,
   "maleRatio": -1,
   "shoulderMountable": false,
+   
 
   "baseExperienceYield": 340,
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": ["undiscovered"],
+  "eggGroups": [
+    "undiscovered"
+  ],
   "moves": [
     "1:allyswitch",
     "1:confusion",
@@ -139,37 +143,42 @@
     "tutor:wonderroom",
     "tutor:zenheadbutt"
   ],
-  "labels": ["gen6", "mythical", "legendary"],
-  "pokedex": [
-    "In its true form, it possess a huge amount of power. Legends of its avarice tell how it once carried off an entire castle to gain the treasure hidden within.",
-    "It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form."
+  "labels": [
+    "gen6",
+    "mythical",
+    "legendary",
+    "hoopaunbound"
   ],
-  "behaviour": {
-    "moving": {
-      "walk": {
-        "canWalk": true,
-        "walkSpeed": 0.3
-      },
-      "fly": {
-        "canFly": true
-      }
-    },
-    "resting": {
-      "canSleep": true,
-      "willSleepOnBed": true,
-      "depth": "normal",
-      "light": "0-4"
-    }
-  },
+  "pokedex": [
+    "cobblemon.species.hoopa_unbound.desc"
+  ],
+ "behaviour": {
+   "moving": {
+     "walk": {
+       "canWalk": true,
+       "walkSpeed": 0.3
+     },
+     "fly": {
+       "canFly": true
+     }
+   },
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": true,
+     "depth": "normal",
+     "light": "0-4"
+   }
+ },
   "evolutions": [
     {
-      "id": "hoopaunbound",
+      "id": "hoopaunbound_hoopa",
       "variant": "item_interact",
       "result": "hoopa",
       "consumeHeldItem": false,
       "requirements": [],
       "requiredContext": "minecraft:ender_eye"
     }
+
   ],
 
   "baseScale": 0.5,
