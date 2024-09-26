@@ -2,7 +2,7 @@
 
 ---
 
-**If you wish to use BCG x AllTheMons in your modpack, please make sure to include each individual project as detailed below to ensure proper credit is given to every developer. If you have any questions, feel free to contact me.**
+**If you wish to use BCG x AllTheMons in your modpack, please make sure to include each individual project to ensure proper credit is given to every developer. If you have any questions, feel free to contact me.**
 
 ---
   
