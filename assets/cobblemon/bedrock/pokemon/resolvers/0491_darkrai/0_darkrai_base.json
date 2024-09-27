@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:darkrai",
       "model": "cobblemon:darkrai.geo",
-      "texture": "cobblemon:textures/pokemon/darkrai/darkrai.png",
+      "texture": "cobblemon:textures/pokemon/0491_darkrai/darkrai.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/darkrai/darkrai_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0491_darkrai/darkrai_shiny.png"
     }
   ]
 }
