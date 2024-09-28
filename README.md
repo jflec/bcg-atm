@@ -14,11 +14,11 @@
 
 _If you encounter any issues, please reach out to us directly rather than the original authors, as any problems are our responsibility._
 
-</div>
-
 ---
 
-**A huge thank you to all of the authors:**
+**A huge thank you to the following authors:**
+
+</div>
 
 **Allone**, the creator of _Allone's Additions_
   - https://modrinth.com/datapack/notsocobblemon-allones-additions
