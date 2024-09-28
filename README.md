@@ -20,7 +20,7 @@ _If you encounter any issues, please reach out to us directly rather than the or
 
 **A huge thank you to all of the authors:**
 
-**Allone**, the creator of \_Allone's Additions*
+**Allone**, the creator of _Allone's Additions_
   - https://modrinth.com/datapack/notsocobblemon-allones-additions
     
 **ASHISK**, the creator of _Ashimons_
