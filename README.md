@@ -20,52 +20,52 @@ _If you encounter any issues, please reach out to us directly rather than the or
 
 **A huge thank you to all of the authors:**
 
-**Allone** (allone*the_duck), the creator of \_Allone's Additions*
+**Allone**, the creator of \_Allone's Additions*
   - https://modrinth.com/datapack/notsocobblemon-allones-additions
     
-**ASHISK** (ashisk), the creator of _Ashimons_
+**ASHISK**, the creator of _Ashimons_
   - https://modrinth.com/datapack/ashimons
     
-**BeeZy** (beezymc), one of the creators of _LackingMons_
+**BeeZy**, one of the creators of _LackingMons_
   - https://modrinth.com/datapack/lackingmons
     
-**BifeSalgado** (BifeSalgado), the creator of _OdysseyMons_
+**BifeSalgado**, the creator of _OdysseyMons_
   - https://modrinth.com/resourcepack/odysseymons
     
-**Bwavii** (bwavi), the creator of _WaviMons_
+**Bwavii**, the creator of _WaviMons_
   - https://modrinth.com/datapack/wavimons-(cobblemon)
     
-**El Pigeon** (elpigeon), the creator of _Pigeon's PokePack_
+**El Pigeon**, the creator of _Pigeon's PokePack_
   - https://modrinth.com/datapack/pigeons-poke-pack
     
-**Genotype** (genotypexd), the creator of _GenoMons_
+**Genotype**, the creator of _GenoMons_
   - https://modrinth.com/datapack/genomons
     
-**iMystxc** (iMystxc), the creator of _MysticMons_
+**iMystxc**, the creator of _MysticMons_
   - https://modrinth.com/datapack/mysticmons
     
-**IZetyXX** (izetyxx), one of the creators of _LackingMons_
+**IZetyXX**, one of the creators of _LackingMons_
   - https://modrinth.com/datapack/lackingmons
     
-**Kale** (kylbrez), the creator of _Kale's Collection_
+**Kale**, the creator of _Kale's Collection_
   - https://modrinth.com/datapack/kales-cobblemon-collection
     
-**LegenTM** (legentm), the creator of _HiddenMons_
+**LegenTM**, the creator of _HiddenMons_
   - https://modrinth.com/datapack/hiddenmons-cobblemon
     
-**NetImmerse** (netimmerse), the creator of _The Jewel Pokemon_
+**NetImmerse**, the creator of _The Jewel Pokemon_
   - https://modrinth.com/datapack/the-jewel-pokmon-cobblemon
     
-**Raspix** (raspix), the creator of _CobbleCats_
+**Raspix**, the creator of _CobbleCats_
   - https://modrinth.com/datapack/cobble-cats
     
-**RedRibbon** (redriibbon), the creator of _MissingMons_
+**RedRibbon**, the creator of _MissingMons_
   - https://modrinth.com/datapack/missingmons-cobblemon
     
-**Salt** (saltdan), the creator of _SaltMons_
+**Salt**, the creator of _SaltMons_
   - https://modrinth.com/datapack/saltmons
     
-**YaBoiBruno** (Bruno22), the creator of _MoreMons_
+**YaBoiBruno**, the creator of _MoreMons_
   - https://modrinth.com/resourcepack/moremons
 
 ---
