@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:frigibax",
       "model": "cobblemon:frigibax.geo",
-      "texture": "cobblemon:textures/pokemon/frigibax/frigibax.png",
+      "texture": "cobblemon:textures/pokemon/0996_frigibax/frigibax.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/frigibax/frigibax_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0996_frigibax/frigibax_shiny.png"
     }
   ]
 }
