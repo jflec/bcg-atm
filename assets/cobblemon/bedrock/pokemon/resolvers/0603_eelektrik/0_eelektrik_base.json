@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:eelektrik",
       "model": "cobblemon:eelektrik.geo",
-      "texture": "cobblemon:textures/pokemon/eelektrik/eelektrik.png",
+      "texture": "cobblemon:textures/pokemon/0603_eelektrik/eelektrik.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/eelektrik/eelektrik_shiny.png",
+      "texture": "cobblemon:textures/pokemon/0603_eelektrik/eelektrik_shiny.png",
       "layers": []
     }
   ]
