@@ -4,8 +4,13 @@
   "portraitTranslation": [-0.1, 1.35, 0],
   "profileScale": 0.7,
   "profileTranslation": [0, 0.8, 0],
-  "faint": "bedrock(indeedee_f, faint)",
-  "cry": "bedrock(indeedee_f, cry)",
+  "faint": "bedrock(indeedee_male, faint)",
+  "cry": "bedrock(indeedee_male, cry)",
+  "animations": {
+    "faint": "bedrock(indeedee_male, faint)",
+    "cry": "bedrock(indeedee_male, cry)",
+    "physical": "q.bedrock_primary('indeedee_male', 'physical', q.curve('symmetrical_wide'))"
+  },
   "poses": {
     "battle-idle": {
       "poseName": "battle-idle",
@@ -13,14 +18,14 @@
       "poseTypes": ["STAND"],
       "isBattle": true,
       "isTouchingWater": false,
-      "animations": ["bedrock(indeedee_f, battle_idle)"],
+      "animations": ["bedrock(indeedee_male, battle_idle)"],
       "quirks": [
         {
           "name": "blink",
           "loopTimes": 5,
           "minSecondsBetweenOccurrences": 8,
           "maxSecondsBetweenOccurrences": 20,
-          "animations": ["bedrock(indeedee_f, blink)"]
+          "animations": ["bedrock(indeedee_male, blink)"]
         }
       ]
     },
@@ -29,11 +34,11 @@
       "transformTicks": 10,
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
-      "animations": ["bedrock(indeedee_f, ground_idle)"],
+      "animations": ["bedrock(indeedee_male, ground_idle)"],
       "quirks": [
         {
           "name": "blink",
-          "animations": ["bedrock(indeedee_f, blink)"]
+          "animations": ["bedrock(indeedee_male, blink)"]
         }
       ]
     },
@@ -41,11 +46,11 @@
       "poseName": "walking",
       "transformTicks": 10,
       "poseTypes": ["WALK"],
-      "animations": ["bedrock(indeedee_f, ground_walk)"],
+      "animations": ["bedrock(indeedee_male, ground_walk)"],
       "quirks": [
         {
           "name": "blink",
-          "animations": ["bedrock(indeedee_f, blink)"]
+          "animations": ["bedrock(indeedee_male, blink)"]
         }
       ]
     },
@@ -53,11 +58,11 @@
       "poseName": "swimming",
       "transformTicks": 10,
       "poseTypes": ["SWIM"],
-      "animations": ["bedrock(indeedee_f, ground_walk)"],
+      "animations": ["bedrock(indeedee_male, ground_walk)"],
       "quirks": [
         {
           "name": "blink",
-          "animations": ["bedrock(indeedee_f, blink)"]
+          "animations": ["bedrock(indeedee_male, blink)"]
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "format_version": "1.8.0",
   "animations": {
-    "animation.indeedee_f.ground_idle": {
+    "animation.indeedee_female.ground_idle": {
       "loop": true,
       "bones": {
         "chest": {
@@ -88,7 +88,7 @@
         }
       }
     },
-    "animation.indeedee_f.battle_idle": {
+    "animation.indeedee_female.battle_idle": {
       "loop": true,
       "animation_length": 2,
       "bones": {
@@ -197,7 +197,7 @@
         }
       }
     },
-    "animation.indeedee_f.blink": {
+    "animation.indeedee_female.blink": {
       "animation_length": 0.1667,
       "bones": {
         "eyelid_left": {
@@ -220,7 +220,7 @@
         }
       }
     },
-    "animation.indeedee_f.ground_walk": {
+    "animation.indeedee_female.ground_walk": {
       "loop": true,
       "animation_length": 2,
       "bones": {

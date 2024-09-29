@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:jumpluff",
       "model": "cobblemon:jumpluff.geo",
-      "texture": "cobblemon:textures/pokemon/jumpluff/jumpluff.png",
+      "texture": "cobblemon:textures/pokemon/0189_jumpluff/jumpluff.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/jumpluff/jumpluff_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0189_jumpluff/jumpluff_shiny.png"
     }
   ]
 }

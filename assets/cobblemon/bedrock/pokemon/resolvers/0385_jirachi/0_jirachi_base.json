@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:jirachi",
       "model": "cobblemon:jirachi.geo",
-      "texture": "cobblemon:textures/pokemon/jirachi/jirachi.png",
+      "texture": "cobblemon:textures/pokemon/0385_jirachi/jirachi.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/jirachi/jirachi_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0385_jirachi/jirachi_shiny.png"
     }
   ]
 }

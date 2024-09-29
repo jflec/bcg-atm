@@ -6,14 +6,14 @@
       "aspects": [],
       "poser": "cobblemon:kyurem",
       "model": "cobblemon:kyurem.geo",
-      "texture": "cobblemon:textures/pokemon/kyurem/kyurem.png",
+      "texture": "cobblemon:textures/pokemon/0646_kyurem/kyurem.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
       "poser": "cobblemon:kyurem",
       "model": "cobblemon:kyurem.geo",
-      "texture": "cobblemon:textures/pokemon/kyurem/kyurem_shiny.png",
+      "texture": "cobblemon:textures/pokemon/0646_kyurem/kyurem_shiny.png",
       "layers": []
     }
   ]
