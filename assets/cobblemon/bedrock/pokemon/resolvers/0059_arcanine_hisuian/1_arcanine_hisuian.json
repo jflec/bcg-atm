@@ -6,12 +6,12 @@
       "aspects": ["hisuian"],
       "poser": "cobblemon:arcanine_hisuian",
       "model": "cobblemon:arcanine_hisuian.geo",
-      "texture": "cobblemon:textures/pokemon/0059_arcanine_hisuian/arcanine_hisui.png",
+      "texture": "cobblemon:textures/pokemon/0059_arcanine/arcanine_hisui.png",
       "layers": []
     },
     {
       "aspects": ["hisuian", "shiny"],
-      "texture": "cobblemon:textures/pokemon/0059_arcanine_hisuian/arcanine_hisui_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0059_arcanine/arcanine_hisui_shiny.png"
     }
   ]
 }

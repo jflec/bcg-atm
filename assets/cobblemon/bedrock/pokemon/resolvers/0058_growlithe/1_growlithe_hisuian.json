@@ -6,12 +6,12 @@
       "aspects": ["hisuian"],
       "poser": "cobblemon:growlithe_hisuian",
       "model": "cobblemon:growlithe_hisuian.geo",
-      "texture": "cobblemon:textures/pokemon/growlithe_hisuian/growlithe_hisui.png",
+      "texture": "cobblemon:textures/pokemon/0058_growlithe/growlithe_hisui.png",
       "layers": []
     },
     {
       "aspects": ["hisuian", "shiny"],
-      "texture": "cobblemon:textures/pokemon/growlithe_hisuian/growlithe_hisui_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0058_growlithe/growlithe_hisui_shiny.png"
     }
   ]
 }

@@ -6,11 +6,11 @@
       "aspects": ["alolan"],
       "model": "cobblemon:graveler_alolan.geo",
       "poser": "cobblemon:graveler",
-      "texture": "cobblemon:textures/pokemon/graveler/graveler_alolan.png"
+      "texture": "cobblemon:textures/pokemon/0075_graveler/graveler_alolan.png"
     },
     {
       "aspects": ["alolan", "shiny"],
-      "texture": "cobblemon:textures/pokemon/graveler/graveler_alolan_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0075_graveler/graveler_alolan_shiny.png"
     }
   ]
 }

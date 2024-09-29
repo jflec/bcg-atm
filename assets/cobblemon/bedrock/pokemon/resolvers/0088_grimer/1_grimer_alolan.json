@@ -6,14 +6,14 @@
       "aspects": ["alolan"],
       "poser": "cobblemon:grimer_alolan",
       "model": "cobblemon:grimer_alolan.geo",
-      "texture": "cobblemon:textures/pokemon/grimer/grimer_alolan.png",
+      "texture": "cobblemon:textures/pokemon/0088_grimer/grimer_alolan.png",
       "layers": []
     },
     {
       "aspects": ["alolan", "shiny"],
       "poser": "cobblemon:grimer_alolan",
       "model": "cobblemon:grimer_alolan.geo",
-      "texture": "cobblemon:textures/pokemon/grimer/grimer_alolan_shiny.png",
+      "texture": "cobblemon:textures/pokemon/0088_grimer/grimer_alolan_shiny.png",
       "layers": []
     }
   ]

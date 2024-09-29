@@ -6,11 +6,11 @@
       "aspects": ["alolan"],
       "model": "cobblemon:geodude_alolan.geo",
       "poser": "cobblemon:geodude",
-      "texture": "cobblemon:textures/pokemon/geodude/geodude_alolan.png"
+      "texture": "cobblemon:textures/pokemon/0074_geodude/geodude_alolan.png"
     },
     {
       "aspects": ["alolan", "shiny"],
-      "texture": "cobblemon:textures/pokemon/geodude/geodude_alolan_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0074_geodude/geodude_alolan_shiny.png"
     }
   ]
 }
