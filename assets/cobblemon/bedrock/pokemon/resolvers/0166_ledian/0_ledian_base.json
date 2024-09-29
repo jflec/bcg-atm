@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:ledian",
       "model": "cobblemon:ledian.geo",
-      "texture": "cobblemon:textures/pokemon/ledian/ledian.png",
+      "texture": "cobblemon:textures/pokemon/0166_ledian/ledian.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/ledian/ledian_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0166_ledian/ledian_shiny.png"
     }
   ]
 }

@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:leavanny",
       "model": "cobblemon:leavanny.geo",
-      "texture": "cobblemon:textures/pokemon/leavanny/leavanny.png",
+      "texture": "cobblemon:textures/pokemon/0542_leavanny/leavanny.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/leavanny/leavanny_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0542_leavanny/leavanny_shiny.png"
     }
   ]
 }

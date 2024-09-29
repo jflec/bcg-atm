@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:lurantis2",
       "model": "cobblemon:lurantis2.geo",
-      "texture": "cobblemon:textures/pokemon/lurantis/lurantis.png",
+      "texture": "cobblemon:textures/pokemon/0754_lurantis/lurantis.png",
       "layers": [{}]
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/lurantis/lurantis_shiny.png",
+      "texture": "cobblemon:textures/pokemon/0754_lurantis/lurantis_shiny.png",
       "layers": [{}]
     }
   ]
