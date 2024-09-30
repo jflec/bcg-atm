@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:hoppip",
       "model": "cobblemon:hoppip.geo",
-      "texture": "cobblemon:textures/pokemon/hoppip/hoppip.png",
+      "texture": "cobblemon:textures/pokemon/0187_hoppip/hoppip.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/hoppip/hoppip_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0187_hoppip/hoppip_shiny.png"
     }
   ]
 }
