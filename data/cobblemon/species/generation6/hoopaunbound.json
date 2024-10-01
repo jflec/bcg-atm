@@ -1,6 +1,6 @@
 {
   "implemented": true,
-  "name": "hoopaunbound",
+  "name": "Hoopa-Unbound",
   "nationalPokedexNumber": 720,
   "primaryType": "psychic",
   "secondaryType": "dark",
@@ -161,9 +161,10 @@
       "light": "0-4"
     }
   },
+  
   "evolutions": [
     {
-      "id": "hoopaunbound",
+      "id": "hoopaunbound_hoopa",
       "variant": "item_interact",
       "result": "hoopa",
       "consumeHeldItem": false,

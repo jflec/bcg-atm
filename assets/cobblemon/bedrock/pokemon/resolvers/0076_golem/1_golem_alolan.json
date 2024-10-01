@@ -1,0 +1,30 @@
+{
+  "species": "cobblemon:golem",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["alolan"],
+      "model": "cobblemon:golem_alolan.geo",
+      "poser": "cobblemon:golem_alolan",
+      "texture": "cobblemon:textures/pokemon/0076_golem/golem_alolan.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0076_golem/golem_alolan_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": ["alolan", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0076_golem/golem_alolan_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0076_golem/golem_alolan_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}
