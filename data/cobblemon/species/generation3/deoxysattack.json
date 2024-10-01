@@ -2,9 +2,7 @@
   "name": "Deoxys-Attack",
   "nationalPokedexNumber": 3861,
   "primaryType": "psychic",
-  "abilities": [
-    "pressure"
-  ],
+  "abilities": ["pressure"],
   "baseStats": {
     "hp": 50,
     "attack": 180,
@@ -13,23 +11,23 @@
     "special_defence": 20,
     "speed": 150
   },
- "behaviour": {
+  "behaviour": {
     "resting": {
       "canSleep": true,
       "willSleepOnBed": false,
-     "depth": "normal",
+      "depth": "normal",
       "light": "0-4"
-},
-   "moving": {
-"fly": {
-      "canFly": true,
-      "flySpeedHorizontal": 0.4
-        },
-        "walk": { 
-            "walkSpeed": 0.4
-      }
-}
     },
+    "moving": {
+      "fly": {
+        "canFly": true,
+        "flySpeedHorizontal": 0.4
+      },
+      "walk": {
+        "walkSpeed": 0.4
+      }
+    }
+  },
   "catchRate": 3,
   "maleRatio": -1,
   "shoulderMountable": false,
@@ -45,9 +43,7 @@
   },
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:leer",
     "1:wrap",
@@ -204,15 +200,10 @@
     "tutor:zapcannon",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen3",
-    "mythical",
-    "legendary"
-  ],
+  "labels": ["gen3", "mythical", "legendary"],
   "pokedex": [
     "cobblemon.species.deoxysattack.desc1",
-	"cobblemon.species.deoxysattack.desc2"
-	
+    "cobblemon.species.deoxysattack.desc2"
   ],
   "height": 17,
   "weight": 608,
@@ -245,17 +236,17 @@
       "requiredContext": "minecraft:chorus_fruit"
     }
   ],
-    "baseScale": 0.6,
-    "hitbox": {
+  "baseScale": 0.6,
+  "hitbox": {
     "width": 1.7,
     "height": 3.9,
     "fixed": false
-    },  
+  },
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-  "amount": 1,
-  "entries": [
+    "amount": 1,
+    "entries": [
       {
         "item": "minecraft:eye_of_ender"
       }

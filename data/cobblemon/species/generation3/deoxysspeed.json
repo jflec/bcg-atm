@@ -2,9 +2,7 @@
   "name": "Deoxys-Speed",
   "nationalPokedexNumber": 3863,
   "primaryType": "psychic",
-  "abilities": [
-    "pressure"
-  ],
+  "abilities": ["pressure"],
   "baseStats": {
     "hp": 50,
     "attack": 95,
@@ -17,19 +15,19 @@
     "resting": {
       "canSleep": true,
       "willSleepOnBed": false,
-     "depth": "normal",
+      "depth": "normal",
       "light": "0-4"
-},
-   "moving": {
-      "fly": {
-       "canFly": true,
-       "flySpeedHorizontal": 0.6
-      },
-	  "walk": { 
-        "walkSpeed": 0.9
-  }
-}
     },
+    "moving": {
+      "fly": {
+        "canFly": true,
+        "flySpeedHorizontal": 0.6
+      },
+      "walk": {
+        "walkSpeed": 0.9
+      }
+    }
+  },
   "catchRate": 3,
   "maleRatio": -1,
   "shoulderMountable": false,
@@ -45,9 +43,7 @@
   },
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:leer",
     "1:wrap",
@@ -201,14 +197,10 @@
     "tutor:zapcannon",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen3",
-    "mythical",
-    "legendary"
-  ],
+  "labels": ["gen3", "mythical", "legendary"],
   "pokedex": [
     "cobblemon.species.deoxysspeed.desc1",
-	"cobblemon.species.deoxysspeed.desc2"
+    "cobblemon.species.deoxysspeed.desc2"
   ],
   "height": 17,
   "weight": 608,
@@ -241,17 +233,17 @@
       "requiredContext": "minecraft:end_stone"
     }
   ],
-    "baseScale": 0.6,
-    "hitbox": {
+  "baseScale": 0.6,
+  "hitbox": {
     "width": 2,
     "height": 3.7,
     "fixed": false
-    },
+  },
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-  "amount": 1,
-  "entries": [
+    "amount": 1,
+    "entries": [
       {
         "item": "minecraft:eye_of_ender"
       }

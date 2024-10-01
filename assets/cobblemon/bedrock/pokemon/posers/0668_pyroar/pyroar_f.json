@@ -14,12 +14,9 @@
   "poses": {
     "battle-standing": {
       "transformTicks": 10,
-	  "poseTypes": ["STAND"],
+      "poseTypes": ["STAND"],
       "isBattle": true,
-      "animations": [
-	    "q.look('head')",
-		"q.bedrock('pyroar_f', 'battle_idle')"
-	  ],
+      "animations": ["q.look('head')", "q.bedrock('pyroar_f', 'battle_idle')"],
       "quirks": ["q.bedrock_quirk('pyroar_f', 'blink')"]
     },
     "standing": {
@@ -27,10 +24,7 @@
       "transformTicks": 10,
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
-      "animations": [
-		"q.look('head')", 
-		"q.bedrock('pyroar_f', 'ground_idle')"
-	  ],
+      "animations": ["q.look('head')", "q.bedrock('pyroar_f', 'ground_idle')"],
       "quirks": ["q.bedrock_quirk('pyroar_f', 'blink')"]
     },
     "walking": {

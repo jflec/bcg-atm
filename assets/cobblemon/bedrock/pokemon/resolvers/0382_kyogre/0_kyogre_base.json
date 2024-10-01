@@ -1,0 +1,50 @@
+{
+<<<<<<< HEAD:assets/cobblemon/bedrock/pokemon/resolvers/0_kyogre_base.json
+	"species": "cobblemon:kyogre",
+	"order": 0,
+	"variations": [
+		{
+			"aspects": [],
+			"poser": "cobblemon:kyogre",
+			"model": "cobblemon:kyogre.geo",
+			"texture": "cobblemon:textures/pokemon/kyogre/kyogre.png",
+			"layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/kyogre/kyogre_emissive.png",
+              "translucent": true
+        }
+      ]
+		},
+		{
+			"aspects": [ "shiny" ],
+			"texture": "cobblemon:textures/pokemon/kyogre/kyogre_shiny.png"
+		}
+	]
+}
+=======
+  "species": "cobblemon:kyogre",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:kyogre",
+      "model": "cobblemon:kyogre.geo",
+      "texture": "cobblemon:textures/pokemon/0382_kyogre/kyogre.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0382_kyogre/kyogre_emissive.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/0382_kyogre/kyogre_shiny.png"
+    }
+  ]
+}
+>>>>>>> main:assets/cobblemon/bedrock/pokemon/resolvers/0382_kyogre/0_kyogre_base.json

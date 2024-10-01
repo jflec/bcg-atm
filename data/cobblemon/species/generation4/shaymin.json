@@ -133,7 +133,17 @@
   "pokedex": ["cobblemon.species.shaymin.desc"],
   "height": 2,
   "weight": 21,
-  "evolutions": [],
+  "evolutions": [
+    {
+      "id": "shaymin_shayminsky",
+      "variant": "item_interact",
+      "result": "shayminsky",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "minecraft:spore_blossom"
+    }
+  ],
   "forms": [
     {
       "name": "Sky",

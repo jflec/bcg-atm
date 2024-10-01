@@ -40,11 +40,11 @@
     },
     "hover": {
       "transformTicks": 5,
-      "poseTypes": [ "FLY", "HOVER", "FLOAT" ],
-      "animations": [         
+      "poseTypes": ["FLY", "HOVER", "FLOAT"],
+      "animations": [
         "q.look('head')",
         "q.bedrock('deoxysattack', 'ground_walk')"
-       ]
+      ]
     },
     "float": {
       "transformTicks": 5,
