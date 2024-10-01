@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:corsola",
       "model": "cobblemon:corsola.geo",
-      "texture": "cobblemon:textures/pokemon/corsola/corsola.png",
+      "texture": "cobblemon:textures/pokemon/0222_corsola/corsola.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/corsola/corsola_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0222_corsola/corsola_shiny.png"
     }
   ]
 }

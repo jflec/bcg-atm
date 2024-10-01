@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:cosmoem",
       "model": "cobblemon:cosmoem.geo",
-      "texture": "cobblemon:textures/pokemon/cosmoem/cosmoem.png",
+      "texture": "cobblemon:textures/pokemon/0790_cosmoem/cosmoem.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/cosmoem/cosmoem_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0790_cosmoem/cosmoem_shiny.png"
     }
   ]
 }
