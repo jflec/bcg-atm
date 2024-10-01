@@ -1,4 +1,29 @@
 {
+<<<<<<< HEAD:assets/cobblemon/bedrock/pokemon/resolvers/0_eternatus_base.json
+	"species": "cobblemon:eternatus",
+	"order": 0,
+	"variations": [
+		{
+			"aspects": [],
+			"poser": "cobblemon:eternatus",
+			"model": "cobblemon:eternatus.geo",
+			"texture": "cobblemon:textures/pokemon/eternatus/eternatus.png",
+			"layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/eternatus/eternatus_emissive.png",
+              "translucent": true
+        }
+      ]
+		},
+		{
+			"aspects": [ "shiny" ],
+			"texture": "cobblemon:textures/pokemon/eternatus/eternatus_shiny.png"
+		}
+	]
+}
+=======
   "species": "cobblemon:eternatus",
   "order": 0,
   "variations": [
@@ -22,3 +47,4 @@
     }
   ]
 }
+>>>>>>> main:assets/cobblemon/bedrock/pokemon/resolvers/0890_eternatus/0_eternatus_base.json

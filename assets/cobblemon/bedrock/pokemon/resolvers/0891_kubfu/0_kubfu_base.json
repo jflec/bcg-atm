@@ -1,4 +1,24 @@
 {
+<<<<<<< HEAD:assets/cobblemon/bedrock/pokemon/resolvers/0_kubfu_base.json
+	"species": "cobblemon:kubfu",
+	"order": 0,
+	"variations": [
+		{
+			"aspects": [],
+			"poser": "cobblemon:kubfu",
+			"model": "cobblemon:kubfu.geo",
+			"texture": "cobblemon:textures/pokemon/kubfu/kubfu.png",
+			"layers": [
+				
+			]
+		},
+		{
+			"aspects": [ "shiny" ],
+			"texture": "cobblemon:textures/pokemon/kubfu/kubfu_shiny.png"
+		}
+	]
+}
+=======
   "species": "cobblemon:kubfu",
   "order": 0,
   "variations": [
@@ -15,3 +35,4 @@
     }
   ]
 }
+>>>>>>> main:assets/cobblemon/bedrock/pokemon/resolvers/0891_kubfu/0_kubfu_base.json

@@ -15,29 +15,36 @@
     "battle-standing": {
       "poseTypes": ["STAND"],
       "isBattle": true,
-      "animations": ["look", "q.bedrock('eternatus', 'ground_idle')"]
+      "animations": ["look", "q.bedrock('eternatus', 'ground_idle')"
+      ]
     },
     "standing": {
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
-      "animations": ["q.bedrock('eternatus', 'ground_idle')"]
+      "animations": ["q.bedrock('eternatus', 'ground_idle')"
+      ]
     },
     "walking": {
       "poseTypes": ["WALK"],
-      "animations": ["look", "q.bedrock('eternatus', 'ground_walk')"]
+      "animations": ["look", "q.bedrock('eternatus', 'ground_walk')"
+      ]
     },
     "float": {
       "poseTypes": ["FLOAT"],
-      "animations": ["q.bedrock('eternatus', 'ground_idle')"]
+      "animations": ["q.bedrock('eternatus', 'ground_idle')"
+      ]
     },
     "swim": {
       "poseTypes": ["SWIM"],
-      "animations": ["look", "q.bedrock('eternatus', 'ground_walk')"]
+      "animations": ["look",
+        "q.bedrock('eternatus', 'ground_walk')"
+      ]
     },
     "hover": {
       "poseName": "hover",
       "poseTypes": ["HOVER"],
-      "animations": ["q.bedrock('eternatus', 'ground_idle')"]
+      "animations": ["q.bedrock('eternatus', 'ground_idle')"
+      ]
     },
     "fly": {
       "poseName": "fly",
