@@ -1,4 +1,3 @@
-
 {
   "species": "cobblemon:thundurus",
   "order": 0,
@@ -11,7 +10,7 @@
       "layers": []
     },
     {
-      "aspects": [ "shiny" ],
+      "aspects": ["shiny"],
       "texture": "cobblemon:textures/pokemon/thundurus/thundurus_shiny.png"
     }
   ]

@@ -3,9 +3,7 @@
   "nationalPokedexNumber": 555,
   "primaryType": "ice",
   "secondaryType": "fire",
-  "abilities": [
-    "zenmode"
-  ],
+  "abilities": ["zenmode"],
   "baseStats": {
     "hp": 105,
     "attack": 160,
@@ -29,9 +27,7 @@
   },
   "experienceGroup": "medium_slow",
   "eggCycles": 20,
-  "eggGroups": [
-    "field"
-  ],
+  "eggGroups": ["field"],
   "moves": [
     "1:bite",
     "1:ember",
@@ -145,34 +141,29 @@
     "tutor:uproar",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen5",
-    "unova_regional",
-    "unova_regional"
-  ],
-  "pokedex": [
-    "cobblemon.species.darmanitan.desc"
-  ],
+  "labels": ["gen5", "unova_regional", "unova_regional"],
+  "pokedex": ["cobblemon.species.darmanitan.desc"],
   "height": 13,
   "weight": 929,
   "preEvolution": "darumaka",
-  "evolutions": [ {
-    "id": "galardarmanitanzen_darmanitan",
-    "variant": "level_up",
-    "result": "darmanitan galarian",
-    "consumeHeldItem": false,
-    "requirements": [
-      {
-        "variant": "properties",
-        "target": "ability=zenmode"
-      },
-      {
-        "variant": "level",
-        "minLevel": 1
-      }
-    ]
-  }
-],
+  "evolutions": [
+    {
+      "id": "galardarmanitanzen_darmanitan",
+      "variant": "level_up",
+      "result": "darmanitan galarian",
+      "consumeHeldItem": false,
+      "requirements": [
+        {
+          "variant": "properties",
+          "target": "ability=zenmode"
+        },
+        {
+          "variant": "level",
+          "minLevel": 1
+        }
+      ]
+    }
+  ],
   "forms": [],
   "aspects": [],
   "cannotDynamax": false,

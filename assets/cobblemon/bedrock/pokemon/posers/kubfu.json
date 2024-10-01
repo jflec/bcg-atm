@@ -16,42 +16,28 @@
     "battle-standing": {
       "poseTypes": ["STAND"],
       "isBattle": true,
-      "animations": ["look",
-        "q.bedrock('kubfu', 'battle_idle')"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('kubfu', 'blink')"
-      ]
+      "animations": ["look", "q.bedrock('kubfu', 'battle_idle')"],
+      "quirks": ["q.bedrock_quirk('kubfu', 'blink')"]
     },
     "standing": {
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
-      "animations": ["look",
-        "q.bedrock('kubfu', 'ground_idle')"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('kubfu', 'blink')"
-      ]
+      "animations": ["look", "q.bedrock('kubfu', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('kubfu', 'blink')"]
     },
     "walking": {
       "poseTypes": ["WALK"],
-      "animations": ["look",
-        "q.bedrock('kubfu', 'ground_walk')"
-      ],
+      "animations": ["look", "q.bedrock('kubfu', 'ground_walk')"],
       "quirks": ["q.bedrock_quirk('kubfu', 'blink')"]
     },
     "float": {
       "poseTypes": ["FLOAT"],
-      "animations": [
-        "q.bedrock('kubfu', 'ground_idle')"
-      ],
+      "animations": ["q.bedrock('kubfu', 'ground_idle')"],
       "quirks": ["q.bedrock_quirk('kubfu', 'blink')"]
     },
     "swim": {
       "poseTypes": ["SWIM"],
-      "animations": [
-        "q.bedrock('kubfu', 'ground_walk')"
-      ],
+      "animations": ["q.bedrock('kubfu', 'ground_walk')"],
       "quirks": ["q.bedrock_quirk('kubfu', 'blink')"]
     },
     "sleep": {

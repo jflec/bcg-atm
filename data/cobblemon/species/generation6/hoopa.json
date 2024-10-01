@@ -3,9 +3,7 @@
   "nationalPokedexNumber": 720,
   "primaryType": "psychic",
   "secondaryType": "ghost",
-  "abilities": [
-    "magician"
-  ],
+  "abilities": ["magician"],
   "baseStats": {
     "hp": 80,
     "attack": 110,
@@ -17,14 +15,11 @@
   "catchRate": 3,
   "maleRatio": -1,
   "shoulderMountable": false,
-   
 
   "baseExperienceYield": 300,
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": [
-    "undiscovered"
-  ],
+  "eggGroups": ["undiscovered"],
   "moves": [
     "1:shadowball",
     "1:confusion",
@@ -142,31 +137,25 @@
     "tutor:wonderroom",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen6",
-    "mythical",
-    "legendary"
-  ],
-  "pokedex": [
-    "cobblemon.species.hoopa.desc"
-  ],
- "behaviour": {
-   "moving": {
-     "walk": {
-       "canWalk": true,
-       "walkSpeed": 0.6
-     },
-     "fly": {
-       "canFly": true
-     }
-   },
-   "resting": {
-     "canSleep": true,
-     "willSleepOnBed": true,
-     "depth": "normal",
-     "light": "0-4"
-   }
- },
+  "labels": ["gen6", "mythical", "legendary"],
+  "pokedex": ["cobblemon.species.hoopa.desc"],
+  "behaviour": {
+    "moving": {
+      "walk": {
+        "canWalk": true,
+        "walkSpeed": 0.6
+      },
+      "fly": {
+        "canFly": true
+      }
+    },
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": true,
+      "depth": "normal",
+      "light": "0-4"
+    }
+  },
 
   "evolutions": [
     {

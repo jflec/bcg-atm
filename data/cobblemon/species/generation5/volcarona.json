@@ -4,10 +4,7 @@
   "nationalPokedexNumber": 637,
   "primaryType": "bug",
   "secondaryType": "fire",
-  "abilities": [
-    "flamebody",
-    "h:swarm"
-  ],
+  "abilities": ["flamebody", "h:swarm"],
   "drops": {
     "amount": 3,
     "entries": [
@@ -39,9 +36,7 @@
   "baseExperienceYield": 275,
   "experienceGroup": "slow",
   "eggCycles": 40,
-  "eggGroups": [
-    "bug"
-  ],
+  "eggGroups": ["bug"],
   "behaviour": {
     "moving": {
       "fly": {
@@ -161,12 +156,8 @@
     "tutor:tailwind",
     "tutor:zenheadbutt"
   ],
-  "labels": [
-    "gen5"
-  ],
-  "pokedex": [
-    "cobblemon.species.volcarona.desc"
-  ],
+  "labels": ["gen5"],
+  "pokedex": ["cobblemon.species.volcarona.desc"],
   "preEvolution": "larvesta",
   "evolutions": [],
   "baseScale": 0.9,

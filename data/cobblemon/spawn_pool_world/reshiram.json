@@ -12,10 +12,11 @@
       "bucket": "ultra-rare",
       "level": "70-100",
       "weight": 2,
-      "condition": { "isRaining": false, 
-      "biomes": ["#minecraft:is_mountain"],
-      "timeRange": "day"
-    }
+      "condition": {
+        "isRaining": false,
+        "biomes": ["#minecraft:is_mountain"],
+        "timeRange": "day"
+      }
     }
   ]
 }

@@ -15,46 +15,35 @@
     "battle-standing": {
       "poseTypes": ["STAND"],
       "isBattle": true,
-      "animations": ["look", "q.bedrock('thundurus', 'ground_idle')"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('thundurus', 'quirk')"
-      ]
+      "animations": ["look", "q.bedrock('thundurus', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('thundurus', 'quirk')"]
     },
     "standing": {
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
-      "animations": ["look", "q.bedrock('thundurus', 'ground_idle')"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('thundurus', 'quirk')"
-      ]
+      "animations": ["look", "q.bedrock('thundurus', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('thundurus', 'quirk')"]
     },
     "walking": {
       "poseTypes": ["WALK"],
-      "animations": ["look", "q.bedrock('thundurus', 'ground_walk')"
-      ],
+      "animations": ["look", "q.bedrock('thundurus', 'ground_walk')"],
       "quirks": ["q.bedrock_quirk('thundurus', 'quirk')"]
     },
     "float": {
       "poseTypes": ["FLOAT"],
-      "animations": ["look", "q.bedrock('thundurus', 'ground_idle')"
-      ],
+      "animations": ["look", "q.bedrock('thundurus', 'ground_idle')"],
       "quirks": ["q.bedrock_quirk('thundurus', 'quirk')"]
     },
     "swim": {
       "poseTypes": ["SWIM"],
-      "animations": ["look",
-        "q.bedrock('thundurus', 'ground_walk')"
-      ],
+      "animations": ["look", "q.bedrock('thundurus', 'ground_walk')"],
       "quirks": ["q.bedrock_quirk('thundurus', 'quirk')"]
     },
     "hover": {
       "poseName": "hover",
       "poseTypes": ["HOVER"],
       "quirks": ["q.bedrock_quirk('thundurus', 'quirk')"],
-      "animations": ["look", "q.bedrock('thundurus', 'ground_idle')"
-      ]
+      "animations": ["look", "q.bedrock('thundurus', 'ground_idle')"]
     },
     "fly": {
       "poseName": "fly",

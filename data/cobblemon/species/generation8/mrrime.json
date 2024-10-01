@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 866,
   "primaryType": "ice",
   "secondaryType": "psychic",
-  "abilities": [
-    "tangledfeet",
-    "screencleaner",
-    "h:icebody"
-  ],
+  "abilities": ["tangledfeet", "screencleaner", "h:icebody"],
   "baseStats": {
     "hp": 80,
     "attack": 85,
@@ -22,9 +18,7 @@
   "baseExperienceYield": 182,
   "experienceGroup": "medium_fast",
   "eggCycles": 25,
-  "eggGroups": [
-    "human_like"
-  ],
+  "eggGroups": ["human_like"],
   "moves": [
     "1:afteryou",
     "1:batonpass",
@@ -128,12 +122,8 @@
     "tutor:expandingforce",
     "tutor:tripleaxel"
   ],
-  "labels": [
-    "gen8"
-  ],
-  "pokedex": [
-    "cobblemon.species.mrrime.desc"
-  ],
+  "labels": ["gen8"],
+  "pokedex": ["cobblemon.species.mrrime.desc"],
   "preEvolution": "mrmime galarian",
   "evolutions": [],
   "baseScale": 1,
