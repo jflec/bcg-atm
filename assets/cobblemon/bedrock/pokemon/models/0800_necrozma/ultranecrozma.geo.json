@@ -12,12 +12,12 @@
       },
       "bones": [
         {
-          "name": "ultra_necrozma",
+          "name": "ultranecrozma",
           "pivot": [0, 19, 0]
         },
         {
           "name": "main",
-          "parent": "ultra_necrozma",
+          "parent": "ultranecrozma",
           "pivot": [0, 19, 0]
         },
         {

@@ -1,7 +1,7 @@
 {
   "format_version": "1.8.0",
   "animations": {
-    "animation.hoopa_unbound.ground_idle": {
+    "animation.hoopaunbound.ground_idle": {
       "loop": true,
       "animation_length": 4,
       "bones": {
@@ -146,11 +146,11 @@
         }
       }
     },
-    "animation.hoopa_unbound.battle_idle": {
+    "animation.hoopaunbound.battle_idle": {
       "loop": true,
       "animation_length": 13.9583,
       "bones": {
-        "hoopa_unbound": {
+        "hoopaunbound": {
           "rotation": [0, 0, 0],
           "position": [
             "math.sin(q.anim_time*90*1)*2",
@@ -309,11 +309,11 @@
         }
       }
     },
-    "animation.hoopa_unbound.special_attack": {
+    "animation.hoopaunbound.special_attack": {
       "loop": true,
       "animation_length": 4.3333,
       "bones": {
-        "hoopa_unbound": {
+        "hoopaunbound": {
           "rotation": [0, 0, 0],
           "position": [
             "math.sin(q.anim_time*90*1)*2",
@@ -872,11 +872,11 @@
         }
       }
     },
-    "animation.hoopa_unbound.physical_attack": {
+    "animation.hoopaunbound.physical_attack": {
       "loop": true,
       "animation_length": 5,
       "bones": {
-        "hoopa_unbound": {
+        "hoopaunbound": {
           "rotation": [0, 0, 0],
           "position": [
             "math.sin(q.anim_time*90*1)*2",
@@ -3558,7 +3558,7 @@
         }
       }
     },
-    "animation.hoopa_unbound.blink": {
+    "animation.hoopaunbound.blink": {
       "animation_length": 6,
       "bones": {
         "eyebrowleft": {
@@ -3597,10 +3597,10 @@
         }
       }
     },
-    "animation.hoopa_unbound.faint": {
+    "animation.hoopaunbound.faint": {
       "animation_length": 3,
       "bones": {
-        "hoopa_unbound": {
+        "hoopaunbound": {
           "rotation": {
             "0.0": {
               "post": [0, 0, 0],
@@ -5086,11 +5086,11 @@
         }
       }
     },
-    "animation.hoopa_unbound.ground_walk": {
+    "animation.hoopaunbound.ground_walk": {
       "loop": true,
       "animation_length": 8,
       "bones": {
-        "hoopa_unbound": {
+        "hoopaunbound": {
           "rotation": [0, 0, 0],
           "position": [
             "math.sin(q.anim_time*90*1)*2",
@@ -5223,10 +5223,10 @@
         }
       }
     },
-    "animation.hoopa_unbound.sleep": {
+    "animation.hoopaunbound.sleep": {
       "loop": true,
       "bones": {
-        "hoopa_unbound": {
+        "hoopaunbound": {
           "rotation": ["math.sin(q.anim_time*90*1-120)*0.5", 0, 0],
           "position": [
             "0-math.sin(q.anim_time*90*1-90)*1",
@@ -5317,7 +5317,7 @@
         }
       }
     },
-    "animation.hoopa_unbound.cry": {
+    "animation.hoopaunbound.cry": {
       "animation_length": 4,
       "bones": {
         "bodynarm": {

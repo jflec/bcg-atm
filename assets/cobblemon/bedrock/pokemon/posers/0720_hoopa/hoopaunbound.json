@@ -1,0 +1,59 @@
+{
+  "head": "head",
+  "portraitScale": 0.2,
+  "portraitTranslation": [0, 2.5, 0],
+  "profileScale": 0.2,
+  "profileTranslation": [0, 2, 0],
+  "animations": {
+    "faint": "q.bedrock_primary('hoopaunbound', 'faint', q.curve('one'))",
+    "cry": "q.bedrock_stateful('hoopaunbound', 'cry')",
+    "physical": "q.bedrock_primary('hoopaunbound', 'physical_attack', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_primary('hoopaunbound', 'special_attack', q.curve('symmetrical_wide'))",
+    "status": "q.bedrock_primary('hoopaunbound', 'special_attack', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": ["q.bedrock('hoopaunbound', 'battle_idle')"],
+      "quirks": ["q.bedrock_quirk('hoopaunbound', 'blink')"]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": ["q.bedrock('hoopaunbound', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('hoopaunbound', 'blink')"]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": ["q.bedrock('hoopaunbound', 'ground_walk')"],
+      "quirks": ["q.bedrock_quirk('hoopaunbound', 'blink')"]
+    },
+    "float": {
+      "poseTypes": ["FLOAT"],
+      "animations": ["q.bedrock('hoopaunbound', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('hoopaunbound', 'blink')"]
+    },
+    "swim": {
+      "poseTypes": ["SWIM"],
+      "animations": ["q.bedrock('hoopaunbound', 'ground_walk')"],
+      "quirks": ["q.bedrock_quirk('hoopaunbound', 'blink')"]
+    },
+    "hover": {
+      "poseName": "hover",
+      "poseTypes": ["HOVER"],
+      "quirks": ["q.bedrock_quirk('hoopaunbound', 'blink')"],
+      "animations": ["q.bedrock('hoopaunbound', 'ground_idle')"]
+    },
+    "fly": {
+      "poseName": "fly",
+      "poseTypes": ["FLY"],
+      "quirks": ["q.bedrock_quirk('hoopaunbound', 'blink')"],
+      "animations": ["q.bedrock('hoopaunbound', 'ground_walk')"]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('hoopaunbound', 'sleep')"]
+    }
+  }
+}
