@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:reuniclus",
       "model": "cobblemon:reuniclus.geo",
-      "texture": "cobblemon:textures/pokemon/reuniclus/reuniclus.png",
+      "texture": "cobblemon:textures/pokemon/0579_reuniclus/reuniclus.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/reuniclus/reuniclus_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0579_reuniclus/reuniclus_shiny.png"
     }
   ]
 }

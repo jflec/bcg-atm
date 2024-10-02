@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:swadloon",
       "model": "cobblemon:swadloon.geo",
-      "texture": "cobblemon:textures/pokemon/swadloon/swadloon.png",
+      "texture": "cobblemon:textures/pokemon/0541_swadloon/swadloon.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/swadloon/swadloon_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0541_swadloon/swadloon_shiny.png"
     }
   ]
 }

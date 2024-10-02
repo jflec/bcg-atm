@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:veluza",
       "model": "cobblemon:veluza.geo",
-      "texture": "cobblemon:textures/pokemon/veluza/veluza.png",
+      "texture": "cobblemon:textures/pokemon/0976_veluza/veluza.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/veluza/veluza_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0976_veluza/veluza_shiny.png"
     }
   ]
 }

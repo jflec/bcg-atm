@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:pawniard",
       "model": "cobblemon:pawniard.geo",
-      "texture": "cobblemon:textures/pokemon/pawniard/pawniard.png",
+      "texture": "cobblemon:textures/pokemon/0624_pawniard/pawniard.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/pawniard/pawniard_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0624_pawniard/pawniard_shiny.png"
     }
   ]
 }

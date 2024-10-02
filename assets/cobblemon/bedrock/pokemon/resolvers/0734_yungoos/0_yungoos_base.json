@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:yungoos",
       "model": "cobblemon:yungoos.geo",
-      "texture": "cobblemon:textures/pokemon/yungoos/yungoos.png",
+      "texture": "cobblemon:textures/pokemon/0734_yungoos/yungoos.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/yungoos/yungoos_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0734_yungoos/yungoos_shiny.png"
     }
   ]
 }

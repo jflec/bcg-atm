@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:toxtricitya",
       "model": "cobblemon:toxtricitya.geo",
-      "texture": "cobblemon:textures/pokemon/toxtricity/toxtricitya.png",
+      "texture": "cobblemon:textures/pokemon/0849_toxtricity/toxtricitya.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/toxtricity/toxtricitya_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0849_toxtricity/toxtricitya_shiny.png"
     }
   ]
 }

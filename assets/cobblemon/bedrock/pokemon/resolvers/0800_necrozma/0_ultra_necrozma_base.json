@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:ultranecrozma",
       "model": "cobblemon:ultranecrozma.geo",
-      "texture": "cobblemon:textures/pokemon/ultranecrozma/ultranecrozma.png",
+      "texture": "cobblemon:textures/pokemon/0800_ultranecrozma/ultranecrozma.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/ultranecrozma/ultranecrozma_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0800_ultranecrozma/ultranecrozma_shiny.png"
     }
   ]
 }

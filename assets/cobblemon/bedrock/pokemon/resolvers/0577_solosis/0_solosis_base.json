@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:solosis",
       "model": "cobblemon:solosis.geo",
-      "texture": "cobblemon:textures/pokemon/solosis/solosis.png",
+      "texture": "cobblemon:textures/pokemon/0577_solosis/solosis.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/solosis/solosis_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0577_solosis/solosis_shiny.png"
     }
   ]
 }
