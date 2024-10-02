@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:hoopaunbound",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:hoopaunbound",
+      "model": "cobblemon:hoopaunbound.geo",
+      "texture": "cobblemon:textures/pokemon/0720_hoopa/hoopaunbound.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/0720_hoopa/hoopaunbound_shiny.png"
+    }
+  ]
+}

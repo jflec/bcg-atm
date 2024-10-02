@@ -12,12 +12,12 @@
       },
       "bones": [
         {
-          "name": "hoopa_unbound",
+          "name": "hoopaunbound",
           "pivot": [0, 0, 0]
         },
         {
           "name": "bodynarm",
-          "parent": "hoopa_unbound",
+          "parent": "hoopaunbound",
           "pivot": [0, 0, 0]
         },
         {

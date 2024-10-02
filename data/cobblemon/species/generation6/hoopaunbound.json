@@ -140,7 +140,7 @@
     "tutor:zenheadbutt"
   ],
   "labels": ["gen6", "mythical", "legendary", "hoopaunbound"],
-  "pokedex": ["cobblemon.species.hoopa_unbound.desc"],
+  "pokedex": ["cobblemon.species.hoopaunbound.desc"],
   "behaviour": {
     "moving": {
       "walk": {

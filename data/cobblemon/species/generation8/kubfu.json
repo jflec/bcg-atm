@@ -98,7 +98,7 @@
     {
       "id": "kubfu_urshifurs",
       "variant": "block_click",
-      "result": "urshifu rapidrs",
+      "result": "urshifurs",
       "consumeHeldItem": false,
       "learnableMoves": ["surgingstrikes"],
       "requirements": [],

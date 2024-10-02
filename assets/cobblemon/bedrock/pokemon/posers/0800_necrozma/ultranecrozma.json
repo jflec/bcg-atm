@@ -9,14 +9,14 @@
       "poseName": "standing",
       "transformTicks": 10,
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
-      "animations": ["look", "bedrock(ultra_necrozma, ground_idle)"]
+      "animations": ["look", "bedrock(ultranecrozma, ground_idle)"]
     },
 
     "walking": {
       "poseName": "walking",
       "transformTicks": 10,
       "poseTypes": ["WALK"],
-      "animations": ["look", "bedrock(ultra_necrozma, ground_walk)"]
+      "animations": ["look", "bedrock(ultranecrozma, ground_walk)"]
     }
   }
 }
