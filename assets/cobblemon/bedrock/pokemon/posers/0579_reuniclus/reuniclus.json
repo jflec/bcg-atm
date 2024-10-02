@@ -4,7 +4,7 @@
   "portraitTranslation": [-0.2, 0.75, 0],
   "profileScale": 0.6,
   "profileTranslation": [0, 1.1, 0],
-  "faint": "bedrock(reuniclus, faint)",
+  "faint": "bedrock(reuniclus, ground_idle)",
   "poses": {
     "standing": {
       "poseName": "standing",

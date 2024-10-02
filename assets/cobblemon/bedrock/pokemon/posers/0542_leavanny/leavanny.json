@@ -4,7 +4,7 @@
   "portraitTranslation": [-0.1, 1.8, 0],
   "profileScale": 0.5,
   "profileTranslation": [-0.05, 1.1, 0],
-  "faint": "bedrock(leavanny, faint)",
+  "faint": "bedrock(leavanny, ground_idle)",
   "cry": "bedrock(leavanny, cry)",
   "poses": {
     "battle-idle": {
