@@ -33,7 +33,7 @@
       "weight": 10.0,
       "condition": {
         "timeRange": "night",
-        "biomes": ["#minecraft:is_overworld"]
+        "biomes": ["#cobblemon:is_overworld"]
       }
     }
   ]

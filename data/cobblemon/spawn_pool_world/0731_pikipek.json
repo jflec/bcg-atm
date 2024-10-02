@@ -16,7 +16,7 @@
         "biomes": [
           "#cobblemon:is_forest",
           "#cobblemon:is_jungle",
-          "#minecraft:is_taiga"
+          "#cobblemon:is_taiga"
         ]
       }
     }

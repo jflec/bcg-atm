@@ -14,7 +14,7 @@
       "weight": 2,
       "condition": {
         "isRaining": false,
-        "biomes": ["#minecraft:is_mountain"],
+        "biomes": ["#cobblemon:is_mountain"],
         "timeRange": "day"
       }
     }

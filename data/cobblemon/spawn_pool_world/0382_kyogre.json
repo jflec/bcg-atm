@@ -14,7 +14,7 @@
       "weight": 0.01,
       "condition": {
         "isRaining": true,
-        "biomes": ["#minecraft:is_deep_ocean"]
+        "biomes": ["#cobblemon:is_deep_ocean"]
       }
     }
   ]

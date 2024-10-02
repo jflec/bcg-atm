@@ -14,7 +14,7 @@
       "weight": 3.0,
       "condition": {
         "canSeeSky": true,
-        "biomes": ["#cobblemon:is_mountain", "#minecraft:is_jungle"]
+        "biomes": ["#cobblemon:is_mountain", "#cobblemon:is_jungle"]
       }
     },
     {
@@ -28,7 +28,7 @@
       "weight": 3.0,
       "condition": {
         "canSeeSky": true,
-        "biomes": ["minecraft:frozen_peaks"]
+        "biomes": ["cobblemon:frozen_peaks"]
       }
     }
   ]

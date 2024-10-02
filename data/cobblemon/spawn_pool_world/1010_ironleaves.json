@@ -12,7 +12,7 @@
       "level": "50-70",
       "weight": 0.5,
       "condition": {
-        "biomes": ["#cobblemon:floral"]
+        "biomes": ["#cobblemon:is_floral"]
       }
     },
     {

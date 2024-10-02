@@ -14,7 +14,7 @@
       "level": "70",
       "weight": 0.01,
       "condition": {
-        "biomes": ["#minecraft:is_mountain"]
+        "biomes": ["#cobblemon:is_mountain"]
       }
     }
   ]

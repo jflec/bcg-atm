@@ -92,7 +92,7 @@
     "tm:terablast"
   ],
   "labels": ["custom"],
-  "pokedex": ["cobblemon.species.lokix.desc1", "cobblemon.species.lokix.desc2"],
+  "pokedex": ["cobblemon.species.lokix.desc"],
 
   "baseScale": 0.65,
   "hitbox": {

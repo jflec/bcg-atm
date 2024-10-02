@@ -13,7 +13,7 @@
       "weight": 5.8,
       "condition": {
         "canSeeSky": true,
-        "biomes": ["#minecraft:is_overworld"],
+        "biomes": ["#cobblemon:is_overworld"],
         "neededNearbyBlocks": ["minecraft:white_bed"]
       }
     }

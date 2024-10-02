@@ -128,9 +128,7 @@
       "experienceGroup": "slow",
       "eggCycles": 50,
       "eggGroups": ["undiscovered"],
-      "pokedex": [
-        "This Pokémon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks."
-      ],
+      "pokedex": ["cobblemon.species.ogerpon.desc1"],
       "labels": ["gen9"],
       "aspects": ["wellspring"],
       "height": 12,
