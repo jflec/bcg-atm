@@ -37,7 +37,7 @@
     {
       "id": "geodude-alolan-3",
       "pokemon": "geodude alolan",
-      "presets": ["natural", "wild", "isThundering"],
+      "presets": ["natural", "wild"],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "common",

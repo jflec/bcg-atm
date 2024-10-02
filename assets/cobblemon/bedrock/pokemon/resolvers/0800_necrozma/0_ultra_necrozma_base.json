@@ -1,17 +1,17 @@
 {
-  "species": "cobblemon:ultranecrozma",
+  "species": "cobblemon:ultra_necrozma",
   "order": 0,
   "variations": [
     {
       "aspects": [],
-      "poser": "cobblemon:ultranecrozma",
-      "model": "cobblemon:ultranecrozma.geo",
-      "texture": "cobblemon:textures/pokemon/0800_ultranecrozma/ultranecrozma.png",
+      "poser": "cobblemon:ultra_necrozma",
+      "model": "cobblemon:ultra_necrozma.geo",
+      "texture": "cobblemon:textures/pokemon/0800_ultra_necrozma/ultra_necrozma.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/0800_ultranecrozma/ultranecrozma_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0800_ultra_necrozma/ultra_necrozma_shiny.png"
     }
   ]
 }

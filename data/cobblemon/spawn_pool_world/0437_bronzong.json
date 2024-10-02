@@ -20,7 +20,6 @@
     {
       "id": "bronzong-2",
       "pokemon": "bronzong",
-      "presets": ["underground"],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "rare",

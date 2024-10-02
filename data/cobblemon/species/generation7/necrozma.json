@@ -251,9 +251,9 @@
   "pokedex": ["cobblemon.species.necrozma.desc"],
   "evolutions": [
     {
-      "id": "necrozma_ultranecrozma",
+      "id": "necrozma_ultra_necrozma",
       "variant": "level_up",
-      "result": "ultranecrozma",
+      "result": "ultra_necrozma",
       "consumeHeldItem": false,
       "learnableMoves": [],
       "requirements": [

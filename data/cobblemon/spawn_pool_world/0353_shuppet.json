@@ -6,7 +6,6 @@
     {
       "id": "shuppet-1",
       "pokemon": "shuppet",
-      "presets": ["underground"],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "common",

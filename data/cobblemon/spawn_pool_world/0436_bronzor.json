@@ -20,7 +20,6 @@
     {
       "id": "bronzor-2",
       "pokemon": "bronzor",
-      "presets": ["underground"],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "rare",

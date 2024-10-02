@@ -1,6 +1,6 @@
 {
   "implemented": true,
-  "name": "palafinhero",
+  "name": "palafin_hero",
   "nationalPokedexNumber": 964,
   "primaryType": "water",
 
@@ -62,13 +62,13 @@
   ],
   "labels": ["gen9"],
   "pokedex": [
-    "cobblemon.species.palafinhero.desc1",
-    "cobblemon.species.palafinhero.desc2"
+    "cobblemon.species.palafin_hero.desc1",
+    "cobblemon.species.palafin_hero.desc2"
   ],
   "preEvolution": "palafin",
   "evolutions": [
     {
-      "id": "palafinhero_palafin",
+      "id": "palafin_hero_palafin",
       "variant": "level_up",
       "result": "palafin",
       "consumeHeldItem": false,

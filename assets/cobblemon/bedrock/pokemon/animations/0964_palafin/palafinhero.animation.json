@@ -1,7 +1,7 @@
 {
   "format_version": "1.8.0",
   "animations": {
-    "animation.palafinhero.pose": {
+    "animation.palafin_hero.pose": {
       "loop": true,
       "bones": {
         "head": {
@@ -46,7 +46,7 @@
         }
       }
     },
-    "animation.palafinhero.ground_idle": {
+    "animation.palafin_hero.ground_idle": {
       "loop": true,
       "bones": {
         "head": {
@@ -107,7 +107,7 @@
         }
       }
     },
-    "animation.palafinhero.water_idle": {
+    "animation.palafin_hero.water_idle": {
       "loop": true,
       "bones": {
         "head": {
@@ -172,7 +172,7 @@
         }
       }
     },
-    "animation.palafinhero.water_swim": {
+    "animation.palafin_hero.water_swim": {
       "loop": true,
       "bones": {
         "head": {

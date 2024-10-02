@@ -37,7 +37,7 @@
     {
       "id": "graveler-alolan-3",
       "pokemon": "graveler alolan",
-      "presets": ["natural", "wild", "isThundering"],
+      "presets": ["natural", "wild"],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "common",

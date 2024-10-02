@@ -9,19 +9,19 @@
       "poseName": "standing",
       "transformTicks": 10,
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
-      "animations": ["bedrock(palafinhero, ground_idle)"]
+      "animations": ["bedrock(palafin_hero, ground_idle)"]
     },
     "walking": {
       "poseName": "walking",
       "transformTicks": 5,
       "poseTypes": ["WALK"],
-      "animations": ["bedrock(palafinhero, water_swim)"]
+      "animations": ["bedrock(palafin_hero, water_swim)"]
     },
     "swimming": {
       "poseName": "swimming",
       "transformTicks": 5,
       "poseTypes": ["SWIM"],
-      "animations": ["bedrock(palafinhero, water_swim)"]
+      "animations": ["bedrock(palafin_hero, water_swim)"]
     },
     "floating": {
       "poseName": "floating",

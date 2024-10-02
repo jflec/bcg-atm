@@ -37,7 +37,7 @@
     {
       "id": "golem-alolan-3",
       "pokemon": "golem alolan",
-      "presets": ["natural", "wild", "isThundering"],
+      "presets": ["natural", "wild"],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "common",

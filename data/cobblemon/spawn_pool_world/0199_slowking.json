@@ -19,7 +19,7 @@
     },
     {
       "id": "slowking-galarian-2",
-      "pokemon": "slowking-galarian",
+      "pokemon": "slowking galarian",
       "presets": ["natural"],
       "type": "pokemon",
       "context": "grounded",

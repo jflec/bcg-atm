@@ -1,17 +1,17 @@
 {
-  "species": "cobblemon:palafinhero",
+  "species": "cobblemon:palafin_hero",
   "order": 0,
   "variations": [
     {
       "aspects": [],
-      "poser": "cobblemon:palafinhero",
-      "model": "cobblemon:palafinhero.geo",
-      "texture": "cobblemon:textures/pokemon/0964_palafinhero/palafinhero.png",
+      "poser": "cobblemon:palafin_hero",
+      "model": "cobblemon:palafin_hero.geo",
+      "texture": "cobblemon:textures/pokemon/0964_palafin_hero/palafin_hero.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/0964_palafinhero/palafinhero_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0964_palafin_hero/palafin_hero_shiny.png"
     }
   ]
 }

@@ -23,9 +23,9 @@
   "preEvolution": "finizen",
   "evolutions": [
     {
-      "id": "palafin_palafinhero",
+      "id": "palafin_palafin_hero",
       "variant": "level_up",
-      "result": "palafinhero",
+      "result": "palafin_hero",
       "consumeHeldItem": false,
       "learnableMoves": [],
       "requirements": [
