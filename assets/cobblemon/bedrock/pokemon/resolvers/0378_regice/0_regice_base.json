@@ -6,24 +6,24 @@
       "aspects": [],
       "poser": "cobblemon:regice",
       "model": "cobblemon:regice.geo",
-      "texture": "cobblemon:textures/pokemon/regice/regice.png",
+      "texture": "cobblemon:textures/pokemon/0378_regice/regice.png",
       "layers": [
         {
           "name": "emissive",
           "emissive": true,
-          "texture": "cobblemon:textures/pokemon/regice/regice_e.png",
+          "texture": "cobblemon:textures/pokemon/0378_regice/regice_e.png",
           "translucent": false
         }
       ]
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/regice/regice_shiny.png",
+      "texture": "cobblemon:textures/pokemon/0378_regice/regice_shiny.png",
       "layers": [
         {
           "name": "emissive",
           "emissive": true,
-          "texture": "cobblemon:textures/pokemon/regice/regice_shiny_e.png",
+          "texture": "cobblemon:textures/pokemon/0378_regice/regice_shiny_e.png",
           "translucent": false
         }
       ]

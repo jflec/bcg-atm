@@ -6,18 +6,18 @@
       "aspects": ["paldean-breed-aqua"],
       "model": "cobblemon:tauros_aqua.geo",
       "poser": "cobblemon:tauros_aqua",
-      "texture": "cobblemon:textures/pokemon/tauros/tauros_aqua.png",
+      "texture": "cobblemon:textures/pokemon/0128_tauros/tauros_aqua.png",
       "layers": [
         {
           "name": "emissive",
-          "texture": "cobblemon:textures/pokemon/tauros/tauros_aqua_emissive.png",
+          "texture": "cobblemon:textures/pokemon/0128_tauros/tauros_aqua_emissive.png",
           "emissive": true
         }
       ]
     },
     {
       "aspects": ["paldean-breed-aqua", "shiny"],
-      "texture": "cobblemon:textures/pokemon/tauros/tauros_aqua_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0128_tauros/tauros_aqua_shiny.png"
     }
   ]
 }
