@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:togedemaru",
       "model": "cobblemon:togedemaru.geo",
-      "texture": "cobblemon:textures/pokemon/togedemaru/togedemaru.png",
+      "texture": "cobblemon:textures/pokemon/0777_togedemaru/togedemaru.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/togedemaru/togedemaru_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0777_togedemaru/togedemaru_shiny.png"
     }
   ]
 }

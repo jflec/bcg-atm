@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:tynamo",
       "model": "cobblemon:tynamo.geo",
-      "texture": "cobblemon:textures/pokemon/tynamo/tynamo.png",
+      "texture": "cobblemon:textures/pokemon/0602_tynamo/tynamo.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/tynamo/tynamo_shiny.png",
+      "texture": "cobblemon:textures/pokemon/0602_tynamo/tynamo_shiny.png",
       "layers": []
     }
   ]

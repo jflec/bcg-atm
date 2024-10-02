@@ -6,12 +6,12 @@
       "aspects": ["female"],
       "poser": "cobblemon:toxtricityb",
       "model": "cobblemon:toxtricityb.geo",
-      "texture": "cobblemon:textures/pokemon/toxtricity/toxtricityb.png",
+      "texture": "cobblemon:textures/pokemon/0849_toxtricity/toxtricityb.png",
       "layers": []
     },
     {
       "aspects": ["female", "shiny"],
-      "texture": "cobblemon:textures/pokemon/toxtricity/toxtricityb_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0849_toxtricity/toxtricityb_shiny.png"
     }
   ]
 }

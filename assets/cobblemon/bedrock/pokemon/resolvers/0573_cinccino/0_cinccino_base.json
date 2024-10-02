@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:cinccino",
       "model": "cobblemon:cinccino.geo",
-      "texture": "cobblemon:textures/pokemon/cinccino/cinccino.png",
+      "texture": "cobblemon:textures/pokemon/0573_cinccino/cinccino.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/cinccino/cinccino_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0573_cinccino/cinccino_shiny.png"
     }
   ]
 }

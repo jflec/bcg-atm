@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:seismitoad",
       "model": "cobblemon:seismitoad.geo",
-      "texture": "cobblemon:textures/pokemon/seismitoad/seismitoad.png",
+      "texture": "cobblemon:textures/pokemon/0537_seismitoad/seismitoad.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/seismitoad/seismitoad_shiny.png",
+      "texture": "cobblemon:textures/pokemon/0537_seismitoad/seismitoad_shiny.png",
       "layers": []
     }
   ]

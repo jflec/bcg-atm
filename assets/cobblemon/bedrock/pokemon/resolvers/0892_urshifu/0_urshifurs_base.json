@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:urshifurs",
       "model": "cobblemon:urshifurs.geo",
-      "texture": "cobblemon:textures/pokemon/urshifurs/urshifurs.png",
+      "texture": "cobblemon:textures/pokemon/0892_urshifurs/urshifurs.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/urshifurs/urshifurs_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0892_urshifurs/urshifurs_shiny.png"
     }
   ]
 }

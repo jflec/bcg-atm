@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:purrloin",
       "model": "cobblemon:purrloin.geo",
-      "texture": "cobblemon:textures/pokemon/purrloin/purrloin.png",
+      "texture": "cobblemon:textures/pokemon/0509_purrloin/purrloin.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/purrloin/purrloin_shiny.png"
+      "texture": "cobblemon:textures/pokemon/purrloin/0509_purrloin_shiny.png"
     }
   ]
 }

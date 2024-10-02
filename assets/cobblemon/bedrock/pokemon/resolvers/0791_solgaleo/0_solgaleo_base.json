@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:solgaleo",
       "model": "cobblemon:solgaleo.geo",
-      "texture": "cobblemon:textures/pokemon/solgaleo/solgaleo.png",
+      "texture": "cobblemon:textures/pokemon/0791_solgaleo/solgaleo.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/solgaleo/solgaleo_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0791_solgaleo/solgaleo_shiny.png"
     }
   ]
 }
