@@ -114,10 +114,7 @@
     "tutor:snatch"
   ],
   "labels": ["gen7", "mythical"],
-  "pokedex": [
-    "cobblemon.species.marshadow.desc1",
-    "cobblemon.species.marshadow.desc2"
-  ],
+  "pokedex": ["cobblemon.species.marshadow.desc"],
   "evolutions": [],
   "baseScale": 0.5,
   "hitbox": {

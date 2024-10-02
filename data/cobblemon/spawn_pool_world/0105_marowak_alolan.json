@@ -13,7 +13,7 @@
       "weight": 10.0,
       "condition": {
         "canSeeSky": true,
-        "biomes": ["#minecraft:is_beach"]
+        "biomes": ["#cobblemon:is_beach"]
       }
     }
   ]

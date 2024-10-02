@@ -12,7 +12,7 @@
       "bucket": "ultra-rare",
       "level": "70-100",
       "weight": 6,
-      "condition": { "isRaining": true, "biomes": ["#minecraft:is_ocean"] }
+      "condition": { "isRaining": true, "biomes": ["#cobblemon:is_ocean"] }
     }
   ]
 }

@@ -94,10 +94,7 @@
     "tm:terablast"
   ],
   "labels": ["custom"],
-  "pokedex": [
-    "cobblemon.species.nymble.desc1",
-    "cobblemon.species.nymble.desc2"
-  ],
+  "pokedex": ["cobblemon.species.nymble.desc"],
 
   "baseScale": 0.6,
   "hitbox": {

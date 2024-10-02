@@ -24,7 +24,7 @@
       "level": "70",
       "weight": 0.4,
       "condition": {
-        "biomes": ["#minecraft:is_beach"],
+        "biomes": ["#cobblemon:is_beach"],
         "timeRange": "any",
         "isRaining": false,
         "neededBaseBlocks": ["minecraft:sand"]

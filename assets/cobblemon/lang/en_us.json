@@ -12,8 +12,7 @@
   "cobblemon.species.palafinhero.desc2": "It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
 
   "cobblemon.species.poltchageist.name": "Poltchageist",
-  "cobblemon.species.poltchageist.desc1": "Trainers poltchageist trusts will be allowed to experience its distinctive flavor and aroma firsthand by sampling just a tiny bit of its green tea.",
-  "cobblemon.species.poltchageist.desc2": "These Pokémon multiply by creeping into teapots and pouring themselves into leftover tea.",
+  "cobblemon.species.poltchageist.desc": "Supposedly, the regrets of a tea ceremony master who died before perfecting his craft lingered in some matcha and became a Pokémon.",
 
   "cobblemon.species.dipplin.name": "Dipplin",
   "cobblemon.species.dipplin.desc1": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it’s just an apple and nothing more.",
@@ -27,8 +26,8 @@
   "cobblemon.species.pecharunt.desc1": "Undiscovered",
   "cobblemon.species.pecharunt.desc2": "Undiscovered",
 
-  "cobblemon.species.Ogerpon.name": "Ogerpon",
-  "cobblemon.species.Ogerpon.desc1": "This Pokémon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks.",
+  "cobblemon.species.ogerpon.name": "Ogerpon",
+  "cobblemon.species.ogerpon.desc1": "This Pokémon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks.",
 
   "cobblemon.species.ogerponteal.name": "Ogerpon",
   "cobblemon.species.ogerponteal.desc1": "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks.",
@@ -77,5 +76,11 @@
 
   "cobblemon.species.deoxysspeed.name": "Deoxys",
   "cobblemon.species.deoxysspeed.desc1": "Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest.",
-  "cobblemon.species.deoxysspeed.desc2": "This evolution is Deoxys' Speed form"
+  "cobblemon.species.deoxysspeed.desc2": "This evolution is Deoxys' Speed form",
+
+  "cobblemon.species.marshadow.desc": "It slips into the shadows of others and mimics their powers and movements. As it improves, it becomes stronger than those it’s imitating.",
+
+  "cobblemon.species.lokix.desc": "When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order.",
+
+  "cobblemon.species.nymble.desc": "It has its third set of legs folded up. When it’s in a tough spot, this Pokémon jumps over 30 feet using the strength of its legs."
 }

@@ -27,6 +27,7 @@
   "experienceGroup": "slow",
   "eggCycles": 50,
   "eggGroups": ["mineral", "amorphous"],
+
   "moves": [
     "1:astonish",
     "1:stunspore",
@@ -163,12 +164,10 @@
         "tm:uproar"
       ],
       "labels": ["gen9"],
-      "pokedex": [
-        "Supposedly, the regrets of a tea ceremony master who died before perfecting his craft lingered in some matcha and became a Pokémon."
-      ],
       "aspects": ["artisan"],
       "height": 1,
       "weight": 11,
+      "pokedex": ["cobblemon.species.poltchageist.desc"],
       "evolutions": [
         {
           "id": "poltchageist_sinistcha",

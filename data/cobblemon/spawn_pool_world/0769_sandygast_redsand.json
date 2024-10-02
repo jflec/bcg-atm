@@ -13,7 +13,7 @@
       "weight": 7.0,
       "condition": {
         "canSeeSky": true,
-        "biomes": ["#minecraft:is_badlands"]
+        "biomes": ["#cobblemon:is_badlands"]
       }
     }
   ]

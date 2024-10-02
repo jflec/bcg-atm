@@ -14,6 +14,7 @@
   "evolutions": [
     {
       "id": "poltchageist_sinistcha",
+      "pokedex": ["cobblemon.species.poltchageist.desc"],
       "variant": "level_up",
       "result": "sinistcha",
       "consumeHeldItem": false,
