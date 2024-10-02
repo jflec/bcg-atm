@@ -6,11 +6,11 @@
       "aspects": ["galarian"],
       "model": "cobblemon:slowbro_galarian.geo",
       "poser": "cobblemon:slowbro",
-      "texture": "cobblemon:textures/pokemon/slowbro/slowbro_galarian.png"
+      "texture": "cobblemon:textures/pokemon/0080_slowbro/slowbro_galarian.png"
     },
     {
       "aspects": ["galarian", "shiny"],
-      "texture": "cobblemon:textures/pokemon/slowbro/slowbro_galarian_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0080_slowbro/slowbro_galarian_shiny.png"
     }
   ]
 }
