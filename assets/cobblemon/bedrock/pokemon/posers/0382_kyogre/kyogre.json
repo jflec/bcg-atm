@@ -1,6 +1,6 @@
 {
   "portraitScale": 0.4,
-  "portraitTranslation": [0, 1.0, 0],
+  "portraitTranslation": [-0.5, 1.0, 0],
   "profileScale": 0.34,
   "profileTranslation": [0, 1.0, 0],
   "animations": {
@@ -15,7 +15,10 @@
     "battle-standing": {
       "poseTypes": ["STAND"],
       "isBattle": true,
-      "animations": ["q.bedrock('kyogre', 'ground_idle')"],
+      "animations": [
+       "q.look('body_front', 1, -1, 17.5, -17.5, 20, -20)",
+        "q.bedrock('kyogre', 'ground_idle')"
+      ],
       "quirks": [
         "q.bedrock_quirk('kyogre', 'blink')",
         "q.bedrock_quirk('kyogre', q.array('quirk_ground_idle'), 30, 60, 1)"
@@ -24,7 +27,10 @@
     "standing": {
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
-      "animations": ["q.bedrock('kyogre', 'ground_idle')"],
+      "animations": [
+       "q.look('body_front', 1, -1, 17.5, -17.5, 20, -20)",
+        "q.bedrock('kyogre', 'ground_idle')"
+      ],
       "quirks": [
         "q.bedrock_quirk('kyogre', 'blink')",
         "q.bedrock_quirk('kyogre', 'quirk_ground_idle', 20, 60, 1)"
@@ -32,17 +38,26 @@
     },
     "walking": {
       "poseTypes": ["WALK"],
-      "animations": ["q.bedrock('kyogre', 'ground_walk')"],
+      "animations": [
+       "q.look('body_front', 1, -1, 17.5, -17.5, 20, -20)",
+        "q.bedrock('kyogre', 'ground_walk')"
+      ],
       "quirks": ["q.bedrock_quirk('kyogre', 'blink')"]
     },
     "float": {
       "poseTypes": ["FLOAT"],
-      "animations": ["q.bedrock('kyogre', 'water_idle')"],
+      "animations": [
+       "q.look('body_front', 1, -1, 17.5, -17.5, 20, -20)",
+        "q.bedrock('kyogre', 'water_idle')"
+      ],
       "quirks": ["q.bedrock_quirk('kyogre', 'blink')"]
     },
     "swim": {
       "poseTypes": ["SWIM"],
-      "animations": ["q.bedrock('kyogre', 'water_swim')"],
+      "animations": [
+       "q.look('body_front', 1, -1, 17.5, -17.5, 20, -20)",
+        "q.bedrock('kyogre', 'water_swim')"
+      ],
       "quirks": ["q.bedrock_quirk('kyogre', 'blink')"]
     },
     "sleep": {

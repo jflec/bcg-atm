@@ -3,7 +3,24 @@
   "nationalPokedexNumber": 625,
   "primaryType": "dark",
   "secondaryType": "steel",
-  "abilities": ["defiant", "innerfocus", "h:pressure"],
+  "abilities": [
+    "defiant",
+    "innerfocus",
+    "h:pressure"
+  ],
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:iron_helmet",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:chople_berry",
+        "percentage": 5.0
+      }
+    ]
+  },
   "baseStats": {
     "hp": 65,
     "attack": 125,
@@ -18,7 +35,9 @@
   "baseExperienceYield": 172,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": ["human_like"],
+  "eggGroups": [
+    "human_like"
+  ],
   "moves": [
     "1:furycutter",
     "1:leer",
@@ -66,9 +85,11 @@
     "tm:hyperbeam",
     "tm:irondefense",
     "tm:ironhead",
+    "tm:lashout",
     "tm:lowkick",
     "tm:lowsweep",
     "tm:metalclaw",
+    "tm:metalsound",
     "tm:payback",
     "tm:poisonjab",
     "tm:poweruppunch",
@@ -92,6 +113,7 @@
     "tm:sleeptalk",
     "tm:snarl",
     "tm:snore",
+    "tm:spite",
     "tm:stealthrock",
     "tm:steelbeam",
     "tm:stoneedge",
@@ -126,8 +148,12 @@
     "tutor:steelbeam",
     "tutor:throatchop"
   ],
-  "labels": ["gen5"],
-  "pokedex": ["cobblemon.species.bisharp.desc"],
+  "labels": [
+    "gen5"
+  ],
+  "pokedex": [
+    "cobblemon.species.bisharp.desc"
+  ],
   "preEvolution": "pawniard",
   "evolutions": [
     {
@@ -135,7 +161,9 @@
       "variant": "level_up",
       "result": "kingambit",
       "consumeHeldItem": false,
-      "learnableMoves": [],
+      "learnableMoves": [
+        "kowtowcleave"
+      ],
       "requirements": [
         {
           "variant": "defeat",
@@ -145,7 +173,7 @@
       ]
     }
   ],
-  "baseScale": 1.7,
+  "baseScale": 1,
   "hitbox": {
     "width": 1,
     "height": 1,

@@ -15,35 +15,46 @@
     "battle-standing": {
       "poseTypes": ["STAND"],
       "isBattle": true,
-      "animations": ["look", "q.bedrock('landorus', 'ground_idle')"],
-      "quirks": ["q.bedrock_quirk('landorus', 'quirk')"]
+      "animations": ["look", "q.bedrock('landorus', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('landorus', 'quirk')"
+      ]
     },
     "standing": {
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
-      "animations": ["look", "q.bedrock('landorus', 'ground_idle')"],
-      "quirks": ["q.bedrock_quirk('landorus', 'quirk')"]
+      "animations": ["look", "q.bedrock('landorus', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('landorus', 'quirk')"
+      ]
     },
     "walking": {
       "poseTypes": ["WALK"],
-      "animations": ["look", "q.bedrock('landorus', 'ground_walk')"],
+      "animations": ["look", "q.bedrock('landorus', 'ground_walk')"
+      ],
       "quirks": ["q.bedrock_quirk('landorus', 'quirk')"]
     },
     "float": {
       "poseTypes": ["FLOAT"],
-      "animations": ["look", "q.bedrock('landorus', 'ground_idle')"],
+      "animations": ["look", "q.bedrock('landorus', 'ground_idle')"
+      ],
       "quirks": ["q.bedrock_quirk('landorus', 'quirk')"]
     },
     "swim": {
       "poseTypes": ["SWIM"],
-      "animations": ["look", "q.bedrock('landorus', 'ground_walk')"],
+      "animations": ["look",
+        "q.bedrock('landorus', 'ground_walk')"
+      ],
       "quirks": ["q.bedrock_quirk('landorus', 'quirk')"]
     },
     "hover": {
       "poseName": "hover",
       "poseTypes": ["HOVER"],
       "quirks": ["q.bedrock_quirk('landorus', 'quirk')"],
-      "animations": ["look", "q.bedrock('landorus', 'ground_idle')"]
+      "animations": ["look", "q.bedrock('landorus', 'ground_idle')"
+      ]
     },
     "fly": {
       "poseName": "fly",
