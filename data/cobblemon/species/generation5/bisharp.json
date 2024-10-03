@@ -3,11 +3,7 @@
   "nationalPokedexNumber": 625,
   "primaryType": "dark",
   "secondaryType": "steel",
-  "abilities": [
-    "defiant",
-    "innerfocus",
-    "h:pressure"
-  ],
+  "abilities": ["defiant", "innerfocus", "h:pressure"],
   "drops": {
     "amount": 2,
     "entries": [
@@ -35,9 +31,7 @@
   "baseExperienceYield": 172,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
-  "eggGroups": [
-    "human_like"
-  ],
+  "eggGroups": ["human_like"],
   "moves": [
     "1:furycutter",
     "1:leer",
@@ -148,12 +142,8 @@
     "tutor:steelbeam",
     "tutor:throatchop"
   ],
-  "labels": [
-    "gen5"
-  ],
-  "pokedex": [
-    "cobblemon.species.bisharp.desc"
-  ],
+  "labels": ["gen5"],
+  "pokedex": ["cobblemon.species.bisharp.desc"],
   "preEvolution": "pawniard",
   "evolutions": [
     {
@@ -161,9 +151,7 @@
       "variant": "level_up",
       "result": "kingambit",
       "consumeHeldItem": false,
-      "learnableMoves": [
-        "kowtowcleave"
-      ],
+      "learnableMoves": ["kowtowcleave"],
       "requirements": [
         {
           "variant": "defeat",

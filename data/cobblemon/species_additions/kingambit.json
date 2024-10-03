@@ -1,7 +1,7 @@
 {
   "target": "cobblemon:kingambit",
 
-  "baseScale":1.0,
+  "baseScale": 1.0,
   "hitbox": {
     "width": 2,
     "height": 3,
@@ -9,13 +9,13 @@
   },
 
   "behaviour": {
-      "moving": {
-        "canLook": true,
-        "walk": {
-          "walkSpeed": 0.3,
-          "canWalk": true,
-          "avoidsLand": false
-        },
+    "moving": {
+      "canLook": true,
+      "walk": {
+        "walkSpeed": 0.3,
+        "canWalk": true,
+        "avoidsLand": false
+      },
       "fly": {
         "canFly": false
       },

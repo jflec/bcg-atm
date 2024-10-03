@@ -16,7 +16,7 @@
       "poseTypes": ["STAND"],
       "isBattle": true,
       "animations": [
-       "q.look('neck', 1, 1, 45, -7.5, 7.5, -7.5)",
+        "q.look('neck', 1, 1, 45, -7.5, 7.5, -7.5)",
         "q.bedrock('groudonprimal', 'ground_idle')"
       ],
       "quirks": [
@@ -28,7 +28,7 @@
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
       "animations": [
-       "q.look('neck', 1, 1, 45, -7.5, 7.5, -7.5)",
+        "q.look('neck', 1, 1, 45, -7.5, 7.5, -7.5)",
         "q.bedrock('groudonprimal', 'ground_idle')"
       ],
       "quirks": [
@@ -39,23 +39,19 @@
     "walking": {
       "poseTypes": ["WALK"],
       "animations": [
-       "q.look('neck', 1, 1, 45, -7.5, 7.5, -7.5)",
+        "q.look('neck', 1, 1, 45, -7.5, 7.5, -7.5)",
         "q.bedrock('groudonprimal', 'ground_walk')"
       ],
       "quirks": ["q.bedrock_quirk('groudonprimal', 'blink')"]
     },
     "float": {
       "poseTypes": ["FLOAT"],
-      "animations": [
-        "q.bedrock('groudonprimal', 'ground_idle')"
-      ],
+      "animations": ["q.bedrock('groudonprimal', 'ground_idle')"],
       "quirks": ["q.bedrock_quirk('groudonprimal', 'blink')"]
     },
     "swim": {
       "poseTypes": ["SWIM"],
-      "animations": [
-        "q.bedrock('groudonprimal', 'ground_walk')"
-      ],
+      "animations": ["q.bedrock('groudonprimal', 'ground_walk')"],
       "quirks": ["q.bedrock_quirk('groudonprimal', 'blink')"]
     },
     "sleep": {

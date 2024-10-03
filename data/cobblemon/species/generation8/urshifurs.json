@@ -121,7 +121,7 @@
     "tm:closecombat",
     "tm:terablast"
   ],
-  "labels": ["custom"],
+  "labels": ["custom", "gen8"],
   "pokedex": [
     "it's believed that this Pokémon modeled its fighting style on the flow of a river—sometimes rapid, sometimes calm.",
     "The energy released by this Pokémon's fists forms shock waves that can blow away Dynamax Pokémon in just one hit."

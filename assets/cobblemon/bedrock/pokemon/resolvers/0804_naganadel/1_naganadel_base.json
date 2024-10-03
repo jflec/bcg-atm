@@ -10,9 +10,7 @@
       "layers": []
     },
     {
-      "aspects": [
-        "shiny"
-      ],
+      "aspects": ["shiny"],
       "texture": "cobblemon:textures/pokemon/0983_kingambit/naganadel_shiny.png"
     }
   ]

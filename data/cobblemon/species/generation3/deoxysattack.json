@@ -1,4 +1,5 @@
 {
+  "implemented": true,
   "name": "Deoxys-Attack",
   "nationalPokedexNumber": 3861,
   "primaryType": "psychic",
@@ -248,7 +249,7 @@
     "amount": 1,
     "entries": [
       {
-        "item": "minecraft:eye_of_ender"
+        "item": "minecraft:ender_eye"
       }
     ]
   }

@@ -1,45 +1,35 @@
 {
-    "enabled": true,
-    "neededInstalledMods": [],
-    "neededUninstalledMods": [],
-    "spawns": [
-        {
-            "id": "poipole-1",
-            "pokemon": "poipole",
-			"presets": [
-                "natural"
-            ],
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "rare",
-            "level": "48-60",
-            "weight": 5.8,
-            "condition": {
-                "canSeeSky": true,
-                "biomes": [
-                    "ad_astra:lunar_wastelands"
-					]
-			}
-        },
-        {
-            "id": "poipole-2",
-            "pokemon": "poipole",
-			"presets": [
-                "natural"
-            ],
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "ultra-rare",
-            "level": "48-60",
-            "weight": 0.08,
-            "condition": {
-                "biomes": [
-                    "#minecraft:is_end"
-                ],
-            "neededNearbyBlocks": [
-                    "minecraft:purpur_block"
-					]
-			}
-		}
-	]
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "poipole-1",
+      "pokemon": "poipole",
+      "presets": ["natural"],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "48-60",
+      "weight": 5.8,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": ["ad_astra:lunar_wastelands"]
+      }
+    },
+    {
+      "id": "poipole-2",
+      "pokemon": "poipole",
+      "presets": ["natural"],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "48-60",
+      "weight": 0.08,
+      "condition": {
+        "biomes": ["#minecraft:is_end"],
+        "neededNearbyBlocks": ["minecraft:purpur_block"]
+      }
+    }
+  ]
 }

@@ -91,7 +91,7 @@
     "tm:bugbuzz",
     "tm:terablast"
   ],
-  "labels": ["custom"],
+  "labels": ["custom", "gen9"],
   "pokedex": ["cobblemon.species.lokix.desc"],
 
   "baseScale": 0.65,

@@ -42,7 +42,7 @@
     "100:icepunch",
     "100:outrage"
   ],
-  "labels": ["gen7"],
+  "labels": ["gen7", "ultra_beast"],
   "pokedex": ["cobblemon.species.buzzwole.desc"],
   "preEvolution": null,
   "evolutions": [],

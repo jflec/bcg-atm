@@ -8,12 +8,12 @@
       "model": "cobblemon:xurkitree.geo",
       "texture": "cobblemon:textures/pokemon/0796_xurkitree/xurkitree.png",
       "layers": [
-	  {
-			"name": "glow",
-			"texture": "cobblemon:textures/pokemon/0796_xurkitree/xurkitree_emissive.png",
-			"emissive": true
-	  }
-	  ]
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0796_xurkitree/xurkitree_emissive.png",
+          "emissive": true
+        }
+      ]
     },
     {
       "aspects": ["shiny"],

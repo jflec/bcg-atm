@@ -16,7 +16,7 @@
       "poseTypes": ["STAND"],
       "isBattle": true,
       "animations": [
-       "q.look('head_ai', 1, 1, 20, -20, 25, -25)",
+        "q.look('head_ai', 1, 1, 20, -20, 25, -25)",
         "q.bedrock('kingambit', 'battle_idle')"
       ]
     },
@@ -24,28 +24,24 @@
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
       "animations": [
-       "q.look('head_ai', 1, 1, 20, -20, 25, -25)",
+        "q.look('head_ai', 1, 1, 20, -20, 25, -25)",
         "q.bedrock('kingambit', 'idle')"
       ]
     },
     "walking": {
       "poseTypes": ["WALK"],
       "animations": [
-       "q.look('head_ai', 1, 1, 20, -20, 25, -25)",
+        "q.look('head_ai', 1, 1, 20, -20, 25, -25)",
         "q.bedrock('kingambit', 'ground_walk')"
       ]
     },
     "float": {
       "poseTypes": ["FLOAT"],
-      "animations": [
-        "q.bedrock('kingambit', 'idle')"
-      ]
+      "animations": ["q.bedrock('kingambit', 'idle')"]
     },
     "swim": {
       "poseTypes": ["SWIM"],
-      "animations": [
-        "q.bedrock('kingambit', 'ground_walk')"
-      ]
+      "animations": ["q.bedrock('kingambit', 'ground_walk')"]
     },
     "sleep": {
       "poseTypes": ["SLEEP"],

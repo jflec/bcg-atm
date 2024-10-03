@@ -11,7 +11,7 @@
       "context": "submerged",
       "bucket": "ultra-rare",
       "level": "70-100",
-      "weight": 0.01,
+      "weight": 0.5,
       "condition": {
         "isRaining": true,
         "biomes": ["#cobblemon:is_deep_ocean"]

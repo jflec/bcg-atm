@@ -16,7 +16,7 @@
       "poseTypes": ["STAND"],
       "isBattle": true,
       "animations": [
-       "q.look('body_front', 1, -1, 17.5, -17.5, 20, -20)",
+        "q.look('body_front', 1, -1, 17.5, -17.5, 20, -20)",
         "q.bedrock('kyogreprimal', 'ground_idle')"
       ],
       "quirks": [
@@ -28,7 +28,7 @@
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
       "animations": [
-       "q.look('body_front', 1, -1, 17.5, -17.5, 20, -20)",
+        "q.look('body_front', 1, -1, 17.5, -17.5, 20, -20)",
         "q.bedrock('kyogreprimal', 'ground_idle')"
       ],
       "quirks": [
@@ -39,7 +39,7 @@
     "walking": {
       "poseTypes": ["WALK"],
       "animations": [
-       "q.look('body_front', 1, -1, 17.5, -17.5, 20, -20)",
+        "q.look('body_front', 1, -1, 17.5, -17.5, 20, -20)",
         "q.bedrock('kyogreprimal', 'ground_walk')"
       ],
       "quirks": ["q.bedrock_quirk('kyogreprimal', 'blink')"]
@@ -47,7 +47,7 @@
     "float": {
       "poseTypes": ["FLOAT"],
       "animations": [
-       "q.look('body_front', 1, -1, 17.5, -17.5, 20, -20)",
+        "q.look('body_front', 1, -1, 17.5, -17.5, 20, -20)",
         "q.bedrock('kyogreprimal', 'water_idle')"
       ],
       "quirks": ["q.bedrock_quirk('kyogreprimal', 'blink')"]
@@ -55,7 +55,7 @@
     "swim": {
       "poseTypes": ["SWIM"],
       "animations": [
-       "q.look('body_front', 1, -1, 17.5, -17.5, 20, -20)",
+        "q.look('body_front', 1, -1, 17.5, -17.5, 20, -20)",
         "q.bedrock('kyogreprimal', 'water_swim')"
       ],
       "quirks": ["q.bedrock_quirk('kyogreprimal', 'blink')"]
