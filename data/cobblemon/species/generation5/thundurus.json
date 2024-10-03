@@ -200,7 +200,13 @@
       "height": 30,
       "weight": 610,
       "cannotDynamax": false,
-      "battleOnly": false
+      "battleOnly": false,
+      "baseScale": 1,
+      "hitbox": {
+        "width": 1,
+        "height": 1,
+        "fixed": false
+      }
     }
   ],
   "aspects": [],
