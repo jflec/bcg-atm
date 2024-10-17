@@ -430,7 +430,26 @@
   ],
   "labels": ["gen8", "legendary"],
   "pokedex": ["cobblemon.species.calyrex.desc"],
-  "evolutions": [],
+  "evolutions": [
+    {
+      "id":"shadow",
+      "variant": "item_interact",
+      "result":"calyrex shadow",
+      "consumeHeldItem": false,
+      "learnableMoves":[],
+      "requirements":[],
+    "requiredContext": "cobblemon:ice_stone"
+    },
+    {
+      "id":"ice",
+      "variant": "item_interact",
+      "result":"calyrex ice",
+      "consumeHeldItem": false,
+      "learnableMoves":[],
+      "requirements":[],
+    "requiredContext": "cobblemon:dusk_stone"
+    }
+  ],
   "baseScale": 1,
   "hitbox": {
     "width": 1,
